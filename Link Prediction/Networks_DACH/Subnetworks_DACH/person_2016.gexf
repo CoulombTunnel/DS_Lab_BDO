@@ -1,0 +1,3245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-23">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Common Attributes" type="string" />
+      <attribute id="1" title="Weight" type="double" />
+      <attribute id="2" title="Label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="bayer ag" label="bayer ag" />
+      <node id="siemens ag" label="siemens ag" />
+      <node id="evotec se" label="evotec se" />
+      <node id="continental ag" label="continental ag" />
+      <node id="daimler ag" label="daimler ag" />
+      <node id="lonza group ag" label="lonza group ag" />
+      <node id="henkel ag &amp; co kgaa" label="henkel ag &amp; co kgaa" />
+      <node id="covestro ag" label="covestro ag" />
+      <node id="prosiebensat 1 media se" label="prosiebensat 1 media se" />
+      <node id="abb ltd" label="abb ltd" />
+      <node id="e.on se" label="e.on se" />
+      <node id="ubs group ag" label="ubs group ag" />
+      <node id="fresenius medical care ag &amp; co kgaa" label="fresenius medical care ag &amp; co kgaa" />
+      <node id="verbund ag" label="verbund ag" />
+      <node id="deutsche lufthansa ag" label="deutsche lufthansa ag" />
+      <node id="lanxess ag" label="lanxess ag" />
+      <node id="bayerische motoren werke ag" label="bayerische motoren werke ag" />
+      <node id="muenchener rueckversicherungs gesellschaft in muenchen ag" label="muenchener rueckversicherungs gesellschaft in muenchen ag" />
+      <node id="allianz se" label="allianz se" />
+      <node id="infineon technologies ag" label="infineon technologies ag" />
+      <node id="thyssenkrupp ag" label="thyssenkrupp ag" />
+      <node id="deutsche post ag" label="deutsche post ag" />
+      <node id="koninklijke dsm nv" label="koninklijke dsm nv" />
+      <node id="stmicroelectronics nv" label="stmicroelectronics nv" />
+      <node id="zurich insurance group ag" label="zurich insurance group ag" />
+      <node id="novartis ag" label="novartis ag" />
+      <node id="symrise ag" label="symrise ag" />
+      <node id="holcim ag" label="holcim ag" />
+      <node id="heidelbergcement ag" label="heidelbergcement ag" />
+      <node id="knorr bremse ag" label="knorr bremse ag" />
+      <node id="rheinmetall ag" label="rheinmetall ag" />
+      <node id="rwe ag" label="rwe ag" />
+      <node id="sartorius ag" label="sartorius ag" />
+      <node id="uniper se" label="uniper se" />
+      <node id="fuchs petrolub se" label="fuchs petrolub se" />
+      <node id="tui ag" label="tui ag" />
+      <node id="gea group ag" label="gea group ag" />
+      <node id="vonovia se" label="vonovia se" />
+      <node id="carl zeiss meditec ag" label="carl zeiss meditec ag" />
+      <node id="baloise holding ag" label="baloise holding ag" />
+      <node id="omv ag" label="omv ag" />
+      <node id="bechtle ag" label="bechtle ag" />
+      <node id="credit suisse group ag" label="credit suisse group ag" />
+      <node id="kion group ag" label="kion group ag" />
+      <node id="scout24 ag" label="scout24 ag" />
+      <node id="clariant ag" label="clariant ag" />
+      <node id="wienerberger ag" label="wienerberger ag" />
+      <node id="volkswagen ag" label="volkswagen ag" />
+      <node id="raiffeisen bank international ag" label="raiffeisen bank international ag" />
+      <node id="beiersdorf ag" label="beiersdorf ag" />
+      <node id="partners group holding ag" label="partners group holding ag" />
+      <node id="siegfried holding ag" label="siegfried holding ag" />
+      <node id="sgs sa" label="sgs sa" />
+      <node id="adidas ag" label="adidas ag" />
+      <node id="flughafen zuerich ag" label="flughafen zuerich ag" />
+      <node id="deutsche telekom ag" label="deutsche telekom ag" />
+      <node id="brenntag se" label="brenntag se" />
+      <node id="temenos ag" label="temenos ag" />
+      <node id="vifor pharma ag" label="vifor pharma ag" />
+      <node id="deutsche bank ag" label="deutsche bank ag" />
+      <node id="givaudan sa" label="givaudan sa" />
+      <node id="compagnie financiere richemont sa" label="compagnie financiere richemont sa" />
+      <node id="barry callebaut ag" label="barry callebaut ag" />
+      <node id="voestalpine ag" label="voestalpine ag" />
+      <node id="iwg plc" label="iwg plc" />
+      <node id="swiss re ag" label="swiss re ag" />
+      <node id="coca cola hbc ag" label="coca cola hbc ag" />
+      <node id="adecco group ag" label="adecco group ag" />
+      <node id="logitech international sa" label="logitech international sa" />
+      <node id="nestle sa" label="nestle sa" />
+      <node id="commerzbank ag" label="commerzbank ag" />
+      <node id="sap se" label="sap se" />
+      <node id="geberit ag" label="geberit ag" />
+      <node id="roche holding ag" label="roche holding ag" />
+      <node id="bucher industries ag" label="bucher industries ag" />
+      <node id="alstria office reit ag" label="alstria office reit ag" />
+      <node id="gerresheimer ag" label="gerresheimer ag" />
+      <node id="erste group bank ag" label="erste group bank ag" />
+      <node id="andritz ag" label="andritz ag" />
+      <node id="deutsche boerse ag" label="deutsche boerse ag" />
+      <node id="merck kgaa" label="merck kgaa" />
+      <node id="glencore plc" label="glencore plc" />
+      <node id="dufry ag" label="dufry ag" />
+      <node id="cts eventim ag &amp; co kgaa" label="cts eventim ag &amp; co kgaa" />
+      <node id="allreal holding ag" label="allreal holding ag" />
+    </nodes>
+    <edges>
+      <edge source="bayer ag" target="siemens ag" id="0">
+        <attvalues>
+          <attvalue for="0" value="werner wenning" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="evotec se" id="1">
+        <attvalues>
+          <attvalue for="0" value="wolfgang plischke" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="continental ag" id="2">
+        <attvalues>
+          <attvalue for="0" value="peter hausmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="daimler ag" id="3">
+        <attvalues>
+          <attvalue for="0" value="paul achleitner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="lonza group ag" id="4">
+        <attvalues>
+          <attvalue for="0" value="thomas ebeling" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="henkel ag &amp; co kgaa" id="5">
+        <attvalues>
+          <attvalue for="0" value="paul achleitner, werner wenning, peter hausmann" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="covestro ag" id="6">
+        <attvalues>
+          <attvalue for="0" value="thomas fischer, patrick thomas, peter hausmann" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="prosiebensat 1 media se" id="7">
+        <attvalues>
+          <attvalue for="0" value="angela merkel, thomas ebeling" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="abb ltd" id="8">
+        <attvalues>
+          <attvalue for="0" value="angela merkel" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayer ag" target="e.on se" id="9">
+        <attvalues>
+          <attvalue for="0" value="werner wenning" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="ubs group ag" id="10">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="fresenius medical care ag &amp; co kgaa" id="11">
+        <attvalues>
+          <attvalue for="0" value="michael diekmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="verbund ag" id="12">
+        <attvalues>
+          <attvalue for="0" value="michael süß" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="henkel ag &amp; co kgaa" id="13">
+        <attvalues>
+          <attvalue for="0" value="barbara kux, norbert reithofer, werner wenning" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="deutsche lufthansa ag" id="14">
+        <attvalues>
+          <attvalue for="0" value="nicola leibinger-kammüller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="lanxess ag" id="15">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="e.on se" id="16">
+        <attvalues>
+          <attvalue for="0" value="werner wenning" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="bayerische motoren werke ag" id="17">
+        <attvalues>
+          <attvalue for="0" value="norbert reithofer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="muenchener rueckversicherungs gesellschaft in muenchen ag" id="18">
+        <attvalues>
+          <attvalue for="0" value="peter gruss" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="allianz se" id="19">
+        <attvalues>
+          <attvalue for="0" value="michael diekmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="infineon technologies ag" id="20">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="siemens ag" target="thyssenkrupp ag" id="21">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="evotec se" target="deutsche post ag" id="22">
+        <attvalues>
+          <attvalue for="0" value="roland oetker" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="symrise ag" id="23">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="holcim ag" id="24">
+        <attvalues>
+          <attvalue for="0" value="wolfgang reitzle" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="heidelbergcement ag" id="25">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="knorr bremse ag" id="26">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="rheinmetall ag" id="27">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="henkel ag &amp; co kgaa" id="28">
+        <attvalues>
+          <attvalue for="0" value="peter hausmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="covestro ag" id="29">
+        <attvalues>
+          <attvalue for="0" value="peter hausmann, rolf nonnenmacher" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="prosiebensat 1 media se" id="30">
+        <attvalues>
+          <attvalue for="0" value="rolf nonnenmacher" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="deutsche lufthansa ag" id="31">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="rwe ag" id="32">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="sartorius ag" id="33">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="uniper se" id="34">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="e.on se" id="35">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="fuchs petrolub se" id="36">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="tui ag" id="37">
+        <attvalues>
+          <attvalue for="0" value="klaus mangold" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="gea group ag" id="38">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="infineon technologies ag" id="39">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="thyssenkrupp ag" id="40">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="deutsche post ag" id="41">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="vonovia se" id="42">
+        <attvalues>
+          <attvalue for="0" value="ariane reinhart, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="continental ag" target="carl zeiss meditec ag" id="43">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="omv ag" id="44">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="bechtle ag" id="45">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="knorr bremse ag" id="46">
+        <attvalues>
+          <attvalue for="0" value="euro pean, naberezhnye chelny" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="credit suisse group ag" id="47">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="kion group ag" id="48">
+        <attvalues>
+          <attvalue for="0" value="sverige ab malmö" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="scout24 ag" id="49">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="rheinmetall ag" id="50">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="henkel ag &amp; co kgaa" id="51">
+        <attvalues>
+          <attvalue for="0" value="paul achleitner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="clariant ag" id="52">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="wienerberger ag" id="53">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="volkswagen ag" id="54">
+        <attvalues>
+          <attvalue for="0" value="jörg hofmann, christine hohmann-dennhardt, euro pean, andreas renschler" />
+          <attvalue for="1" value="0.12322791712104686" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="uniper se" id="55">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="e.on se" id="56">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="fuchs petrolub se" id="57">
+        <attvalues>
+          <attvalue for="0" value="jürgen hambrecht" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="raiffeisen bank international ag" id="58">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="muenchener rueckversicherungs gesellschaft in muenchen ag" id="59">
+        <attvalues>
+          <attvalue for="0" value="bernd pischetsrieder" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="allianz se" id="60">
+        <attvalues>
+          <attvalue for="0" value="euro pean, jürgen hambrecht" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="daimler ag" target="beiersdorf ag" id="61">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lonza group ag" target="givaudan sa" id="62">
+        <attvalues>
+          <attvalue for="0" value="werner bauer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lonza group ag" target="logitech international sa" id="63">
+        <attvalues>
+          <attvalue for="0" value="patrick aebischer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lonza group ag" target="prosiebensat 1 media se" id="64">
+        <attvalues>
+          <attvalue for="0" value="thomas ebeling" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lonza group ag" target="nestle sa" id="65">
+        <attvalues>
+          <attvalue for="0" value="patrick aebischer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lonza group ag" target="gea group ag" id="66">
+        <attvalues>
+          <attvalue for="0" value="werner bauer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="deutsche telekom ag" id="67">
+        <attvalues>
+          <attvalue for="0" value="michael kaschke, ulrich lehner" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="bechtle ag" id="68">
+        <attvalues>
+          <attvalue for="0" value="claudia kempf" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="gerresheimer ag" id="69">
+        <attvalues>
+          <attvalue for="0" value="claudia kempf" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="covestro ag" id="70">
+        <attvalues>
+          <attvalue for="0" value="peter hausmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="merck kgaa" id="71">
+        <attvalues>
+          <attvalue for="0" value="theo siegert" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="novartis ag" id="72">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="e.on se" id="73">
+        <attvalues>
+          <attvalue for="0" value="theo siegert, ulrich lehner, werner wenning" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="bayerische motoren werke ag" id="74">
+        <attvalues>
+          <attvalue for="0" value="norbert reithofer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="thyssenkrupp ag" id="75">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="henkel ag &amp; co kgaa" target="carl zeiss meditec ag" id="76">
+        <attvalues>
+          <attvalue for="0" value="michael kaschke" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="prosiebensat 1 media se" id="77">
+        <attvalues>
+          <attvalue for="0" value="rolf nonnenmacher" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="abb ltd" id="78">
+        <attvalues>
+          <attvalue for="0" value="andré borschberg, bertrand piccard" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="uniper se" id="79">
+        <attvalues>
+          <attvalue for="0" value="klaus schäfer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="e.on se" id="80">
+        <attvalues>
+          <attvalue for="0" value="klaus schäfer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="bayerische motoren werke ag" id="81">
+        <attvalues>
+          <attvalue for="0" value="frankfurter wertpapierbörse" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="covestro ag" target="adidas ag" id="82">
+        <attvalues>
+          <attvalue for="0" value="markt bibart" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="prosiebensat 1 media se" target="abb ltd" id="83">
+        <attvalues>
+          <attvalue for="0" value="angela merkel" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="prosiebensat 1 media se" target="uniper se" id="84">
+        <attvalues>
+          <attvalue for="0" value="marion helmes" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="prosiebensat 1 media se" target="bayerische motoren werke ag" id="85">
+        <attvalues>
+          <attvalue for="0" value="john cooper" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="prosiebensat 1 media se" target="tui ag" id="86">
+        <attvalues>
+          <attvalue for="0" value="angelika gifford" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="abb ltd" target="koninklijke dsm nv" id="87">
+        <attvalues>
+          <attvalue for="0" value="barack obama" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="abb ltd" target="novartis ag" id="88">
+        <attvalues>
+          <attvalue for="0" value="barack obama" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="symrise ag" id="89">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="deutsche telekom ag" id="90">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="heidelbergcement ag" id="91">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="bechtle ag" id="92">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="knorr bremse ag" id="93">
+        <attvalues>
+          <attvalue for="0" value="euro pean, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="credit suisse group ag" id="94">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="scout24 ag" id="95">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="rheinmetall ag" id="96">
+        <attvalues>
+          <attvalue for="0" value="euro pean, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="verbund ag" id="97">
+        <attvalues>
+          <attvalue for="0" value="chartder vielfalt" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="clariant ag" id="98">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="wienerberger ag" id="99">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="volkswagen ag" id="100">
+        <attvalues>
+          <attvalue for="0" value="euro pean, mladá boleslav" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="deutsche lufthansa ag" id="101">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="rwe ag" id="102">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="sartorius ag" id="103">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="uniper se" id="104">
+        <attvalues>
+          <attvalue for="0" value="saintavold creutzwald, markus dittmann, andreas scheidt, euro pean, klaus heubeck, eckhardt rümmler, christopher delbrück, klaus schäfer" />
+          <attvalue for="1" value="0.2497273718647764" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="merck kgaa" id="105">
+        <attvalues>
+          <attvalue for="0" value="theo siegert" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="novartis ag" id="106">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="fuchs petrolub se" id="107">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="gea group ag" id="108">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="allianz se" id="109">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="infineon technologies ag" id="110">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="thyssenkrupp ag" id="111">
+        <attvalues>
+          <attvalue for="0" value="rené obermann, klaus heubeck, ulrich lehner" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="deutsche post ag" id="112">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="vonovia se" id="113">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="e.on se" target="carl zeiss meditec ag" id="114">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="deutsche bank ag" id="115">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="heidelbergcement ag" id="116">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="compagnie financiere richemont sa" id="117">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="credit suisse group ag" id="118">
+        <attvalues>
+          <attvalue for="0" value="lehman brors" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="voestalpine ag" id="119">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="rheinmetall ag" id="120">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="wienerberger ag" id="121">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="zurich insurance group ag" id="122">
+        <attvalues>
+          <attvalue for="0" value="oliver wyman" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="lanxess ag" id="123">
+        <attvalues>
+          <attvalue for="0" value="ihs markit, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="allianz se" id="124">
+        <attvalues>
+          <attvalue for="0" value="dieter wemmer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="infineon technologies ag" id="125">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="thyssenkrupp ag" id="126">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="vonovia se" id="127">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="adidas ag" id="128">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="ubs group ag" target="beiersdorf ag" id="129">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fresenius medical care ag &amp; co kgaa" target="deutsche lufthansa ag" id="130">
+        <attvalues>
+          <attvalue for="0" value="stephan sturm" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fresenius medical care ag &amp; co kgaa" target="nestle sa" id="131">
+        <attvalues>
+          <attvalue for="0" value="ulf mark schneider" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fresenius medical care ag &amp; co kgaa" target="deutsche boerse ag" id="132">
+        <attvalues>
+          <attvalue for="0" value="gerhard roggemann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fresenius medical care ag &amp; co kgaa" target="commerzbank ag" id="133">
+        <attvalues>
+          <attvalue for="0" value="klaus-peter müller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fresenius medical care ag &amp; co kgaa" target="allianz se" id="134">
+        <attvalues>
+          <attvalue for="0" value="michael diekmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="verbund ag" target="bechtle ag" id="135">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="verbund ag" target="sartorius ag" id="136">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="verbund ag" target="erste group bank ag" id="137">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="verbund ag" target="andritz ag" id="138">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="symrise ag" id="139">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="heidelbergcement ag" id="140">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="logitech international sa" id="141">
+        <attvalues>
+          <attvalue for="0" value="monika ribar" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="knorr bremse ag" id="142">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, andreas pohlmann" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="rheinmetall ag" id="143">
+        <attvalues>
+          <attvalue for="0" value="matthias wissmann, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="rwe ag" id="144">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="sartorius ag" id="145">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="uniper se" id="146">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="merck kgaa" id="147">
+        <attvalues>
+          <attvalue for="0" value="karl-ludwig kley" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="bayerische motoren werke ag" id="148">
+        <attvalues>
+          <attvalue for="0" value="karl-ludwig kley, wolfgang mayrhuber" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="fuchs petrolub se" id="149">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="gea group ag" id="150">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="muenchener rueckversicherungs gesellschaft in muenchen ag" id="151">
+        <attvalues>
+          <attvalue for="0" value="andreas pohlmann, wolfgang mayrhuber" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="allianz se" id="152">
+        <attvalues>
+          <attvalue for="0" value="andreas pohlmann, herbert hainer" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="infineon technologies ag" id="153">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, wolfgang mayrhuber" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="thyssenkrupp ag" id="154">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="deutsche post ag" id="155">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, simone menne" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="vonovia se" id="156">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="adidas ag" id="157">
+        <attvalues>
+          <attvalue for="0" value="herbert hainer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche lufthansa ag" target="carl zeiss meditec ag" id="158">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="deutsche telekom ag" id="159">
+        <attvalues>
+          <attvalue for="0" value="claudia nemat" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="deutsche bank ag" id="160">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="heidelbergcement ag" id="161">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="alstria office reit ag" id="162">
+        <attvalues>
+          <attvalue for="0" value="bernhard düttmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="compagnie financiere richemont sa" id="163">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="voestalpine ag" id="164">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="rheinmetall ag" id="165">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="wienerberger ag" id="166">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="volkswagen ag" id="167">
+        <attvalues>
+          <attvalue for="0" value="bentley continental" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="merck kgaa" id="168">
+        <attvalues>
+          <attvalue for="0" value="matthias zachert" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="infineon technologies ag" id="169">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="thyssenkrupp ag" id="170">
+        <attvalues>
+          <attvalue for="0" value="ihs markit" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="vonovia se" id="171">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="adidas ag" id="172">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="lanxess ag" target="beiersdorf ag" id="173">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayerische motoren werke ag" target="merck kgaa" id="174">
+        <attvalues>
+          <attvalue for="0" value="karl-ludwig kley" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayerische motoren werke ag" target="muenchener rueckversicherungs gesellschaft in muenchen ag" id="175">
+        <attvalues>
+          <attvalue for="0" value="wolfgang mayrhuber" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bayerische motoren werke ag" target="infineon technologies ag" id="176">
+        <attvalues>
+          <attvalue for="0" value="wolfgang mayrhuber" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="muenchener rueckversicherungs gesellschaft in muenchen ag" target="knorr bremse ag" id="177">
+        <attvalues>
+          <attvalue for="0" value="andreas pohlmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="muenchener rueckversicherungs gesellschaft in muenchen ag" target="allianz se" id="178">
+        <attvalues>
+          <attvalue for="0" value="andreas pohlmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="muenchener rueckversicherungs gesellschaft in muenchen ag" target="infineon technologies ag" id="179">
+        <attvalues>
+          <attvalue for="0" value="wolfgang mayrhuber" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="deutsche telekom ag" id="180">
+        <attvalues>
+          <attvalue for="0" value="helga jung" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="sap se" id="181">
+        <attvalues>
+          <attvalue for="0" value="jim hagemann, jim hagemann snabe" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="bechtle ag" id="182">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="knorr bremse ag" id="183">
+        <attvalues>
+          <attvalue for="0" value="euro pean, andreas pohlmann" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="credit suisse group ag" id="184">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="scout24 ag" id="185">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="rheinmetall ag" id="186">
+        <attvalues>
+          <attvalue for="0" value="euler hermes, euro pean" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="clariant ag" id="187">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="wienerberger ag" id="188">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="volkswagen ag" id="189">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="uniper se" id="190">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="commerzbank ag" id="191">
+        <attvalues>
+          <attvalue for="0" value="helmut perlet, euler hermes" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="fuchs petrolub se" id="192">
+        <attvalues>
+          <attvalue for="0" value="jürgen hambrecht" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="gea group ag" id="193">
+        <attvalues>
+          <attvalue for="0" value="helmut perlet, euler hermes" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="adidas ag" id="194">
+        <attvalues>
+          <attvalue for="0" value="herbert hainer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="allianz se" target="andritz ag" id="195">
+        <attvalues>
+          <attvalue for="0" value="peter rigaud" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="symrise ag" id="196">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="heidelbergcement ag" id="197">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="knorr bremse ag" id="198">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="rheinmetall ag" id="199">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="volkswagen ag" id="200">
+        <attvalues>
+          <attvalue for="0" value="herbert diess" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="rwe ag" id="201">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="sartorius ag" id="202">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="uniper se" id="203">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="fuchs petrolub se" id="204">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="gea group ag" id="205">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="thyssenkrupp ag" id="206">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, ihs markit" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="deutsche post ag" id="207">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="vonovia se" id="208">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="infineon technologies ag" target="carl zeiss meditec ag" id="209">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="symrise ag" id="210">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="deutsche telekom ag" id="211">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="heidelbergcement ag" id="212">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="knorr bremse ag" id="213">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="rheinmetall ag" id="214">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="volkswagen ag" id="215">
+        <attvalues>
+          <attvalue for="0" value="norbert winkeljohann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="rwe ag" id="216">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, hans-peter keitel" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="sartorius ag" id="217">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="uniper se" id="218">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="novartis ag" id="219">
+        <attvalues>
+          <attvalue for="0" value="ulrich lehner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="fuchs petrolub se" id="220">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="gea group ag" id="221">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="deutsche post ag" id="222">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="vonovia se" id="223">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="thyssenkrupp ag" target="carl zeiss meditec ag" id="224">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="symrise ag" id="225">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="heidelbergcement ag" id="226">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="givaudan sa" id="227">
+        <attvalues>
+          <attvalue for="0" value="ingrid deltenre" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="knorr bremse ag" id="228">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="rheinmetall ag" id="229">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="rwe ag" id="230">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="sartorius ag" id="231">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="uniper se" id="232">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="fuchs petrolub se" id="233">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="gea group ag" id="234">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="vonovia se" id="235">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche post ag" target="carl zeiss meditec ag" id="236">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="koninklijke dsm nv" target="stmicroelectronics nv" id="237">
+        <attvalues>
+          <attvalue for="0" value="van lanschot" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="koninklijke dsm nv" target="zurich insurance group ag" id="238">
+        <attvalues>
+          <attvalue for="0" value="van lanschot" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="koninklijke dsm nv" target="novartis ag" id="239">
+        <attvalues>
+          <attvalue for="0" value="barack obama" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="stmicroelectronics nv" target="zurich insurance group ag" id="240">
+        <attvalues>
+          <attvalue for="0" value="mike foley, van lanschot" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="stmicroelectronics nv" target="tui ag" id="241">
+        <attvalues>
+          <attvalue for="0" value="hewlett packard" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="stmicroelectronics nv" target="adidas ag" id="242">
+        <attvalues>
+          <attvalue for="0" value="hewlett packard" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="zurich insurance group ag" target="baloise holding ag" id="243">
+        <attvalues>
+          <attvalue for="0" value="peat marwick mitchell" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="zurich insurance group ag" target="coca cola hbc ag" id="244">
+        <attvalues>
+          <attvalue for="0" value="booz allen hamilton" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="zurich insurance group ag" target="glencore plc" id="245">
+        <attvalues>
+          <attvalue for="0" value="donaldson lufkin jenrette" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="zurich insurance group ag" target="roche holding ag" id="246">
+        <attvalues>
+          <attvalue for="0" value="christoph franz" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="zurich insurance group ag" target="adidas ag" id="247">
+        <attvalues>
+          <attvalue for="0" value="sl madrid" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="novartis ag" target="deutsche telekom ag" id="248">
+        <attvalues>
+          <attvalue for="0" value="tmobile us, ulrich lehner" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="novartis ag" target="credit suisse group ag" id="249">
+        <attvalues>
+          <attvalue for="0" value="lenz staehelin" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="baloise holding ag" id="250">
+        <attvalues>
+          <attvalue for="0" value="michael becker" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="heidelbergcement ag" id="251">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="knorr bremse ag" id="252">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="rheinmetall ag" id="253">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="rwe ag" id="254">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="sartorius ag" id="255">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="uniper se" id="256">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="fuchs petrolub se" id="257">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="gea group ag" id="258">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="vonovia se" id="259">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="symrise ag" target="carl zeiss meditec ag" id="260">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="holcim ag" target="sgs sa" id="261">
+        <attvalues>
+          <attvalue for="0" value="gérard lamarche, groupe bruxelles lambert, paul desmarais" />
+          <attvalue for="1" value="0.09160305343511448" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="holcim ag" target="credit suisse group ag" id="262">
+        <attvalues>
+          <attvalue for="0" value="alexander gut" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="holcim ag" target="gea group ag" id="263">
+        <attvalues>
+          <attvalue for="0" value="jürg oleas" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="holcim ag" target="adecco group ag" id="264">
+        <attvalues>
+          <attvalue for="0" value="alexander gut" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="holcim ag" target="adidas ag" id="265">
+        <attvalues>
+          <attvalue for="0" value="groupe bruxelles lambert" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="deutsche bank ag" id="266">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="compagnie financiere richemont sa" id="267">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="knorr bremse ag" id="268">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="voestalpine ag" id="269">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="rheinmetall ag" id="270">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="wienerberger ag" id="271">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="volkswagen ag" id="272">
+        <attvalues>
+          <attvalue for="0" value="matthias müller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="rwe ag" id="273">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="sartorius ag" id="274">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="uniper se" id="275">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="fuchs petrolub se" id="276">
+        <attvalues>
+          <attvalue for="0" value="matthias müller, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="gea group ag" id="277">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="vonovia se" id="278">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="adidas ag" id="279">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="beiersdorf ag" id="280">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="heidelbergcement ag" target="carl zeiss meditec ag" id="281">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="bechtle ag" id="282">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="credit suisse group ag" id="283">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="scout24 ag" id="284">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="rheinmetall ag" id="285">
+        <attvalues>
+          <attvalue for="0" value="euro pean, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="clariant ag" id="286">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="wienerberger ag" id="287">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="volkswagen ag" id="288">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="rwe ag" id="289">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="sartorius ag" id="290">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="uniper se" id="291">
+        <attvalues>
+          <attvalue for="0" value="euro pean, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="fuchs petrolub se" id="292">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="gea group ag" id="293">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="vonovia se" id="294">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="knorr bremse ag" target="carl zeiss meditec ag" id="295">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="deutsche bank ag" id="296">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="bechtle ag" id="297">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="compagnie financiere richemont sa" id="298">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="credit suisse group ag" id="299">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="scout24 ag" id="300">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="voestalpine ag" id="301">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="clariant ag" id="302">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="wienerberger ag" id="303">
+        <attvalues>
+          <attvalue for="0" value="euro pean, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="volkswagen ag" id="304">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="rwe ag" id="305">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="sartorius ag" id="306">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="uniper se" id="307">
+        <attvalues>
+          <attvalue for="0" value="euro pean, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="commerzbank ag" id="308">
+        <attvalues>
+          <attvalue for="0" value="euler hermes, ulrich grillo" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="fuchs petrolub se" id="309">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="gea group ag" id="310">
+        <attvalues>
+          <attvalue for="0" value="euler hermes, klaus heubeck" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="vonovia se" id="311">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="adidas ag" id="312">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="beiersdorf ag" id="313">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rheinmetall ag" target="carl zeiss meditec ag" id="314">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="sartorius ag" id="315">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="uniper se" id="316">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="fuchs petrolub se" id="317">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="gea group ag" id="318">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="vonovia se" id="319">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, hildegard müller" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="rwe ag" target="carl zeiss meditec ag" id="320">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="bechtle ag" id="321">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="uniper se" id="322">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="fuchs petrolub se" id="323">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="gea group ag" id="324">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="erste group bank ag" id="325">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="cts eventim ag &amp; co kgaa" id="326">
+        <attvalues>
+          <attvalue for="0" value="oddo seydler" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="vonovia se" id="327">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="carl zeiss meditec ag" id="328">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="vifor pharma ag" id="329">
+        <attvalues>
+          <attvalue for="0" value="alfred nobel" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sartorius ag" target="andritz ag" id="330">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="bechtle ag" id="331">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="credit suisse group ag" id="332">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="scout24 ag" id="333">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="clariant ag" id="334">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="wienerberger ag" id="335">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="volkswagen ag" id="336">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="fuchs petrolub se" id="337">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="gea group ag" id="338">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="vonovia se" id="339">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="uniper se" target="carl zeiss meditec ag" id="340">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fuchs petrolub se" target="volkswagen ag" id="341">
+        <attvalues>
+          <attvalue for="0" value="matthias müller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fuchs petrolub se" target="gea group ag" id="342">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fuchs petrolub se" target="vonovia se" id="343">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="fuchs petrolub se" target="carl zeiss meditec ag" id="344">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="tui ag" target="vonovia se" id="345">
+        <attvalues>
+          <attvalue for="0" value="edgar ernst" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="tui ag" target="adidas ag" id="346">
+        <attvalues>
+          <attvalue for="0" value="hewlett packard" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="gea group ag" target="givaudan sa" id="347">
+        <attvalues>
+          <attvalue for="0" value="werner bauer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="gea group ag" target="commerzbank ag" id="348">
+        <attvalues>
+          <attvalue for="0" value="helmut perlet, euler hermes" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="gea group ag" target="geberit ag" id="349">
+        <attvalues>
+          <attvalue for="0" value="essener verband" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="gea group ag" target="vonovia se" id="350">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck, bochumer verband" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="gea group ag" target="carl zeiss meditec ag" id="351">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="deutsche bank ag" id="352">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="compagnie financiere richemont sa" id="353">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="voestalpine ag" id="354">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="wienerberger ag" id="355">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="adidas ag" id="356">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="beiersdorf ag" id="357">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="vonovia se" target="carl zeiss meditec ag" id="358">
+        <attvalues>
+          <attvalue for="0" value="klaus heubeck" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="carl zeiss meditec ag" target="deutsche telekom ag" id="359">
+        <attvalues>
+          <attvalue for="0" value="michael kaschke" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="carl zeiss meditec ag" target="adidas ag" id="360">
+        <attvalues>
+          <attvalue for="0" value="loans lar" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="baloise holding ag" target="flughafen zuerich ag" id="361">
+        <attvalues>
+          <attvalue for="0" value="thomas müller, eveline saupper" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="omv ag" target="commerzbank ag" id="362">
+        <attvalues>
+          <attvalue for="0" value="gertrude tumpel-gugerell" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="omv ag" target="raiffeisen bank international ag" id="363">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft, herbert stepic" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="omv ag" target="beiersdorf ag" id="364">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="gerresheimer ag" id="365">
+        <attvalues>
+          <attvalue for="0" value="claudia kempf" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="credit suisse group ag" id="366">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="scout24 ag" id="367">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="clariant ag" id="368">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="wienerberger ag" id="369">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="volkswagen ag" id="370">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="erste group bank ag" id="371">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="bechtle ag" target="andritz ag" id="372">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="deutsche bank ag" id="373">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="flughafen zuerich ag" id="374">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="givaudan sa" id="375">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="barry callebaut ag" id="376">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="scout24 ag" id="377">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="iwg plc" id="378">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="clariant ag" id="379">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="wienerberger ag" id="380">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="volkswagen ag" id="381">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="swiss re ag" id="382">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="nestle sa" id="383">
+        <attvalues>
+          <attvalue for="0" value="andreas koopmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="coca cola hbc ag" id="384">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="adecco group ag" id="385">
+        <attvalues>
+          <attvalue for="0" value="alexander gut" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="roche holding ag" id="386">
+        <attvalues>
+          <attvalue for="0" value="severin schwan" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="credit suisse group ag" target="vifor pharma ag" id="387">
+        <attvalues>
+          <attvalue for="0" value="romeo cerutti" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="scout24 ag" target="clariant ag" id="388">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="scout24 ag" target="wienerberger ag" id="389">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="scout24 ag" target="volkswagen ag" id="390">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="clariant ag" target="wienerberger ag" id="391">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="clariant ag" target="volkswagen ag" id="392">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="deutsche bank ag" id="393">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="compagnie financiere richemont sa" id="394">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="voestalpine ag" id="395">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="volkswagen ag" id="396">
+        <attvalues>
+          <attvalue for="0" value="euro pean" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="erste group bank ag" id="397">
+        <attvalues>
+          <attvalue for="0" value="wilhelm rasinger" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="adidas ag" id="398">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="wienerberger ag" target="beiersdorf ag" id="399">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="volkswagen ag" target="merck kgaa" id="400">
+        <attvalues>
+          <attvalue for="0" value="hartmut nägele" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="volkswagen ag" target="andritz ag" id="401">
+        <attvalues>
+          <attvalue for="0" value="hartmut nägele" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="raiffeisen bank international ag" target="voestalpine ag" id="402">
+        <attvalues>
+          <attvalue for="0" value="heinrich schaller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="raiffeisen bank international ag" target="beiersdorf ag" id="403">
+        <attvalues>
+          <attvalue for="0" value="kereskedelmi kft" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="beiersdorf ag" target="deutsche bank ag" id="404">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="beiersdorf ag" target="compagnie financiere richemont sa" id="405">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="beiersdorf ag" target="voestalpine ag" id="406">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="beiersdorf ag" target="adidas ag" id="407">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="partners group holding ag" target="siegfried holding ag" id="408">
+        <attvalues>
+          <attvalue for="0" value="niederer kraft frey" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sgs sa" target="adidas ag" id="409">
+        <attvalues>
+          <attvalue for="0" value="ian gallienne, groupe bruxelles lambert" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="adidas ag" target="deutsche bank ag" id="410">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="adidas ag" target="compagnie financiere richemont sa" id="411">
+        <attvalues>
+          <attvalue for="0" value="arthur young, donald trump" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="adidas ag" target="voestalpine ag" id="412">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="deutsche bank ag" id="413">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="givaudan sa" id="414">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="barry callebaut ag" id="415">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen, andreas schmid" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="iwg plc" id="416">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="swiss re ag" id="417">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="flughafen zuerich ag" target="coca cola hbc ag" id="418">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche telekom ag" target="brenntag se" id="419">
+        <attvalues>
+          <attvalue for="0" value="thomas tandetzki" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="temenos ag" target="vifor pharma ag" id="420">
+        <attvalues>
+          <attvalue for="0" value="rosmarie ebner" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="givaudan sa" id="421">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="compagnie financiere richemont sa" id="422">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="barry callebaut ag" id="423">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="voestalpine ag" id="424">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="iwg plc" id="425">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="swiss re ag" id="426">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="deutsche bank ag" target="coca cola hbc ag" id="427">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="givaudan sa" target="barry callebaut ag" id="428">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="givaudan sa" target="iwg plc" id="429">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="givaudan sa" target="swiss re ag" id="430">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen, peter wullschleger" />
+          <attvalue for="1" value="0.0599781897491821" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="givaudan sa" target="coca cola hbc ag" id="431">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="givaudan sa" target="roche holding ag" id="432">
+        <attvalues>
+          <attvalue for="0" value="andré hoffmann" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="compagnie financiere richemont sa" target="voestalpine ag" id="433">
+        <attvalues>
+          <attvalue for="0" value="donald trump" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="barry callebaut ag" target="iwg plc" id="434">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="barry callebaut ag" target="swiss re ag" id="435">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="barry callebaut ag" target="coca cola hbc ag" id="436">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="iwg plc" target="swiss re ag" id="437">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="iwg plc" target="coca cola hbc ag" id="438">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="swiss re ag" target="dufry ag" id="439">
+        <attvalues>
+          <attvalue for="0" value="tommy hilfiger" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="swiss re ag" target="allreal holding ag" id="440">
+        <attvalues>
+          <attvalue for="0" value="lex koller" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="swiss re ag" target="coca cola hbc ag" id="441">
+        <attvalues>
+          <attvalue for="0" value="arthur andersen" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="logitech international sa" target="nestle sa" id="442">
+        <attvalues>
+          <attvalue for="0" value="patrick aebischer" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="nestle sa" target="roche holding ag" id="443">
+        <attvalues>
+          <attvalue for="0" value="paul bulcke" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="commerzbank ag" target="deutsche boerse ag" id="444">
+        <attvalues>
+          <attvalue for="0" value="karl-heinz flöther" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="sap se" target="geberit ag" id="445">
+        <attvalues>
+          <attvalue for="0" value="barry callebaut" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="roche holding ag" target="bucher industries ag" id="446">
+        <attvalues>
+          <attvalue for="0" value="anita hauser" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="erste group bank ag" target="andritz ag" id="447">
+        <attvalues>
+          <attvalue for="0" value="kepler cheuvreux" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+      <edge source="andritz ag" target="merck kgaa" id="448">
+        <attvalues>
+          <attvalue for="0" value="hartmut nägele" />
+          <attvalue for="1" value="0.028353326063249723" />
+          <attvalue for="2" value="person" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

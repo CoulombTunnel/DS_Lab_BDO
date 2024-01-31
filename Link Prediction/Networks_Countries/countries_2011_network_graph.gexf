@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="united kingdom" label="united kingdom" />
+      <node id="italy" label="italy" />
+      <node id="sweden" label="sweden" />
+      <node id="netherlands" label="netherlands" />
+      <node id="switzerland" label="switzerland" />
+      <node id="spain" label="spain" />
+      <node id="france" label="france" />
+      <node id="belgium" label="belgium" />
+      <node id="germany" label="germany" />
+      <node id="norway" label="norway" />
+      <node id="denmark" label="denmark" />
+      <node id="austria" label="austria" />
+      <node id="luxembourg" label="luxembourg" />
+      <node id="ireland" label="ireland" />
+      <node id="poland" label="poland" />
+      <node id="finland" label="finland" />
+      <node id="portugal" label="portugal" />
+      <node id="malta" label="malta" />
+      <node id="cyprus" label="cyprus" />
+    </nodes>
+    <edges>
+      <edge source="united kingdom" target="italy" id="0" weight="1508" />
+      <edge source="united kingdom" target="sweden" id="1" weight="2951" />
+      <edge source="united kingdom" target="netherlands" id="2" weight="2196" />
+      <edge source="united kingdom" target="switzerland" id="3" weight="4263" />
+      <edge source="united kingdom" target="spain" id="4" weight="1736" />
+      <edge source="united kingdom" target="france" id="5" weight="5133" />
+      <edge source="united kingdom" target="belgium" id="6" weight="1511" />
+      <edge source="united kingdom" target="germany" id="7" weight="4082" />
+      <edge source="united kingdom" target="norway" id="8" weight="1325" />
+      <edge source="united kingdom" target="denmark" id="9" weight="1807" />
+      <edge source="united kingdom" target="austria" id="10" weight="1106" />
+      <edge source="united kingdom" target="luxembourg" id="11" weight="832" />
+      <edge source="united kingdom" target="ireland" id="12" weight="2123" />
+      <edge source="united kingdom" target="poland" id="13" weight="555" />
+      <edge source="united kingdom" target="finland" id="14" weight="1111" />
+      <edge source="united kingdom" target="portugal" id="15" weight="286" />
+      <edge source="united kingdom" target="malta" id="16" weight="217" />
+      <edge source="united kingdom" target="cyprus" id="17" weight="223" />
+      <edge source="italy" target="sweden" id="18" weight="1016" />
+      <edge source="italy" target="netherlands" id="19" weight="831" />
+      <edge source="italy" target="switzerland" id="20" weight="1293" />
+      <edge source="italy" target="spain" id="21" weight="1068" />
+      <edge source="italy" target="france" id="22" weight="1563" />
+      <edge source="italy" target="belgium" id="23" weight="661" />
+      <edge source="italy" target="germany" id="24" weight="1398" />
+      <edge source="italy" target="norway" id="25" weight="639" />
+      <edge source="italy" target="denmark" id="26" weight="738" />
+      <edge source="italy" target="austria" id="27" weight="611" />
+      <edge source="italy" target="luxembourg" id="28" weight="458" />
+      <edge source="italy" target="ireland" id="29" weight="641" />
+      <edge source="italy" target="poland" id="30" weight="403" />
+      <edge source="italy" target="finland" id="31" weight="467" />
+      <edge source="italy" target="portugal" id="32" weight="171" />
+      <edge source="italy" target="malta" id="33" weight="135" />
+      <edge source="italy" target="cyprus" id="34" weight="95" />
+      <edge source="sweden" target="netherlands" id="35" weight="1194" />
+      <edge source="sweden" target="switzerland" id="36" weight="2352" />
+      <edge source="sweden" target="spain" id="37" weight="1094" />
+      <edge source="sweden" target="france" id="38" weight="2443" />
+      <edge source="sweden" target="belgium" id="39" weight="999" />
+      <edge source="sweden" target="germany" id="40" weight="2571" />
+      <edge source="sweden" target="norway" id="41" weight="1239" />
+      <edge source="sweden" target="denmark" id="42" weight="1335" />
+      <edge source="sweden" target="austria" id="43" weight="842" />
+      <edge source="sweden" target="luxembourg" id="44" weight="573" />
+      <edge source="sweden" target="ireland" id="45" weight="1005" />
+      <edge source="sweden" target="poland" id="46" weight="470" />
+      <edge source="sweden" target="finland" id="47" weight="1022" />
+      <edge source="sweden" target="portugal" id="48" weight="180" />
+      <edge source="sweden" target="malta" id="49" weight="217" />
+      <edge source="sweden" target="cyprus" id="50" weight="148" />
+      <edge source="netherlands" target="switzerland" id="51" weight="1828" />
+      <edge source="netherlands" target="spain" id="52" weight="863" />
+      <edge source="netherlands" target="france" id="53" weight="2047" />
+      <edge source="netherlands" target="belgium" id="54" weight="864" />
+      <edge source="netherlands" target="germany" id="55" weight="1778" />
+      <edge source="netherlands" target="norway" id="56" weight="729" />
+      <edge source="netherlands" target="denmark" id="57" weight="875" />
+      <edge source="netherlands" target="austria" id="58" weight="710" />
+      <edge source="netherlands" target="luxembourg" id="59" weight="556" />
+      <edge source="netherlands" target="ireland" id="60" weight="846" />
+      <edge source="netherlands" target="poland" id="61" weight="402" />
+      <edge source="netherlands" target="finland" id="62" weight="619" />
+      <edge source="netherlands" target="portugal" id="63" weight="164" />
+      <edge source="netherlands" target="malta" id="64" weight="158" />
+      <edge source="netherlands" target="cyprus" id="65" weight="108" />
+      <edge source="switzerland" target="spain" id="66" weight="1363" />
+      <edge source="switzerland" target="france" id="67" weight="3506" />
+      <edge source="switzerland" target="belgium" id="68" weight="1345" />
+      <edge source="switzerland" target="germany" id="69" weight="4076" />
+      <edge source="switzerland" target="norway" id="70" weight="1147" />
+      <edge source="switzerland" target="denmark" id="71" weight="1300" />
+      <edge source="switzerland" target="austria" id="72" weight="1076" />
+      <edge source="switzerland" target="luxembourg" id="73" weight="707" />
+      <edge source="switzerland" target="ireland" id="74" weight="1222" />
+      <edge source="switzerland" target="poland" id="75" weight="499" />
+      <edge source="switzerland" target="finland" id="76" weight="975" />
+      <edge source="switzerland" target="portugal" id="77" weight="236" />
+      <edge source="switzerland" target="malta" id="78" weight="189" />
+      <edge source="switzerland" target="cyprus" id="79" weight="168" />
+      <edge source="spain" target="france" id="80" weight="1746" />
+      <edge source="spain" target="belgium" id="81" weight="793" />
+      <edge source="spain" target="germany" id="82" weight="1458" />
+      <edge source="spain" target="norway" id="83" weight="676" />
+      <edge source="spain" target="denmark" id="84" weight="768" />
+      <edge source="spain" target="austria" id="85" weight="693" />
+      <edge source="spain" target="luxembourg" id="86" weight="512" />
+      <edge source="spain" target="ireland" id="87" weight="752" />
+      <edge source="spain" target="poland" id="88" weight="361" />
+      <edge source="spain" target="finland" id="89" weight="445" />
+      <edge source="spain" target="portugal" id="90" weight="202" />
+      <edge source="spain" target="malta" id="91" weight="156" />
+      <edge source="spain" target="cyprus" id="92" weight="102" />
+      <edge source="france" target="belgium" id="93" weight="1829" />
+      <edge source="france" target="germany" id="94" weight="4014" />
+      <edge source="france" target="norway" id="95" weight="1205" />
+      <edge source="france" target="denmark" id="96" weight="1359" />
+      <edge source="france" target="austria" id="97" weight="1030" />
+      <edge source="france" target="luxembourg" id="98" weight="815" />
+      <edge source="france" target="ireland" id="99" weight="1197" />
+      <edge source="france" target="poland" id="100" weight="561" />
+      <edge source="france" target="finland" id="101" weight="914" />
+      <edge source="france" target="portugal" id="102" weight="234" />
+      <edge source="france" target="malta" id="103" weight="196" />
+      <edge source="france" target="cyprus" id="104" weight="157" />
+      <edge source="belgium" target="germany" id="105" weight="1493" />
+      <edge source="belgium" target="norway" id="106" weight="629" />
+      <edge source="belgium" target="denmark" id="107" weight="677" />
+      <edge source="belgium" target="austria" id="108" weight="609" />
+      <edge source="belgium" target="luxembourg" id="109" weight="602" />
+      <edge source="belgium" target="ireland" id="110" weight="614" />
+      <edge source="belgium" target="poland" id="111" weight="359" />
+      <edge source="belgium" target="finland" id="112" weight="549" />
+      <edge source="belgium" target="portugal" id="113" weight="167" />
+      <edge source="belgium" target="malta" id="114" weight="154" />
+      <edge source="belgium" target="cyprus" id="115" weight="101" />
+      <edge source="germany" target="norway" id="116" weight="1156" />
+      <edge source="germany" target="denmark" id="117" weight="1467" />
+      <edge source="germany" target="austria" id="118" weight="1335" />
+      <edge source="germany" target="luxembourg" id="119" weight="762" />
+      <edge source="germany" target="ireland" id="120" weight="1153" />
+      <edge source="germany" target="poland" id="121" weight="575" />
+      <edge source="germany" target="finland" id="122" weight="1049" />
+      <edge source="germany" target="portugal" id="123" weight="230" />
+      <edge source="germany" target="malta" id="124" weight="188" />
+      <edge source="germany" target="cyprus" id="125" weight="129" />
+      <edge source="norway" target="denmark" id="126" weight="918" />
+      <edge source="norway" target="austria" id="127" weight="557" />
+      <edge source="norway" target="luxembourg" id="128" weight="428" />
+      <edge source="norway" target="ireland" id="129" weight="626" />
+      <edge source="norway" target="poland" id="130" weight="357" />
+      <edge source="norway" target="finland" id="131" weight="559" />
+      <edge source="norway" target="portugal" id="132" weight="155" />
+      <edge source="norway" target="malta" id="133" weight="143" />
+      <edge source="norway" target="cyprus" id="134" weight="117" />
+      <edge source="denmark" target="austria" id="135" weight="685" />
+      <edge source="denmark" target="luxembourg" id="136" weight="449" />
+      <edge source="denmark" target="ireland" id="137" weight="700" />
+      <edge source="denmark" target="poland" id="138" weight="370" />
+      <edge source="denmark" target="finland" id="139" weight="674" />
+      <edge source="denmark" target="portugal" id="140" weight="183" />
+      <edge source="denmark" target="malta" id="141" weight="157" />
+      <edge source="denmark" target="cyprus" id="142" weight="103" />
+      <edge source="austria" target="luxembourg" id="143" weight="436" />
+      <edge source="austria" target="ireland" id="144" weight="579" />
+      <edge source="austria" target="poland" id="145" weight="366" />
+      <edge source="austria" target="finland" id="146" weight="423" />
+      <edge source="austria" target="portugal" id="147" weight="149" />
+      <edge source="austria" target="malta" id="148" weight="147" />
+      <edge source="austria" target="cyprus" id="149" weight="95" />
+      <edge source="luxembourg" target="ireland" id="150" weight="409" />
+      <edge source="luxembourg" target="poland" id="151" weight="265" />
+      <edge source="luxembourg" target="finland" id="152" weight="348" />
+      <edge source="luxembourg" target="portugal" id="153" weight="135" />
+      <edge source="luxembourg" target="malta" id="154" weight="139" />
+      <edge source="luxembourg" target="cyprus" id="155" weight="83" />
+      <edge source="ireland" target="poland" id="156" weight="334" />
+      <edge source="ireland" target="finland" id="157" weight="474" />
+      <edge source="ireland" target="portugal" id="158" weight="136" />
+      <edge source="ireland" target="malta" id="159" weight="159" />
+      <edge source="ireland" target="cyprus" id="160" weight="113" />
+      <edge source="poland" target="finland" id="161" weight="257" />
+      <edge source="poland" target="portugal" id="162" weight="106" />
+      <edge source="poland" target="malta" id="163" weight="145" />
+      <edge source="poland" target="cyprus" id="164" weight="92" />
+      <edge source="finland" target="portugal" id="165" weight="124" />
+      <edge source="finland" target="malta" id="166" weight="132" />
+      <edge source="finland" target="cyprus" id="167" weight="85" />
+      <edge source="portugal" target="malta" id="168" weight="61" />
+      <edge source="portugal" target="cyprus" id="169" weight="35" />
+      <edge source="malta" target="cyprus" id="170" weight="33" />
+    </edges>
+  </graph>
+</gexf>

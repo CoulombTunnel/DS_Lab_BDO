@@ -1,0 +1,2275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-28">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="city" type="string" />
+      <attribute id="1" title="country" type="string" />
+      <attribute id="2" title="dep" type="string" />
+      <attribute id="3" title="exchange" type="string" />
+      <attribute id="4" title="gpe" type="string" />
+      <attribute id="5" title="home_city" type="string" />
+      <attribute id="6" title="home_country" type="string" />
+      <attribute id="7" title="industry" type="string" />
+      <attribute id="8" title="iq_capex" type="string" />
+      <attribute id="9" title="iq_cash_oper" type="string" />
+      <attribute id="10" title="iq_cogs" type="string" />
+      <attribute id="11" title="iq_cost_rev" type="string" />
+      <attribute id="12" title="iq_curr_taxes" type="string" />
+      <attribute id="13" title="iq_ebitda" type="string" />
+      <attribute id="14" title="iq_ebitda_margin" type="string" />
+      <attribute id="15" title="iq_gp" type="string" />
+      <attribute id="16" title="iq_gross_margin" type="string" />
+      <attribute id="17" title="iq_int_exp_ltd" type="string" />
+      <attribute id="18" title="iq_marketcap" type="string" />
+      <attribute id="19" title="iq_net_debt" type="string" />
+      <attribute id="20" title="iq_ni" type="string" />
+      <attribute id="21" title="iq_ni_margin" type="string" />
+      <attribute id="22" title="iq_oper_inc" type="string" />
+      <attribute id="23" title="iq_return_assets" type="string" />
+      <attribute id="24" title="iq_return_equity" type="string" />
+      <attribute id="25" title="iq_total_assets" type="string" />
+      <attribute id="26" title="iq_total_debt_capital" type="string" />
+      <attribute id="27" title="iq_total_debt_equity" type="string" />
+      <attribute id="28" title="iq_total_equity" type="string" />
+      <attribute id="29" title="iq_total_liab" type="string" />
+      <attribute id="30" title="iq_total_rev" type="string" />
+      <attribute id="31" title="law" type="string" />
+      <attribute id="32" title="norp" type="string" />
+      <attribute id="33" title="org" type="string" />
+      <attribute id="34" title="other" type="string" />
+      <attribute id="35" title="person" type="string" />
+      <attribute id="36" title="cardinal" type="string" />
+      <attribute id="37" title="event" type="string" />
+      <attribute id="38" title="date" type="string" />
+      <attribute id="39" title="loc" type="string" />
+      <attribute id="40" title="fac" type="string" />
+      <attribute id="41" title="money" type="string" />
+      <attribute id="42" title="quantity" type="string" />
+      <attribute id="43" title="ordinal" type="string" />
+      <attribute id="44" title="work_of_art" type="string" />
+      <attribute id="45" title="product" type="string" />
+    </attributes>
+    <nodes>
+      <node id="carl zeiss meditec ag" label="carl zeiss meditec ag">
+        <attvalues>
+          <attvalue for="0" value="madrid" />
+          <attvalue for="1" value="ukraine" />
+          <attvalue for="2" value="legal affairs" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="mba area" />
+          <attvalue for="5" value="jena" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="health care equipment" />
+          <attvalue for="8" value="-9.723" />
+          <attvalue for="9" value="64.624" />
+          <attvalue for="10" value="418.986" />
+          <attvalue for="11" value="418.986" />
+          <attvalue for="12" value="48.976" />
+          <attvalue for="13" value="147.088" />
+          <attvalue for="14" value="16.2269" />
+          <attvalue for="15" value="487.459" />
+          <attvalue for="16" value="53.777" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1968.91221" />
+          <attvalue for="19" value="-130.155" />
+          <attvalue for="20" value="92.131" />
+          <attvalue for="21" value="10.1639" />
+          <attvalue for="22" value="131.9" />
+          <attvalue for="23" value="8.4727" />
+          <attvalue for="24" value="13.854" />
+          <attvalue for="25" value="983.074" />
+          <attvalue for="26" value="2.2053" />
+          <attvalue for="27" value="2.255" />
+          <attvalue for="28" value="715.314" />
+          <attvalue for="29" value="267.76" />
+          <attvalue for="30" value="906.445" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="german commercial code" />
+          <attvalue for="33" value="meditec medikal" />
+          <attvalue for="34" value="regulatory affairs" />
+          <attvalue for="35" value="carl zeiss ab" />
+        </attvalues>
+      </node>
+      <node id="zalando se" label="zalando se">
+        <attvalues>
+          <attvalue for="0" value="paris" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="berlin" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="apparel retail" />
+          <attvalue for="8" value="-54.5" />
+          <attvalue for="9" value="-80.1" />
+          <attvalue for="10" value="1047" />
+          <attvalue for="11" value="1047" />
+          <attvalue for="12" value="0.3" />
+          <attvalue for="13" value="-103" />
+          <attvalue for="14" value="-5.8456" />
+          <attvalue for="15" value="715" />
+          <attvalue for="16" value="40.5788" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="-400.9" />
+          <attvalue for="20" value="-116.6" />
+          <attvalue for="21" value="-6.6174" />
+          <attvalue for="22" value="-114" />
+          <attvalue for="23" value="-7.5116" />
+          <attvalue for="24" value="-23.211" />
+          <attvalue for="25" value="1071.7" />
+          <attvalue for="26" value="3.5644" />
+          <attvalue for="27" value="3.6962" />
+          <attvalue for="28" value="546.5" />
+          <attvalue for="29" value="525.2" />
+          <attvalue for="30" value="1762" />
+          <attvalue for="32" value="european parliament" />
+          <attvalue for="33" value="zalando gmbh property" />
+          <attvalue for="34" value="zalando gmbh improvements" />
+          <attvalue for="35" value="david schneider" />
+        </attvalues>
+      </node>
+      <node id="gerresheimer ag" label="gerresheimer ag">
+        <attvalues>
+          <attvalue for="36" value="one point cut" />
+          <attvalue for="0" value="meiningen" />
+          <attvalue for="1" value="united kingdom" />
+          <attvalue for="2" value="financial accounting" />
+          <attvalue for="37" value="capital markets day" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="düsseldorf" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="life sciences tools and services" />
+          <attvalue for="8" value="-115.998" />
+          <attvalue for="9" value="146.676" />
+          <attvalue for="10" value="901.707" />
+          <attvalue for="11" value="901.707" />
+          <attvalue for="12" value="39.262" />
+          <attvalue for="13" value="240.785" />
+          <attvalue for="14" value="19.0203" />
+          <attvalue for="15" value="364.224" />
+          <attvalue for="16" value="28.7712" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1596.062" />
+          <attvalue for="19" value="408.083" />
+          <attvalue for="20" value="62.155" />
+          <attvalue for="21" value="4.9098" />
+          <attvalue for="22" value="140.17" />
+          <attvalue for="23" value="5.5242" />
+          <attvalue for="24" value="12.4339" />
+          <attvalue for="25" value="1615.769" />
+          <attvalue for="26" value="46.0639" />
+          <attvalue for="27" value="85.4048" />
+          <attvalue for="28" value="563.405" />
+          <attvalue for="29" value="1052.364" />
+          <attvalue for="30" value="1265.931" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="danish plastic packaging" />
+          <attvalue for="33" value="wickeder holding gmbh" />
+          <attvalue for="34" value="price development" />
+          <attvalue for="35" value="bcp murano" />
+        </attvalues>
+      </node>
+      <node id="commerzbank ag" label="commerzbank ag">
+        <attvalues>
+          <attvalue for="36" value="six regional diversity councils" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="luxembourg" />
+          <attvalue for="38" value="rupert winter" />
+          <attvalue for="2" value="group compliance" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="il düsseldorf" />
+          <attvalue for="5" value="frankfurt am main" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="diversified banks" />
+          <attvalue for="8" value="-1528" />
+          <attvalue for="9" value="-18906" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="196" />
+          <attvalue for="15" value="7528" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="853" />
+          <attvalue for="18" value="13331.91628" />
+          <attvalue for="19" value="84195" />
+          <attvalue for="20" value="81" />
+          <attvalue for="21" value="1.0759" />
+          <attvalue for="22" value="934" />
+          <attvalue for="23" value="0.029" />
+          <attvalue for="24" value="0.6468" />
+          <attvalue for="25" value="549654" />
+          <attvalue for="26" value="0" />
+          <attvalue for="27" value="0" />
+          <attvalue for="28" value="26933" />
+          <attvalue for="29" value="522721" />
+          <attvalue for="30" value="7528" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="central eastern europe" />
+          <attvalue for="32" value="german civil code" />
+          <attvalue for="33" value="commerz transaction services nord gmbh" />
+          <attvalue for="34" value="credit var" />
+          <attvalue for="35" value="herradurltd london" />
+        </attvalues>
+      </node>
+      <node id="evotec se" label="evotec se">
+        <attvalues>
+          <attvalue for="0" value="cambridge" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="corporate communications" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf" />
+          <attvalue for="5" value="hamburg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="life sciences tools and services" />
+          <attvalue for="8" value="-5.097" />
+          <attvalue for="9" value="6.657" />
+          <attvalue for="10" value="54.715" />
+          <attvalue for="11" value="54.715" />
+          <attvalue for="12" value="0.299" />
+          <attvalue for="13" value="10.397" />
+          <attvalue for="14" value="12.0982" />
+          <attvalue for="15" value="31.223" />
+          <attvalue for="16" value="36.332" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="478.63875" />
+          <attvalue for="19" value="-80.008" />
+          <attvalue for="20" value="-25.433" />
+          <attvalue for="21" value="-29.5945" />
+          <attvalue for="22" value="1.786" />
+          <attvalue for="23" value="0.493" />
+          <attvalue for="24" value="-16.3286" />
+          <attvalue for="25" value="227.38" />
+          <attvalue for="26" value="9.7844" />
+          <attvalue for="27" value="10.8456" />
+          <attvalue for="28" value="158.967" />
+          <attvalue for="29" value="68.413" />
+          <attvalue for="30" value="85.938" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="european central bank" />
+          <attvalue for="33" value="evotec neurosciences gmbh afterwards" />
+          <attvalue for="34" value="central bank" />
+          <attvalue for="35" value="arnd steuernagel" />
+        </attvalues>
+      </node>
+      <node id="henkel ag &amp; co kgaa" label="henkel ag &amp; co kgaa">
+        <attvalues>
+          <attvalue for="0" value="cambridge" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="human resources purchasing accounting and it" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="düsseldorf" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="household products" />
+          <attvalue for="8" value="-404" />
+          <attvalue for="9" value="2116" />
+          <attvalue for="10" value="8472" />
+          <attvalue for="11" value="8472" />
+          <attvalue for="12" value="571" />
+          <attvalue for="13" value="2816" />
+          <attvalue for="14" value="17.2179" />
+          <attvalue for="15" value="7883" />
+          <attvalue for="16" value="48.1993" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="34361.56312" />
+          <attvalue for="19" value="-811" />
+          <attvalue for="20" value="1589" />
+          <attvalue for="21" value="9.7156" />
+          <attvalue for="22" value="2444" />
+          <attvalue for="23" value="7.8597" />
+          <attvalue for="24" value="16.5234" />
+          <attvalue for="25" value="19344" />
+          <attvalue for="26" value="20.5661" />
+          <attvalue for="27" value="25.8909" />
+          <attvalue for="28" value="10158" />
+          <attvalue for="29" value="9186" />
+          <attvalue for="30" value="16355" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="north africmiddle east region" />
+          <attvalue for="32" value="german corporate governance code taking" />
+          <attvalue for="33" value="see group" />
+          <attvalue for="34" value="laundry home care •� worldwide" />
+          <attvalue for="35" value="eon ag merck kgaa" />
+        </attvalues>
+      </node>
+      <node id="knorr bremse ag" label="knorr bremse ag">
+        <attvalues>
+          <attvalue for="36" value="ccb ii" />
+          <attvalue for="0" value="buenos aires" />
+          <attvalue for="1" value="france" />
+          <attvalue for="2" value="safety maintenance council" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="gatwick express" />
+          <attvalue for="4" value="haramain high speed railway" />
+          <attvalue for="5" value="munich" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="construction machinery and heavy transportation equipment" />
+          <attvalue for="8" value="-152.578" />
+          <attvalue for="9" value="495.284" />
+          <attvalue for="10" value="2168.305" />
+          <attvalue for="11" value="2168.305" />
+          <attvalue for="12" value="170.16" />
+          <attvalue for="13" value="668.179" />
+          <attvalue for="14" value="15.5277" />
+          <attvalue for="15" value="2134.823" />
+          <attvalue for="16" value="49.6109" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="-675.829" />
+          <attvalue for="20" value="316.081" />
+          <attvalue for="21" value="7.3453" />
+          <attvalue for="22" value="543.114" />
+          <attvalue for="23" value="12.3792" />
+          <attvalue for="24" value="34.8902" />
+          <attvalue for="25" value="2869.068" />
+          <attvalue for="26" value="10.5519" />
+          <attvalue for="27" value="11.7966" />
+          <attvalue for="28" value="1106.837" />
+          <attvalue for="29" value="1762.231" />
+          <attvalue for="30" value="4303.128" />
+          <attvalue for="39" value="europe rail vehicle systems" />
+          <attvalue for="32" value="canadian national" />
+          <attvalue for="33" value="knorrbremse investment gmbh" />
+          <attvalue for="34" value="global knorrbremse day" />
+          <attvalue for="35" value="wiltshire" />
+        </attvalues>
+      </node>
+      <node id="cts eventim ag &amp; co kgaa" label="cts eventim ag &amp; co kgaa">
+        <attvalues>
+          <attvalue for="0" value="stockholm" />
+          <attvalue for="1" value="russia" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="accounting policies and procedures manual" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="lanxess arena" />
+          <attvalue for="4" value="bremen phone" />
+          <attvalue for="5" value="bremen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="movies and entertainment" />
+          <attvalue for="8" value="-5.83799" />
+          <attvalue for="9" value="142.89752" />
+          <attvalue for="10" value="421.30314" />
+          <attvalue for="11" value="421.30314" />
+          <attvalue for="12" value="37.258" />
+          <attvalue for="13" value="126.65184" />
+          <attvalue for="14" value="20.1563" />
+          <attvalue for="15" value="207.0455" />
+          <attvalue for="16" value="32.9507" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1766.88" />
+          <attvalue for="19" value="-191.70076" />
+          <attvalue for="20" value="61.14221" />
+          <attvalue for="21" value="9.7306" />
+          <attvalue for="22" value="111.77188" />
+          <attvalue for="23" value="8.2731" />
+          <attvalue for="24" value="29.5432" />
+          <attvalue for="25" value="876.87459" />
+          <attvalue for="26" value="42.6611" />
+          <attvalue for="27" value="74.4017" />
+          <attvalue for="28" value="253.20231" />
+          <attvalue for="29" value="623.67228" />
+          <attvalue for="30" value="628.34865" />
+          <attvalue for="32" value="finnish national opera" />
+          <attvalue for="33" value="bremen cts eventim sports gmbh" />
+          <attvalue for="34" value="u.k" />
+          <attvalue for="35" value="lionel richie" />
+        </attvalues>
+      </node>
+      <node id="thyssenkrupp ag" label="thyssenkrupp ag">
+        <attvalues>
+          <attvalue for="0" value="indianapolis" />
+          <attvalue for="1" value="russia" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf" />
+          <attvalue for="5" value="essen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="steel" />
+          <attvalue for="8" value="-1120" />
+          <attvalue for="9" value="786" />
+          <attvalue for="10" value="33486" />
+          <attvalue for="11" value="33486" />
+          <attvalue for="12" value="203" />
+          <attvalue for="13" value="577" />
+          <attvalue for="14" value="1.4964" />
+          <attvalue for="15" value="5073" />
+          <attvalue for="16" value="13.1564" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="10011.44228" />
+          <attvalue for="19" value="5022" />
+          <attvalue for="20" value="-1436" />
+          <attvalue for="21" value="-3.7241" />
+          <attvalue for="22" value="-788" />
+          <attvalue for="23" value="-1.3386" />
+          <attvalue for="24" value="-46.2915" />
+          <attvalue for="25" value="35297" />
+          <attvalue for="26" value="77.9629" />
+          <attvalue for="27" value="353.7818" />
+          <attvalue for="28" value="2512" />
+          <attvalue for="29" value="32785" />
+          <attvalue for="30" value="38559" />
+          <attvalue for="39" value="��steel� europe" />
+          <attvalue for="41" value="�€� million" />
+          <attvalue for="33" value="thyssenkrupp ag" />
+          <attvalue for="34" value="�heitkamp� �thumann�group" />
+          <attvalue for="35" value="heinrich hiesinger" />
+        </attvalues>
+      </node>
+      <node id="mtu aero engines ag" label="mtu aero engines ag">
+        <attvalues>
+          <attvalue for="0" value="hampshire" />
+          <attvalue for="1" value="france" />
+          <attvalue for="2" value="human resources report" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="german corporate income tax act" />
+          <attvalue for="5" value="munich" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="aerospace and defense" />
+          <attvalue for="8" value="-85" />
+          <attvalue for="9" value="188.8" />
+          <attvalue for="10" value="2996.5" />
+          <attvalue for="11" value="2996.5" />
+          <attvalue for="12" value="121.9" />
+          <attvalue for="13" value="453.3" />
+          <attvalue for="14" value="12.6829" />
+          <attvalue for="15" value="577.6" />
+          <attvalue for="16" value="16.1607" />
+          <attvalue for="17" value="10.4" />
+          <attvalue for="18" value="3630.58314" />
+          <attvalue for="19" value="437.1" />
+          <attvalue for="20" value="166.3" />
+          <attvalue for="21" value="4.6529" />
+          <attvalue for="22" value="351.9" />
+          <attvalue for="23" value="5.0418" />
+          <attvalue for="24" value="14.1827" />
+          <attvalue for="25" value="4457.8" />
+          <attvalue for="26" value="34.7281" />
+          <attvalue for="27" value="53.2054" />
+          <attvalue for="28" value="1251" />
+          <attvalue for="29" value="3206.8" />
+          <attvalue for="30" value="3574.1" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="world north americwestern europe global" />
+          <attvalue for="32" value="european parliament and council" />
+          <attvalue for="33" value="renk ag" />
+          <attvalue for="34" value="liabilities pension" />
+          <attvalue for="35" value="babette fröhlich" />
+        </attvalues>
+      </node>
+      <node id="rwe ag" label="rwe ag">
+        <attvalues>
+          <attvalue for="0" value="bottrop" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="�vse�ag year�" />
+          <attvalue for="2" value="power generation sales distribution networks" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="mülheim" />
+          <attvalue for="5" value="essen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="independent power producers and energy traders" />
+          <attvalue for="8" value="-3926" />
+          <attvalue for="9" value="5576" />
+          <attvalue for="10" value="36372" />
+          <attvalue for="11" value="36372" />
+          <attvalue for="12" value="618" />
+          <attvalue for="13" value="5411" />
+          <attvalue for="14" value="10.841" />
+          <attvalue for="15" value="13540" />
+          <attvalue for="16" value="27.1277" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="16222.509" />
+          <attvalue for="19" value="12465" />
+          <attvalue for="20" value="-2653" />
+          <attvalue for="21" value="-5.3153" />
+          <attvalue for="22" value="2923" />
+          <attvalue for="23" value="2.1548" />
+          <attvalue for="24" value="-19.2482" />
+          <attvalue for="25" value="81381" />
+          <attvalue for="26" value="60.6261" />
+          <attvalue for="27" value="153.9754" />
+          <attvalue for="28" value="12137" />
+          <attvalue for="29" value="69244" />
+          <attvalue for="30" value="49912" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="41" value="�€ million" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="33" value="capital gmbh" />
+          <attvalue for="34" value="joint arrangements" />
+          <attvalue for="35" value="vew ag" />
+          <attvalue for="42" value="billion kwh electricity sales" />
+        </attvalues>
+      </node>
+      <node id="infineon technologies ag" label="infineon technologies ag">
+        <attvalues>
+          <attvalue for="36" value="conditional capital iii" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="quarterly reports" />
+          <attvalue for="2" value="compliance panel" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="neubiberg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="semiconductors" />
+          <attvalue for="8" value="-315" />
+          <attvalue for="9" value="601" />
+          <attvalue for="10" value="2520" />
+          <attvalue for="11" value="2520" />
+          <attvalue for="12" value="39" />
+          <attvalue for="13" value="812" />
+          <attvalue for="14" value="21.1293" />
+          <attvalue for="15" value="1323" />
+          <attvalue for="16" value="34.4262" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="8343.08095" />
+          <attvalue for="19" value="-1983" />
+          <attvalue for="20" value="272" />
+          <attvalue for="21" value="7.0778" />
+          <attvalue for="22" value="365" />
+          <attvalue for="23" value="3.8655" />
+          <attvalue for="24" value="7.6996" />
+          <attvalue for="25" value="5905" />
+          <attvalue for="26" value="7.4282" />
+          <attvalue for="27" value="8.0243" />
+          <attvalue for="28" value="3776" />
+          <attvalue for="29" value="2129" />
+          <attvalue for="30" value="3843" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="european unitech" />
+          <attvalue for="43" value="fourth circuit" />
+          <attvalue for="33" value="nfc near field communication" />
+          <attvalue for="34" value="expectations development" />
+          <attvalue for="35" value="la employee" />
+          <attvalue for="44" value="german prize for it security" />
+        </attvalues>
+      </node>
+      <node id="kion group ag" label="kion group ag">
+        <attvalues>
+          <attvalue for="0" value="fuzhou" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="accounting finance" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="linbro park" />
+          <attvalue for="4" value="weilbach component" />
+          <attvalue for="5" value="frankfurt am main" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="construction machinery and heavy transportation equipment" />
+          <attvalue for="8" value="-296.1" />
+          <attvalue for="9" value="506.3" />
+          <attvalue for="10" value="3255.2" />
+          <attvalue for="11" value="3255.2" />
+          <attvalue for="12" value="59" />
+          <attvalue for="13" value="612.3" />
+          <attvalue for="14" value="13.623" />
+          <attvalue for="15" value="1239.4" />
+          <attvalue for="16" value="27.5753" />
+          <attvalue for="17" value="139.6" />
+          <attvalue for="18" value="3032.5575" />
+          <attvalue for="19" value="1959.3" />
+          <attvalue for="20" value="138.8" />
+          <attvalue for="21" value="3.0881" />
+          <attvalue for="22" value="278.9" />
+          <attvalue for="23" value="2.8483" />
+          <attvalue for="24" value="12.19" />
+          <attvalue for="25" value="6026.4" />
+          <attvalue for="26" value="57.504" />
+          <attvalue for="27" value="135.3167" />
+          <attvalue for="28" value="1610" />
+          <attvalue for="29" value="4416.4" />
+          <attvalue for="30" value="4494.6" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="central south america" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="43" value="first leading" />
+          <attvalue for="33" value="qualift spa" />
+          <attvalue for="34" value="automation fleet" />
+          <attvalue for="35" value="manuchar sa gond pontouvre" />
+        </attvalues>
+      </node>
+      <node id="symrise ag" label="symrise ag">
+        <attvalues>
+          <attvalue for="0" value="stockholm" />
+          <attvalue for="1" value="russia" />
+          <attvalue for="38" value="annual general meet­ ing" />
+          <attvalue for="2" value="corporate communications" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf" />
+          <attvalue for="5" value="holzminden" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="specialty chemicals" />
+          <attvalue for="8" value="-57.999" />
+          <attvalue for="9" value="274.784" />
+          <attvalue for="10" value="1059.548" />
+          <attvalue for="11" value="1059.548" />
+          <attvalue for="12" value="76.666" />
+          <attvalue for="13" value="354.93" />
+          <attvalue for="14" value="19.3909" />
+          <attvalue for="15" value="770.838" />
+          <attvalue for="16" value="42.1134" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="3958.80555" />
+          <attvalue for="19" value="411.709" />
+          <attvalue for="20" value="172.335" />
+          <attvalue for="21" value="9.4152" />
+          <attvalue for="22" value="268.773" />
+          <attvalue for="23" value="7.7044" />
+          <attvalue for="24" value="18.8306" />
+          <attvalue for="25" value="2210.422" />
+          <attvalue for="26" value="36.5451" />
+          <attvalue for="27" value="57.5923" />
+          <attvalue for="28" value="951.063" />
+          <attvalue for="29" value="1259.359" />
+          <attvalue for="30" value="1830.386" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="europe aromatics sas" />
+          <attvalue for="32" value="german commercial code" />
+          <attvalue for="33" value="ticaret ltd" />
+          <attvalue for="34" value="price development" />
+          <attvalue for="35" value="michael becker" />
+          <attvalue for="44" value="usa trilogy" />
+        </attvalues>
+      </node>
+      <node id="beiersdorf ag" label="beiersdorf ag">
+        <attvalues>
+          <attvalue for="0" value="buenos aires" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="annual accounts press conference" />
+          <attvalue for="2" value="significant accounting policies information" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="beiersdorf as dk" />
+          <attvalue for="5" value="hamburg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="personal care products" />
+          <attvalue for="8" value="-227" />
+          <attvalue for="9" value="529" />
+          <attvalue for="10" value="2255" />
+          <attvalue for="11" value="2255" />
+          <attvalue for="12" value="275" />
+          <attvalue for="13" value="934" />
+          <attvalue for="14" value="15.2092" />
+          <attvalue for="15" value="3886" />
+          <attvalue for="16" value="63.2795" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="16702.94998" />
+          <attvalue for="19" value="-1831" />
+          <attvalue for="20" value="534" />
+          <attvalue for="21" value="8.6956" />
+          <attvalue for="22" value="828" />
+          <attvalue for="23" value="9.0837" />
+          <attvalue for="24" value="16.5852" />
+          <attvalue for="25" value="5798" />
+          <attvalue for="26" value="1.1611" />
+          <attvalue for="27" value="1.1747" />
+          <attvalue for="28" value="3405" />
+          <attvalue for="29" value="2393" />
+          <attvalue for="30" value="6141" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="eastern europe total sales" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="33" value="beiersdorf manufacturing waldheim gmbh" />
+          <attvalue for="34" value="eood bg" />
+          <attvalue for="35" value="sa gt" />
+        </attvalues>
+      </node>
+      <node id="e.on se" label="e.on se">
+        <attvalues>
+          <attvalue for="36" value="sme power sales billion" />
+          <attvalue for="0" value="wilhelmshaven" />
+          <attvalue for="1" value="united kingdom" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="exploration production" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="windpark naundorf ohg" />
+          <attvalue for="4" value="txu europe" />
+          <attvalue for="5" value="essen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="multi-utilities" />
+          <attvalue for="8" value="-4480" />
+          <attvalue for="9" value="6449" />
+          <attvalue for="10" value="105741" />
+          <attvalue for="11" value="105741" />
+          <attvalue for="12" value="1397" />
+          <attvalue for="13" value="8090" />
+          <attvalue for="14" value="6.7387" />
+          <attvalue for="15" value="14311" />
+          <attvalue for="16" value="11.9206" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="25579.06226" />
+          <attvalue for="19" value="15630" />
+          <attvalue for="20" value="2091" />
+          <attvalue for="21" value="1.7417" />
+          <attvalue for="22" value="4835" />
+          <attvalue for="23" value="2.2158" />
+          <attvalue for="24" value="6.2577" />
+          <attvalue for="25" value="132330" />
+          <attvalue for="26" value="38.2803" />
+          <attvalue for="27" value="62.023" />
+          <attvalue for="28" value="36638" />
+          <attvalue for="29" value="95692" />
+          <attvalue for="30" value="120052" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="north americllc" />
+          <attvalue for="32" value="european emissions trading scheme" />
+          <attvalue for="43" value="first state" />
+          <attvalue for="33" value="valencisolar llc" />
+          <attvalue for="34" value="se eonplatz" />
+          <attvalue for="35" value="sbi jordbergab" />
+          <attvalue for="45" value="bhp biomasse" />
+          <attvalue for="42" value="carbon emissions from power and heat generation million metric tons" />
+        </attvalues>
+      </node>
+      <node id="leg immobilien se" label="leg immobilien se">
+        <attvalues>
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="central procurement" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="gelsenkirchen eichkamp" />
+          <attvalue for="5" value="düsseldorf" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="real estate operating companies" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="102.1" />
+          <attvalue for="10" value="310.8" />
+          <attvalue for="11" value="310.8" />
+          <attvalue for="12" value="-0.5" />
+          <attvalue for="13" value="209.3" />
+          <attvalue for="14" value="36.9592" />
+          <attvalue for="15" value="255.5" />
+          <attvalue for="16" value="45.1174" />
+          <attvalue for="17" value="1.6" />
+          <attvalue for="18" value="2274.77992" />
+          <attvalue for="19" value="2473" />
+          <attvalue for="20" value="135.2" />
+          <attvalue for="21" value="23.8742" />
+          <attvalue for="22" value="200.6" />
+          <attvalue for="23" value="2.352" />
+          <attvalue for="24" value="6.2775" />
+          <attvalue for="25" value="5423.1" />
+          <attvalue for="26" value="53.1647" />
+          <attvalue for="27" value="113.5143" />
+          <attvalue for="28" value="2276.1" />
+          <attvalue for="29" value="3147" />
+          <attvalue for="30" value="566.3" />
+          <attvalue for="39" value="tions in europe" />
+          <attvalue for="32" value="german commercial code" />
+          <attvalue for="43" value="second rent computation ordinance" />
+          <attvalue for="33" value="leg vertrieb und consulting gmbh" />
+          <attvalue for="34" value="remuneration report" />
+          <attvalue for="35" value="marielle stijger" />
+        </attvalues>
+      </node>
+      <node id="rheinmetall ag" label="rheinmetall ag">
+        <attvalues>
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="france" />
+          <attvalue for="2" value="legal information contacts corporate communications" />
+          <attvalue for="37" value="capital markets day" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf higher regional court" />
+          <attvalue for="5" value="düsseldorf" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="aerospace and defense" />
+          <attvalue for="8" value="-191" />
+          <attvalue for="9" value="211" />
+          <attvalue for="10" value="2405" />
+          <attvalue for="11" value="2405" />
+          <attvalue for="12" value="52" />
+          <attvalue for="13" value="325" />
+          <attvalue for="14" value="7.3579" />
+          <attvalue for="15" value="2012" />
+          <attvalue for="16" value="45.5512" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1691.4347" />
+          <attvalue for="19" value="125" />
+          <attvalue for="20" value="29" />
+          <attvalue for="21" value="0.6565" />
+          <attvalue for="22" value="139" />
+          <attvalue for="23" value="1.7793" />
+          <attvalue for="24" value="2.2824" />
+          <attvalue for="25" value="4866" />
+          <attvalue for="26" value="30.6576" />
+          <attvalue for="27" value="44.212" />
+          <attvalue for="28" value="1339" />
+          <attvalue for="29" value="3527" />
+          <attvalue for="30" value="4417" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="north americllc" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="33" value="kspg mechatronics" />
+          <attvalue for="34" value="rheinmetall man military vehicles nederland bv" />
+          <attvalue for="35" value="dresia krefeld" />
+        </attvalues>
+      </node>
+      <node id="deutsche telekom ag" label="deutsche telekom ag">
+        <attvalues>
+          <attvalue for="36" value="systems solutions billions" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="group accounting manual" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf higher regional court" />
+          <attvalue for="5" value="bonn" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="integrated telecommunication services" />
+          <attvalue for="8" value="-6570" />
+          <attvalue for="9" value="13017" />
+          <attvalue for="10" value="36255" />
+          <attvalue for="11" value="36255" />
+          <attvalue for="12" value="487" />
+          <attvalue for="13" value="15514" />
+          <attvalue for="14" value="25.7999" />
+          <attvalue for="15" value="23877" />
+          <attvalue for="16" value="39.7076" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="55067.07653" />
+          <attvalue for="19" value="43514" />
+          <attvalue for="20" value="930" />
+          <attvalue for="21" value="1.5465" />
+          <attvalue for="22" value="5448" />
+          <attvalue for="23" value="3.012" />
+          <attvalue for="24" value="3.847" />
+          <attvalue for="25" value="118148" />
+          <attvalue for="26" value="61.6755" />
+          <attvalue for="27" value="160.93" />
+          <attvalue for="28" value="32063" />
+          <attvalue for="29" value="86085" />
+          <attvalue for="30" value="60132" />
+          <attvalue for="39" value="centraleastern district" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="33" value="rwth aachen university" />
+          <attvalue for="34" value="digital business" />
+          <attvalue for="35" value="claudia nemat" />
+          <attvalue for="44" value="german diversity prize" />
+        </attvalues>
+      </node>
+      <node id="hannover rueck se" label="hannover rueck se">
+        <attvalues>
+          <attvalue for="36" value="solvency ii" />
+          <attvalue for="0" value="lugano" />
+          <attvalue for="1" value="ireland" />
+          <attvalue for="2" value="corporate communications" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="phillip street" />
+          <attvalue for="4" value="dover usa" />
+          <attvalue for="5" value="hanover" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="reinsurance" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="2225.496" />
+          <attvalue for="10" value="12182.779" />
+          <attvalue for="11" value="12182.779" />
+          <attvalue for="12" value="92.805" />
+          <attvalue for="13" value="1442.209" />
+          <attvalue for="14" value="10.4789" />
+          <attvalue for="15" value="1580.141" />
+          <attvalue for="16" value="11.4811" />
+          <attvalue for="17" value="126.67" />
+          <attvalue for="18" value="7522.84922" />
+          <attvalue for="19" value="1823.419" />
+          <attvalue for="20" value="895.467" />
+          <attvalue for="21" value="6.5063" />
+          <attvalue for="22" value="1412.1" />
+          <attvalue for="23" value="1.6234" />
+          <attvalue for="24" value="14.1128" />
+          <attvalue for="25" value="53915.544" />
+          <attvalue for="26" value="27.3208" />
+          <attvalue for="27" value="37.591" />
+          <attvalue for="28" value="6561.02" />
+          <attvalue for="29" value="47354.524" />
+          <attvalue for="30" value="13762.92" />
+          <attvalue for="32" value="irish high court" />
+          <attvalue for="33" value="international hannover holding ag" />
+          <attvalue for="34" value="group receivables" />
+          <attvalue for="35" value="cigi was retroceded" />
+        </attvalues>
+      </node>
+      <node id="rational ag" label="rational ag">
+        <attvalues>
+          <attvalue for="0" value="salzburg" />
+          <attvalue for="1" value="russia" />
+          <attvalue for="2" value="production and dispatch" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf" />
+          <attvalue for="5" value="landsberg am lech" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="industrial machinery and supplies and components" />
+          <attvalue for="8" value="-12.039" />
+          <attvalue for="9" value="102.83" />
+          <attvalue for="10" value="180.446" />
+          <attvalue for="11" value="180.446" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="138.781" />
+          <attvalue for="14" value="30.0946" />
+          <attvalue for="15" value="280.702" />
+          <attvalue for="16" value="60.8702" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="2741.307" />
+          <attvalue for="19" value="-165.799" />
+          <attvalue for="20" value="97.244" />
+          <attvalue for="21" value="21.0873" />
+          <attvalue for="22" value="131.542" />
+          <attvalue for="23" value="23.3732" />
+          <attvalue for="24" value="38.4182" />
+          <attvalue for="25" value="377.295" />
+          <attvalue for="26" value="11.3366" />
+          <attvalue for="27" value="12.7861" />
+          <attvalue for="28" value="268.846" />
+          <attvalue for="29" value="108.449" />
+          <attvalue for="30" value="461.148" />
+          <attvalue for="32" value="european central bank" />
+          <attvalue for="33" value="hart ing electronics gmbh" />
+          <attvalue for="34" value="keur overdue trade" />
+          <attvalue for="35" value="stefan arnold head" />
+        </attvalues>
+      </node>
+      <node id="freenet ag" label="freenet ag">
+        <attvalues>
+          <attvalue for="0" value="madrid" />
+          <attvalue for="1" value="ukraine" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="service and logistics" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf" />
+          <attvalue for="5" value="büdelsdorf" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="wireless telecommunication services" />
+          <attvalue for="8" value="-22.323" />
+          <attvalue for="9" value="278.398" />
+          <attvalue for="10" value="2637.512" />
+          <attvalue for="11" value="2637.512" />
+          <attvalue for="12" value="31.805" />
+          <attvalue for="13" value="315.169" />
+          <attvalue for="14" value="9.8364" />
+          <attvalue for="15" value="566.569" />
+          <attvalue for="16" value="17.6827" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="2789.16858" />
+          <attvalue for="19" value="427.246" />
+          <attvalue for="20" value="238.943" />
+          <attvalue for="21" value="7.4574" />
+          <attvalue for="22" value="295.776" />
+          <attvalue for="23" value="7.4602" />
+          <attvalue for="24" value="19.7705" />
+          <attvalue for="25" value="2477.198" />
+          <attvalue for="26" value="30.2663" />
+          <attvalue for="27" value="43.4026" />
+          <attvalue for="28" value="1239.582" />
+          <attvalue for="29" value="1237.616" />
+          <attvalue for="30" value="3204.081" />
+          <attvalue for="32" value="european central bank" />
+          <attvalue for="33" value="fundorado gmbh" />
+          <attvalue for="34" value="digital subscriber line" />
+          <attvalue for="35" value="eckhard spoerr" />
+        </attvalues>
+      </node>
+      <node id="deutsche bank ag" label="deutsche bank ag">
+        <attvalues>
+          <attvalue for="36" value="db capital trust ii" />
+          <attvalue for="0" value="boston" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="cash flow hedge accounting" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="schroders building" />
+          <attvalue for="4" value="hah limited london" />
+          <attvalue for="5" value="frankfurt am main" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="diversified capital markets" />
+          <attvalue for="8" value="-513" />
+          <attvalue for="9" value="49465" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="954" />
+          <attvalue for="15" value="29849" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="2417" />
+          <attvalue for="18" value="35337.28002" />
+          <attvalue for="19" value="-182441" />
+          <attvalue for="20" value="666" />
+          <attvalue for="21" value="2.2312" />
+          <attvalue for="22" value="4934" />
+          <attvalue for="23" value="0.0375" />
+          <attvalue for="24" value="1.2452" />
+          <attvalue for="25" value="1611400" />
+          <attvalue for="26" value="0" />
+          <attvalue for="27" value="0" />
+          <attvalue for="28" value="54967" />
+          <attvalue for="29" value="1556433" />
+          <attvalue for="30" value="29849" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="south america" />
+          <attvalue for="32" value="north americasian" />
+          <attvalue for="43" value="second circuit" />
+          <attvalue for="33" value="deutsche bank financial llc" />
+          <attvalue for="34" value="baigo capital partners fund" />
+          <attvalue for="35" value="thoma alfred herling" />
+        </attvalues>
+      </node>
+      <node id="volkswagen ag" label="volkswagen ag">
+        <attvalues>
+          <attvalue for="0" value="metropolis" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="corporate governance integrity protection prevention compliance" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="škoda rapid" />
+          <attvalue for="5" value="wolfsburg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="automobile manufacturers" />
+          <attvalue for="8" value="-11385" />
+          <attvalue for="9" value="12595" />
+          <attvalue for="10" value="144135" />
+          <attvalue for="11" value="163241" />
+          <attvalue for="12" value="3733" />
+          <attvalue for="13" value="19176" />
+          <attvalue for="14" value="9.7336" />
+          <attvalue for="15" value="33766" />
+          <attvalue for="16" value="17.1394" />
+          <attvalue for="17" value="93" />
+          <attvalue for="18" value="92838.93427" />
+          <attvalue for="19" value="90632" />
+          <attvalue for="20" value="9093" />
+          <attvalue for="21" value="4.6155" />
+          <attvalue for="22" value="11263" />
+          <attvalue for="23" value="2.2211" />
+          <attvalue for="24" value="10.6317" />
+          <attvalue for="25" value="324333" />
+          <attvalue for="26" value="57.4375" />
+          <attvalue for="27" value="134.9489" />
+          <attvalue for="28" value="90037" />
+          <attvalue for="29" value="234296" />
+          <attvalue for="30" value="197007" />
+          <attvalue for="41" value="buses power engineering business are€ million" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="43" value="first automotive works" />
+          <attvalue for="33" value="saic motor corporation" />
+          <attvalue for="34" value="impairment losses on financial assets by class" />
+          <attvalue for="35" value="carlos são" />
+        </attvalues>
+      </node>
+      <node id="heidelbergcement ag" label="heidelbergcement ag">
+        <attvalues>
+          <attvalue for="36" value="capital ii" />
+          <attvalue for="0" value="aschaffenburg" />
+          <attvalue for="1" value="gabon" />
+          <attvalue for="2" value="group accounting" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="rybalsky quarry" />
+          <attvalue for="4" value="nerlands pt indocement" />
+          <attvalue for="5" value="heidelberg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="construction materials" />
+          <attvalue for="8" value="-842.2" />
+          <attvalue for="9" value="1166.9" />
+          <attvalue for="10" value="5097.2" />
+          <attvalue for="11" value="5097.2" />
+          <attvalue for="12" value="364.6" />
+          <attvalue for="13" value="1960.1" />
+          <attvalue for="14" value="16.064" />
+          <attvalue for="15" value="7104.6" />
+          <attvalue for="16" value="58.2258" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="10340.625" />
+          <attvalue for="19" value="7367.2" />
+          <attvalue for="20" value="736" />
+          <attvalue for="21" value="6.0318" />
+          <attvalue for="22" value="1254.6" />
+          <attvalue for="23" value="2.8889" />
+          <attvalue for="24" value="6.1782" />
+          <attvalue for="25" value="26276.2" />
+          <attvalue for="26" value="41.0917" />
+          <attvalue for="27" value="69.7555" />
+          <attvalue for="28" value="12513.7" />
+          <attvalue for="29" value="13762.5" />
+          <attvalue for="30" value="12201.8" />
+          <attvalue for="39" value="mediterranean basinhc trading" />
+          <attvalue for="32" value="british columbia" />
+          <attvalue for="43" value="second city properties limited maidenhead" />
+          <attvalue for="33" value="tbg transportbeton gmbh co" />
+          <attvalue for="34" value="group consolidation" />
+          <attvalue for="35" value="kulai sdn bhd" />
+        </attvalues>
+      </node>
+      <node id="tag immobilien ag" label="tag immobilien ag">
+        <attvalues>
+          <attvalue for="0" value="mannheim" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="2" value="human resources" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="kreissparkasse miesbach-tegernsee" />
+          <attvalue for="4" value="berlin tag logistik immobilien gmbh co kg" />
+          <attvalue for="5" value="hamburg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="real estate operating companies" />
+          <attvalue for="8" value="-1.428" />
+          <attvalue for="9" value="75.288" />
+          <attvalue for="10" value="62.175" />
+          <attvalue for="11" value="62.175" />
+          <attvalue for="12" value="0.324" />
+          <attvalue for="13" value="231.813" />
+          <attvalue for="14" value="67.11" />
+          <attvalue for="15" value="283.247" />
+          <attvalue for="16" value="82.0002" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1152.79168" />
+          <attvalue for="19" value="2371.363" />
+          <attvalue for="20" value="28.047" />
+          <attvalue for="21" value="8.1196" />
+          <attvalue for="22" value="229.567" />
+          <attvalue for="23" value="3.7693" />
+          <attvalue for="24" value="3.476" />
+          <attvalue for="25" value="3813.052" />
+          <attvalue for="26" value="68.5449" />
+          <attvalue for="27" value="217.914" />
+          <attvalue for="28" value="1127.366" />
+          <attvalue for="29" value="2685.686" />
+          <attvalue for="30" value="345.422" />
+          <attvalue for="32" value="german stock corporations act" />
+          <attvalue for="33" value="dkb infrastruktur gmbh" />
+          <attvalue for="34" value="social housing department" />
+          <attvalue for="35" value="ronald frohne" />
+        </attvalues>
+      </node>
+      <node id="bechtle ag" label="bechtle ag">
+        <attvalues>
+          <attvalue for="0" value="heilbronn" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="sales service" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="kreissparkasse heilbronn" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="neckarsulm" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="it consulting and other services" />
+          <attvalue for="8" value="-23.535" />
+          <attvalue for="9" value="73.098" />
+          <attvalue for="10" value="1928.392" />
+          <attvalue for="11" value="1928.392" />
+          <attvalue for="12" value="23.798" />
+          <attvalue for="13" value="111.011" />
+          <attvalue for="14" value="4.8828" />
+          <attvalue for="15" value="345.093" />
+          <attvalue for="16" value="15.179" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1038.76454" />
+          <attvalue for="19" value="-60.121" />
+          <attvalue for="20" value="63.397" />
+          <attvalue for="21" value="2.7885" />
+          <attvalue for="22" value="90.911" />
+          <attvalue for="23" value="6.4775" />
+          <attvalue for="24" value="13.1919" />
+          <attvalue for="25" value="910.348" />
+          <attvalue for="26" value="11.3429" />
+          <attvalue for="27" value="12.7941" />
+          <attvalue for="28" value="501.565" />
+          <attvalue for="29" value="408.783" />
+          <attvalue for="30" value="2273.485" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="33" value="bechtle ag" />
+          <attvalue for="34" value="sharepoint and exchange" />
+          <attvalue for="35" value="bechtle tecdax" />
+        </attvalues>
+      </node>
+      <node id="continental ag" label="continental ag">
+        <attvalues>
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="core business areas automotive group sales" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="hanover local court" />
+          <attvalue for="5" value="hanover" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="automotive parts and equipment" />
+          <attvalue for="8" value="-1980.7" />
+          <attvalue for="9" value="3721.8" />
+          <attvalue for="10" value="25529.4" />
+          <attvalue for="11" value="25529.4" />
+          <attvalue for="12" value="710.2" />
+          <attvalue for="13" value="4926.1" />
+          <attvalue for="14" value="14.7793" />
+          <attvalue for="15" value="7801.6" />
+          <attvalue for="16" value="23.4064" />
+          <attvalue for="17" value="336.1" />
+          <attvalue for="18" value="31880.9564" />
+          <attvalue for="19" value="4592.7" />
+          <attvalue for="20" value="1923.1" />
+          <attvalue for="21" value="5.7697" />
+          <attvalue for="22" value="3284.6" />
+          <attvalue for="23" value="7.5652" />
+          <attvalue for="24" value="22.9972" />
+          <attvalue for="25" value="26820.8" />
+          <attvalue for="26" value="41.5891" />
+          <attvalue for="27" value="71.201" />
+          <attvalue for="28" value="9322.2" />
+          <attvalue for="29" value="17498.6" />
+          <attvalue for="30" value="33331" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="43" value="quality first" />
+          <attvalue for="33" value="deutsche hypokenbank ag" />
+          <attvalue for="34" value="risk report continental" />
+          <attvalue for="35" value="dirk nordmann" />
+        </attvalues>
+      </node>
+      <node id="prosiebensat 1 media se" label="prosiebensat 1 media se">
+        <attvalues>
+          <attvalue for="36" value="ii recurring ebitda" />
+          <attvalue for="0" value="glasgow" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="twentieth century fox television" />
+          <attvalue for="2" value="group risk and compliance officer" />
+          <attvalue for="37" value="capital markets day" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="düsseldorf regional court" />
+          <attvalue for="5" value="unterföhring" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="broadcasting" />
+          <attvalue for="8" value="-93.8" />
+          <attvalue for="9" value="1406.8" />
+          <attvalue for="10" value="1248.2" />
+          <attvalue for="11" value="1248.2" />
+          <attvalue for="12" value="142.9" />
+          <attvalue for="13" value="934.5" />
+          <attvalue for="14" value="35.8691" />
+          <attvalue for="15" value="1357.1" />
+          <attvalue for="16" value="52.0899" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="7669.4868" />
+          <attvalue for="19" value="1538" />
+          <attvalue for="20" value="312.1" />
+          <attvalue for="21" value="11.9794" />
+          <attvalue for="22" value="848.6" />
+          <attvalue for="23" value="11.8273" />
+          <attvalue for="24" value="34.9752" />
+          <attvalue for="25" value="3556" />
+          <attvalue for="26" value="76.8011" />
+          <attvalue for="27" value="331.0563" />
+          <attvalue for="28" value="584.1" />
+          <attvalue for="29" value="2971.9" />
+          <attvalue for="30" value="2605.3" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="free tv scandinavia" />
+          <attvalue for="32" value="german stock corporations act" />
+          <attvalue for="43" value="first steps der" />
+          <attvalue for="33" value="prosiebensat ag" />
+          <attvalue for="34" value="red arrow entertainment" />
+          <attvalue for="35" value="klaus töpfer" />
+        </attvalues>
+      </node>
+      <node id="sartorius ag" label="sartorius ag">
+        <attvalues>
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="business combinations accounting" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="göttingen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="life sciences tools and services" />
+          <attvalue for="8" value="-56.006" />
+          <attvalue for="9" value="103.26" />
+          <attvalue for="10" value="406.957" />
+          <attvalue for="11" value="406.957" />
+          <attvalue for="12" value="29.009" />
+          <attvalue for="13" value="154.628" />
+          <attvalue for="14" value="19.5346" />
+          <attvalue for="15" value="384.602" />
+          <attvalue for="16" value="48.5879" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="1461.77955" />
+          <attvalue for="19" value="352.295" />
+          <attvalue for="20" value="52.424" />
+          <attvalue for="21" value="6.6228" />
+          <attvalue for="22" value="114.356" />
+          <attvalue for="23" value="6.3468" />
+          <attvalue for="24" value="15.4679" />
+          <attvalue for="25" value="1181.32" />
+          <attvalue for="26" value="47.3035" />
+          <attvalue for="27" value="89.7661" />
+          <attvalue for="28" value="450.25" />
+          <attvalue for="29" value="731.07" />
+          <attvalue for="30" value="791.559" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="measurement valley" />
+          <attvalue for="32" value="chinese yuan" />
+          <attvalue for="43" value="rd activities" />
+          <attvalue for="33" value="sartorius anti corruption code" />
+          <attvalue for="34" value="industrial weighing" />
+          <attvalue for="35" value="klaus rüdiger trützschler" />
+          <attvalue for="44" value="rd risks and opportunities" />
+        </attvalues>
+      </node>
+      <node id="porsche automobil holding se" label="porsche automobil holding se">
+        <attvalues>
+          <attvalue for="0" value="innsbruck" />
+          <attvalue for="1" value="portugal" />
+          <attvalue for="2" value="governance risk and compliance" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="boulevard grandeduchesse" />
+          <attvalue for="4" value="grünwald notification" />
+          <attvalue for="5" value="stuttgart" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="automobile manufacturers" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="665" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="171" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="0" />
+          <attvalue for="15" value="0" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="23170.875" />
+          <attvalue for="19" value="-2612" />
+          <attvalue for="20" value="2408" />
+          <attvalue for="21" value="0" />
+          <attvalue for="22" value="-50" />
+          <attvalue for="23" value="-0.1027" />
+          <attvalue for="24" value="8.1663" />
+          <attvalue for="25" value="31285" />
+          <attvalue for="26" value="0.9749" />
+          <attvalue for="27" value="0.9845" />
+          <attvalue for="28" value="30470" />
+          <attvalue for="29" value="815" />
+          <attvalue for="30" value="0" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="growth consulting europe" />
+          <attvalue for="32" value="german stock corporations act" />
+          <attvalue for="43" value="second circuit" />
+          <attvalue for="33" value="beteiligungs gmbh co kg" />
+          <attvalue for="34" value="environment environmental" />
+          <attvalue for="35" value="mark philipp porsche" />
+        </attvalues>
+      </node>
+      <node id="basf se" label="basf se">
+        <attvalues>
+          <attvalue for="0" value="aschaffenburg" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="exploration production" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="research triangle park" />
+          <attvalue for="4" value="german animal welfare act" />
+          <attvalue for="5" value="ludwigshafen am rhein" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="diversified chemicals" />
+          <attvalue for="8" value="-4873" />
+          <attvalue for="9" value="8100" />
+          <attvalue for="10" value="55856" />
+          <attvalue for="11" value="55856" />
+          <attvalue for="12" value="1413" />
+          <attvalue for="13" value="9882" />
+          <attvalue for="14" value="13.3589" />
+          <attvalue for="15" value="18117" />
+          <attvalue for="16" value="24.4913" />
+          <attvalue for="17" value="70" />
+          <attvalue for="18" value="71172.914" />
+          <attvalue for="19" value="12522" />
+          <attvalue for="20" value="4792" />
+          <attvalue for="21" value="6.478" />
+          <attvalue for="22" value="6848" />
+          <attvalue for="23" value="6.7438" />
+          <attvalue for="24" value="19.1879" />
+          <attvalue for="25" value="64204" />
+          <attvalue for="26" value="35.5152" />
+          <attvalue for="27" value="55.0753" />
+          <attvalue for="28" value="27673" />
+          <attvalue for="29" value="36531" />
+          <attvalue for="30" value="73973" />
+          <attvalue for="39" value="market business development north america" />
+          <attvalue for="32" value="german investor relations award" />
+          <attvalue for="43" value="second nord stream" />
+          <attvalue for="33" value="united nations global compact basf report" />
+          <attvalue for="34" value="location project" />
+          <attvalue for="35" value="michael vassiliadis2" />
+          <attvalue for="44" value="ir magazine europe awards" />
+        </attvalues>
+      </node>
+      <node id="fuchs petrolub se" label="fuchs petrolub se">
+        <attvalues>
+          <attvalue for="0" value="johannesburg" />
+          <attvalue for="1" value="ukraine" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="compliance program" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="darmstadt print" />
+          <attvalue for="5" value="mannheim" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="commodity chemicals" />
+          <attvalue for="8" value="-72.8" />
+          <attvalue for="9" value="220.5" />
+          <attvalue for="10" value="1147" />
+          <attvalue for="11" value="1147" />
+          <attvalue for="12" value="88.4" />
+          <attvalue for="13" value="330.5" />
+          <attvalue for="14" value="18.0443" />
+          <attvalue for="15" value="684.6" />
+          <attvalue for="16" value="37.3771" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="4714.4916" />
+          <attvalue for="19" value="-167.4" />
+          <attvalue for="20" value="218.1" />
+          <attvalue for="21" value="11.9076" />
+          <attvalue for="22" value="302.8" />
+          <attvalue for="23" value="16.6688" />
+          <attvalue for="24" value="26.7367" />
+          <attvalue for="25" value="1162" />
+          <attvalue for="26" value="0.9056" />
+          <attvalue for="27" value="0.9138" />
+          <attvalue for="28" value="853.5" />
+          <attvalue for="29" value="308.5" />
+          <attvalue for="30" value="1831.6" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="south americ" />
+          <attvalue for="32" value="german stock" />
+          <attvalue for="33" value="the fuchs petrolub ag" />
+          <attvalue for="34" value="group actuarial" />
+          <attvalue for="35" value="jürgen strube" />
+        </attvalues>
+      </node>
+      <node id="lanxess ag" label="lanxess ag">
+        <attvalues>
+          <attvalue for="0" value="buenos aires" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="financial officer accounting" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="european union" />
+          <attvalue for="5" value="cologne" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="diversified chemicals" />
+          <attvalue for="8" value="-624" />
+          <attvalue for="9" value="641" />
+          <attvalue for="10" value="6730" />
+          <attvalue for="11" value="6730" />
+          <attvalue for="12" value="17" />
+          <attvalue for="13" value="719" />
+          <attvalue for="14" value="8.6626" />
+          <attvalue for="15" value="1570" />
+          <attvalue for="16" value="18.9156" />
+          <attvalue for="17" value="18" />
+          <attvalue for="18" value="4033.24943" />
+          <attvalue for="19" value="1784" />
+          <attvalue for="20" value="-159" />
+          <attvalue for="21" value="-1.9156" />
+          <attvalue for="22" value="281" />
+          <attvalue for="23" value="2.4511" />
+          <attvalue for="24" value="-7.9432" />
+          <attvalue for="25" value="6811" />
+          <attvalue for="26" value="54.9442" />
+          <attvalue for="27" value="121.9473" />
+          <attvalue for="28" value="1900" />
+          <attvalue for="29" value="4911" />
+          <attvalue for="30" value="8300" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="north america" />
+          <attvalue for="32" value="german corporate governance code" />
+          <attvalue for="43" value="corporate responsibility our first green mobility public day" />
+          <attvalue for="33" value="lanxess deutsch land gmbh" />
+          <attvalue for="34" value="gri content" />
+          <attvalue for="35" value="next azubi" />
+        </attvalues>
+      </node>
+      <node id="alstria office reit ag" label="alstria office reit ag">
+        <attvalues>
+          <attvalue for="36" value="conditional capital ii" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="4" value="würzburg" />
+          <attvalue for="5" value="hamburg" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="office reits" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="50.114" />
+          <attvalue for="10" value="10.462" />
+          <attvalue for="11" value="10.462" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="84.777" />
+          <attvalue for="14" value="81.1286" />
+          <attvalue for="15" value="94.035" />
+          <attvalue for="16" value="89.9882" />
+          <attvalue for="17" value="16.168" />
+          <attvalue for="18" value="722.39927" />
+          <attvalue for="19" value="829.825" />
+          <attvalue for="20" value="38.945" />
+          <attvalue for="21" value="37.269" />
+          <attvalue for="22" value="84.228" />
+          <attvalue for="23" value="2.947" />
+          <attvalue for="24" value="4.6545" />
+          <attvalue for="25" value="1785.679" />
+          <attvalue for="26" value="51.9601" />
+          <attvalue for="27" value="108.1606" />
+          <attvalue for="28" value="844.114" />
+          <attvalue for="29" value="941.565" />
+          <attvalue for="30" value="104.497" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="32" value="german share index" />
+          <attvalue for="33" value="hci capital ag" />
+          <attvalue for="34" value="nachhaltiges bauen" />
+          <attvalue for="35" value="alexander stuhlmann" />
+        </attvalues>
+      </node>
+      <node id="evonik industries ag" label="evonik industries ag">
+        <attvalues>
+          <attvalue for="36" value="phase iii development" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="germany" />
+          <attvalue for="38" value="annual report" />
+          <attvalue for="2" value="antitrust foreign trade fighting corruption capital market compliance datprotection environment" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="rellinghauser straße" />
+          <attvalue for="4" value="darmstadt evonik services gmbh" />
+          <attvalue for="5" value="essen" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="specialty chemicals" />
+          <attvalue for="8" value="-1083" />
+          <attvalue for="9" value="1055" />
+          <attvalue for="10" value="9111" />
+          <attvalue for="11" value="9111" />
+          <attvalue for="12" value="261" />
+          <attvalue for="13" value="1541" />
+          <attvalue for="14" value="12.1262" />
+          <attvalue for="15" value="3597" />
+          <attvalue for="16" value="28.305" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="13807.58" />
+          <attvalue for="19" value="-569" />
+          <attvalue for="20" value="2054" />
+          <attvalue for="21" value="16.163" />
+          <attvalue for="22" value="1170" />
+          <attvalue for="23" value="4.4252" />
+          <attvalue for="24" value="9.5083" />
+          <attvalue for="25" value="15883" />
+          <attvalue for="26" value="19.0335" />
+          <attvalue for="27" value="23.5078" />
+          <attvalue for="28" value="6836" />
+          <attvalue for="29" value="9047" />
+          <attvalue for="30" value="12708" />
+          <attvalue for="31" value="german securities trading act" />
+          <attvalue for="39" value="hainan island" />
+          <attvalue for="32" value="german commercial code remuneration" />
+          <attvalue for="43" value="safety first" />
+          <attvalue for="33" value="uk holdings ltd" />
+          <attvalue for="34" value="evonik cyro canadinc etobicoke" />
+          <attvalue for="35" value="niu jin" />
+          <attvalue for="45" value="evonik peroxide bv" />
+        </attvalues>
+      </node>
+      <node id="deutsche boerse ag" label="deutsche boerse ag">
+        <attvalues>
+          <attvalue for="36" value="six group report" />
+          <attvalue for="0" value="delaware" />
+          <attvalue for="1" value="belgium" />
+          <attvalue for="2" value="human resources and compliance" />
+          <attvalue for="3" value="xtra" />
+          <attvalue for="40" value="fulton street floor" />
+          <attvalue for="4" value="new york securing" />
+          <attvalue for="5" value="eschborn" />
+          <attvalue for="6" value="germany" />
+          <attvalue for="7" value="financial exchanges and data" />
+          <attvalue for="8" value="-28.6" />
+          <attvalue for="9" value="728.3" />
+          <attvalue for="10" value="304.5" />
+          <attvalue for="11" value="304.8" />
+          <attvalue for="12" value="169.7" />
+          <attvalue for="13" value="979.5" />
+          <attvalue for="14" value="44.5389" />
+          <attvalue for="15" value="1894.4" />
+          <attvalue for="16" value="86.1404" />
+          <attvalue for="17" value="57.9" />
+          <attvalue for="18" value="11083.76255" />
+          <attvalue for="19" value="880.9" />
+          <attvalue for="20" value="478.4" />
+          <attvalue for="21" value="21.7533" />
+          <attvalue for="22" value="913.7" />
+          <attvalue for="23" value="0.2973" />
+          <attvalue for="24" value="15.3846" />
+          <attvalue for="25" value="189309.9" />
+          <attvalue for="26" value="36.2092" />
+          <attvalue for="27" value="56.7625" />
+          <attvalue for="28" value="3268" />
+          <attvalue for="29" value="186041.9" />
+          <attvalue for="30" value="2199.2" />
+          <attvalue for="31" value="german stock corporation act section" />
+          <attvalue for="32" value="european energy exchange clearing" />
+          <attvalue for="33" value="deutsche börse institutional" />
+          <attvalue for="34" value="msci world esg index" />
+          <attvalue for="35" value="main andreas preuss" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="carl zeiss meditec ag" target="beiersdorf ag" id="0" weight="4.700000000000001" />
+      <edge source="carl zeiss meditec ag" target="deutsche boerse ag" id="1" weight="3.5000000000000018" />
+      <edge source="carl zeiss meditec ag" target="e.on se" id="2" weight="3.800000000000002" />
+      <edge source="carl zeiss meditec ag" target="evonik industries ag" id="3" weight="4.400000000000001" />
+      <edge source="carl zeiss meditec ag" target="freenet ag" id="4" weight="2.500000000000001" />
+      <edge source="carl zeiss meditec ag" target="fuchs petrolub se" id="5" weight="3.5000000000000018" />
+      <edge source="carl zeiss meditec ag" target="knorr bremse ag" id="6" weight="4.800000000000002" />
+      <edge source="carl zeiss meditec ag" target="leg immobilien se" id="7" weight="1.8" />
+      <edge source="carl zeiss meditec ag" target="henkel ag &amp; co kgaa" id="8" weight="4.799999999999999" />
+      <edge source="carl zeiss meditec ag" target="alstria office reit ag" id="9" weight="1.8" />
+      <edge source="carl zeiss meditec ag" target="basf se" id="10" weight="3.800000000000002" />
+      <edge source="carl zeiss meditec ag" target="bechtle ag" id="11" weight="2.1" />
+      <edge source="carl zeiss meditec ag" target="commerzbank ag" id="12" weight="3.900000000000002" />
+      <edge source="carl zeiss meditec ag" target="continental ag" id="13" weight="4.000000000000002" />
+      <edge source="carl zeiss meditec ag" target="cts eventim ag &amp; co kgaa" id="14" weight="1.8" />
+      <edge source="carl zeiss meditec ag" target="deutsche bank ag" id="15" weight="4.200000000000001" />
+      <edge source="carl zeiss meditec ag" target="deutsche telekom ag" id="16" weight="2.800000000000001" />
+      <edge source="carl zeiss meditec ag" target="evotec se" id="17" weight="2.2" />
+      <edge source="carl zeiss meditec ag" target="gerresheimer ag" id="18" weight="3.800000000000002" />
+      <edge source="carl zeiss meditec ag" target="hannover rueck se" id="19" weight="3.600000000000002" />
+      <edge source="carl zeiss meditec ag" target="heidelbergcement ag" id="20" weight="4.000000000000002" />
+      <edge source="carl zeiss meditec ag" target="infineon technologies ag" id="21" weight="3.900000000000002" />
+      <edge source="carl zeiss meditec ag" target="kion group ag" id="22" weight="3.2000000000000015" />
+      <edge source="carl zeiss meditec ag" target="lanxess ag" id="23" weight="4.000000000000002" />
+      <edge source="carl zeiss meditec ag" target="mtu aero engines ag" id="24" weight="2.3000000000000007" />
+      <edge source="carl zeiss meditec ag" target="porsche automobil holding se" id="25" weight="3.0000000000000013" />
+      <edge source="carl zeiss meditec ag" target="prosiebensat 1 media se" id="26" weight="2.9000000000000012" />
+      <edge source="carl zeiss meditec ag" target="rational ag" id="27" weight="3.0000000000000013" />
+      <edge source="carl zeiss meditec ag" target="rheinmetall ag" id="28" weight="3.5000000000000018" />
+      <edge source="carl zeiss meditec ag" target="rwe ag" id="29" weight="3.3000000000000016" />
+      <edge source="carl zeiss meditec ag" target="sartorius ag" id="30" weight="4.300000000000001" />
+      <edge source="carl zeiss meditec ag" target="symrise ag" id="31" weight="3.600000000000002" />
+      <edge source="carl zeiss meditec ag" target="tag immobilien ag" id="32" weight="1.7000000000000002" />
+      <edge source="carl zeiss meditec ag" target="thyssenkrupp ag" id="33" weight="2.3000000000000007" />
+      <edge source="carl zeiss meditec ag" target="volkswagen ag" id="34" weight="4.300000000000001" />
+      <edge source="carl zeiss meditec ag" target="zalando se" id="35" weight="1.4" />
+      <edge source="zalando se" target="alstria office reit ag" id="36" weight="1.4" />
+      <edge source="zalando se" target="basf se" id="37" weight="1.7" />
+      <edge source="zalando se" target="bechtle ag" id="38" weight="1.6" />
+      <edge source="zalando se" target="beiersdorf ag" id="39" weight="1.5" />
+      <edge source="zalando se" target="commerzbank ag" id="40" weight="1.7" />
+      <edge source="zalando se" target="continental ag" id="41" weight="1.6" />
+      <edge source="zalando se" target="cts eventim ag &amp; co kgaa" id="42" weight="1.5" />
+      <edge source="zalando se" target="deutsche bank ag" id="43" weight="1.7" />
+      <edge source="zalando se" target="deutsche boerse ag" id="44" weight="1.5" />
+      <edge source="zalando se" target="deutsche telekom ag" id="45" weight="1.7" />
+      <edge source="zalando se" target="e.on se" id="46" weight="2.1000000000000005" />
+      <edge source="zalando se" target="evonik industries ag" id="47" weight="1.7" />
+      <edge source="zalando se" target="evotec se" id="48" weight="1.0" />
+      <edge source="zalando se" target="freenet ag" id="49" weight="1.4999999999999998" />
+      <edge source="zalando se" target="fuchs petrolub se" id="50" weight="1.5" />
+      <edge source="zalando se" target="gerresheimer ag" id="51" weight="1.4999999999999998" />
+      <edge source="zalando se" target="hannover rueck se" id="52" weight="1.5" />
+      <edge source="zalando se" target="heidelbergcement ag" id="53" weight="1.7" />
+      <edge source="zalando se" target="henkel ag &amp; co kgaa" id="54" weight="1.5" />
+      <edge source="zalando se" target="infineon technologies ag" id="55" weight="1.5999999999999999" />
+      <edge source="zalando se" target="kion group ag" id="56" weight="1.4" />
+      <edge source="zalando se" target="knorr bremse ag" id="57" weight="1.4" />
+      <edge source="zalando se" target="lanxess ag" id="58" weight="1.8" />
+      <edge source="zalando se" target="leg immobilien se" id="59" weight="0.8" />
+      <edge source="zalando se" target="mtu aero engines ag" id="60" weight="1.4" />
+      <edge source="zalando se" target="porsche automobil holding se" id="61" weight="1.4000000000000001" />
+      <edge source="zalando se" target="prosiebensat 1 media se" id="62" weight="1.5999999999999999" />
+      <edge source="zalando se" target="rational ag" id="63" weight="1.2999999999999998" />
+      <edge source="zalando se" target="rheinmetall ag" id="64" weight="1.4999999999999998" />
+      <edge source="zalando se" target="rwe ag" id="65" weight="1.5" />
+      <edge source="zalando se" target="sartorius ag" id="66" weight="1.8" />
+      <edge source="zalando se" target="symrise ag" id="67" weight="1.7" />
+      <edge source="zalando se" target="tag immobilien ag" id="68" weight="1.0999999999999999" />
+      <edge source="zalando se" target="thyssenkrupp ag" id="69" weight="1.0999999999999999" />
+      <edge source="zalando se" target="volkswagen ag" id="70" weight="1.7" />
+      <edge source="gerresheimer ag" target="alstria office reit ag" id="71" weight="2.3" />
+      <edge source="gerresheimer ag" target="deutsche bank ag" id="72" weight="4.800000000000001" />
+      <edge source="gerresheimer ag" target="bechtle ag" id="73" weight="2.9000000000000012" />
+      <edge source="gerresheimer ag" target="commerzbank ag" id="74" weight="4.600000000000001" />
+      <edge source="gerresheimer ag" target="henkel ag &amp; co kgaa" id="75" weight="3.600000000000002" />
+      <edge source="gerresheimer ag" target="lanxess ag" id="76" weight="4.800000000000001" />
+      <edge source="gerresheimer ag" target="porsche automobil holding se" id="77" weight="3.0000000000000013" />
+      <edge source="gerresheimer ag" target="deutsche boerse ag" id="78" weight="3.700000000000002" />
+      <edge source="gerresheimer ag" target="mtu aero engines ag" id="79" weight="3.0000000000000013" />
+      <edge source="gerresheimer ag" target="sartorius ag" id="80" weight="5.000000000000001" />
+      <edge source="gerresheimer ag" target="basf se" id="81" weight="3.900000000000002" />
+      <edge source="gerresheimer ag" target="beiersdorf ag" id="82" weight="4.000000000000002" />
+      <edge source="gerresheimer ag" target="continental ag" id="83" weight="4.000000000000002" />
+      <edge source="gerresheimer ag" target="cts eventim ag &amp; co kgaa" id="84" weight="2.700000000000001" />
+      <edge source="gerresheimer ag" target="deutsche telekom ag" id="85" weight="3.1000000000000014" />
+      <edge source="gerresheimer ag" target="e.on se" id="86" weight="4.000000000000002" />
+      <edge source="gerresheimer ag" target="evonik industries ag" id="87" weight="4.000000000000002" />
+      <edge source="gerresheimer ag" target="evotec se" id="88" weight="2.0999999999999996" />
+      <edge source="gerresheimer ag" target="freenet ag" id="89" weight="2.3000000000000003" />
+      <edge source="gerresheimer ag" target="fuchs petrolub se" id="90" weight="3.700000000000002" />
+      <edge source="gerresheimer ag" target="hannover rueck se" id="91" weight="3.700000000000002" />
+      <edge source="gerresheimer ag" target="heidelbergcement ag" id="92" weight="3.900000000000002" />
+      <edge source="gerresheimer ag" target="infineon technologies ag" id="93" weight="4.100000000000001" />
+      <edge source="gerresheimer ag" target="kion group ag" id="94" weight="3.5000000000000018" />
+      <edge source="gerresheimer ag" target="knorr bremse ag" id="95" weight="4.000000000000002" />
+      <edge source="gerresheimer ag" target="leg immobilien se" id="96" weight="1.6" />
+      <edge source="gerresheimer ag" target="prosiebensat 1 media se" id="97" weight="3.2000000000000015" />
+      <edge source="gerresheimer ag" target="rational ag" id="98" weight="3.2000000000000015" />
+      <edge source="gerresheimer ag" target="rheinmetall ag" id="99" weight="3.800000000000002" />
+      <edge source="gerresheimer ag" target="rwe ag" id="100" weight="3.1000000000000014" />
+      <edge source="gerresheimer ag" target="symrise ag" id="101" weight="3.700000000000002" />
+      <edge source="gerresheimer ag" target="tag immobilien ag" id="102" weight="2.1999999999999997" />
+      <edge source="gerresheimer ag" target="thyssenkrupp ag" id="103" weight="2.400000000000001" />
+      <edge source="gerresheimer ag" target="volkswagen ag" id="104" weight="4.400000000000001" />
+      <edge source="commerzbank ag" target="deutsche telekom ag" id="105" weight="5.6" />
+      <edge source="commerzbank ag" target="lanxess ag" id="106" weight="6.999999999999996" />
+      <edge source="commerzbank ag" target="beiersdorf ag" id="107" weight="5.699999999999998" />
+      <edge source="commerzbank ag" target="deutsche bank ag" id="108" weight="9.399999999999986" />
+      <edge source="commerzbank ag" target="evonik industries ag" id="109" weight="6.499999999999997" />
+      <edge source="commerzbank ag" target="fuchs petrolub se" id="110" weight="5.2" />
+      <edge source="commerzbank ag" target="infineon technologies ag" id="111" weight="5.699999999999998" />
+      <edge source="commerzbank ag" target="kion group ag" id="112" weight="6.099999999999998" />
+      <edge source="commerzbank ag" target="knorr bremse ag" id="113" weight="5.899999999999998" />
+      <edge source="commerzbank ag" target="mtu aero engines ag" id="114" weight="3.2000000000000015" />
+      <edge source="commerzbank ag" target="sartorius ag" id="115" weight="5.3999999999999995" />
+      <edge source="commerzbank ag" target="symrise ag" id="116" weight="3.900000000000002" />
+      <edge source="commerzbank ag" target="volkswagen ag" id="117" weight="6.299999999999997" />
+      <edge source="commerzbank ag" target="continental ag" id="118" weight="5.5" />
+      <edge source="commerzbank ag" target="rheinmetall ag" id="119" weight="4.700000000000002" />
+      <edge source="commerzbank ag" target="bechtle ag" id="120" weight="4.100000000000001" />
+      <edge source="commerzbank ag" target="henkel ag &amp; co kgaa" id="121" weight="4.5" />
+      <edge source="commerzbank ag" target="porsche automobil holding se" id="122" weight="5.0" />
+      <edge source="commerzbank ag" target="thyssenkrupp ag" id="123" weight="3.1000000000000014" />
+      <edge source="commerzbank ag" target="deutsche boerse ag" id="124" weight="6.599999999999996" />
+      <edge source="commerzbank ag" target="leg immobilien se" id="125" weight="3.4000000000000017" />
+      <edge source="commerzbank ag" target="prosiebensat 1 media se" id="126" weight="4.300000000000001" />
+      <edge source="commerzbank ag" target="e.on se" id="127" weight="6.299999999999998" />
+      <edge source="commerzbank ag" target="alstria office reit ag" id="128" weight="2.9000000000000012" />
+      <edge source="commerzbank ag" target="basf se" id="129" weight="4.9" />
+      <edge source="commerzbank ag" target="cts eventim ag &amp; co kgaa" id="130" weight="3.0000000000000013" />
+      <edge source="commerzbank ag" target="evotec se" id="131" weight="2.1" />
+      <edge source="commerzbank ag" target="freenet ag" id="132" weight="3.0000000000000013" />
+      <edge source="commerzbank ag" target="hannover rueck se" id="133" weight="5.100000000000001" />
+      <edge source="commerzbank ag" target="heidelbergcement ag" id="134" weight="6.699999999999997" />
+      <edge source="commerzbank ag" target="rational ag" id="135" weight="3.900000000000002" />
+      <edge source="commerzbank ag" target="rwe ag" id="136" weight="5.499999999999999" />
+      <edge source="commerzbank ag" target="tag immobilien ag" id="137" weight="2.5000000000000004" />
+      <edge source="evotec se" target="symrise ag" id="138" weight="2.3000000000000003" />
+      <edge source="evotec se" target="cts eventim ag &amp; co kgaa" id="139" weight="2.0" />
+      <edge source="evotec se" target="heidelbergcement ag" id="140" weight="2.700000000000001" />
+      <edge source="evotec se" target="tag immobilien ag" id="141" weight="2.1" />
+      <edge source="evotec se" target="evonik industries ag" id="142" weight="2.400000000000001" />
+      <edge source="evotec se" target="alstria office reit ag" id="143" weight="1.7" />
+      <edge source="evotec se" target="basf se" id="144" weight="2.6000000000000005" />
+      <edge source="evotec se" target="bechtle ag" id="145" weight="1.8" />
+      <edge source="evotec se" target="beiersdorf ag" id="146" weight="1.9000000000000001" />
+      <edge source="evotec se" target="continental ag" id="147" weight="2.7000000000000006" />
+      <edge source="evotec se" target="deutsche bank ag" id="148" weight="2.900000000000001" />
+      <edge source="evotec se" target="deutsche boerse ag" id="149" weight="2.4000000000000004" />
+      <edge source="evotec se" target="deutsche telekom ag" id="150" weight="2.3000000000000003" />
+      <edge source="evotec se" target="e.on se" id="151" weight="2.2" />
+      <edge source="evotec se" target="freenet ag" id="152" weight="2.0999999999999996" />
+      <edge source="evotec se" target="fuchs petrolub se" id="153" weight="2.0" />
+      <edge source="evotec se" target="hannover rueck se" id="154" weight="2.3000000000000003" />
+      <edge source="evotec se" target="henkel ag &amp; co kgaa" id="155" weight="2.6000000000000005" />
+      <edge source="evotec se" target="infineon technologies ag" id="156" weight="2.2" />
+      <edge source="evotec se" target="kion group ag" id="157" weight="2.0" />
+      <edge source="evotec se" target="knorr bremse ag" id="158" weight="1.9000000000000001" />
+      <edge source="evotec se" target="lanxess ag" id="159" weight="2.700000000000001" />
+      <edge source="evotec se" target="leg immobilien se" id="160" weight="1.7000000000000002" />
+      <edge source="evotec se" target="mtu aero engines ag" id="161" weight="1.7" />
+      <edge source="evotec se" target="porsche automobil holding se" id="162" weight="1.9000000000000001" />
+      <edge source="evotec se" target="prosiebensat 1 media se" id="163" weight="2.5000000000000004" />
+      <edge source="evotec se" target="rational ag" id="164" weight="2.2" />
+      <edge source="evotec se" target="rheinmetall ag" id="165" weight="2.800000000000001" />
+      <edge source="evotec se" target="rwe ag" id="166" weight="1.8" />
+      <edge source="evotec se" target="sartorius ag" id="167" weight="2.3000000000000003" />
+      <edge source="evotec se" target="thyssenkrupp ag" id="168" weight="1.4999999999999998" />
+      <edge source="evotec se" target="volkswagen ag" id="169" weight="2.2" />
+      <edge source="henkel ag &amp; co kgaa" target="deutsche bank ag" id="170" weight="5.399999999999999" />
+      <edge source="henkel ag &amp; co kgaa" target="rwe ag" id="171" weight="3.0000000000000013" />
+      <edge source="henkel ag &amp; co kgaa" target="basf se" id="172" weight="4.699999999999999" />
+      <edge source="henkel ag &amp; co kgaa" target="evonik industries ag" id="173" weight="4.5" />
+      <edge source="henkel ag &amp; co kgaa" target="e.on se" id="174" weight="5.1" />
+      <edge source="henkel ag &amp; co kgaa" target="bechtle ag" id="175" weight="2.4000000000000004" />
+      <edge source="henkel ag &amp; co kgaa" target="lanxess ag" id="176" weight="4.7" />
+      <edge source="henkel ag &amp; co kgaa" target="porsche automobil holding se" id="177" weight="3.800000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="deutsche telekom ag" id="178" weight="3.5000000000000018" />
+      <edge source="henkel ag &amp; co kgaa" target="fuchs petrolub se" id="179" weight="3.800000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="prosiebensat 1 media se" id="180" weight="3.600000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="symrise ag" id="181" weight="3.800000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="volkswagen ag" id="182" weight="5.299999999999998" />
+      <edge source="henkel ag &amp; co kgaa" target="alstria office reit ag" id="183" weight="2.0" />
+      <edge source="henkel ag &amp; co kgaa" target="beiersdorf ag" id="184" weight="3.600000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="continental ag" id="185" weight="4.200000000000001" />
+      <edge source="henkel ag &amp; co kgaa" target="cts eventim ag &amp; co kgaa" id="186" weight="2.500000000000001" />
+      <edge source="henkel ag &amp; co kgaa" target="deutsche boerse ag" id="187" weight="4.200000000000001" />
+      <edge source="henkel ag &amp; co kgaa" target="freenet ag" id="188" weight="2.2" />
+      <edge source="henkel ag &amp; co kgaa" target="hannover rueck se" id="189" weight="3.5000000000000018" />
+      <edge source="henkel ag &amp; co kgaa" target="heidelbergcement ag" id="190" weight="3.900000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="infineon technologies ag" id="191" weight="3.800000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="kion group ag" id="192" weight="3.2000000000000015" />
+      <edge source="henkel ag &amp; co kgaa" target="knorr bremse ag" id="193" weight="3.700000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="leg immobilien se" id="194" weight="1.9000000000000001" />
+      <edge source="henkel ag &amp; co kgaa" target="mtu aero engines ag" id="195" weight="2.4000000000000004" />
+      <edge source="henkel ag &amp; co kgaa" target="rational ag" id="196" weight="3.3000000000000016" />
+      <edge source="henkel ag &amp; co kgaa" target="rheinmetall ag" id="197" weight="3.2000000000000015" />
+      <edge source="henkel ag &amp; co kgaa" target="sartorius ag" id="198" weight="3.600000000000002" />
+      <edge source="henkel ag &amp; co kgaa" target="tag immobilien ag" id="199" weight="1.8000000000000003" />
+      <edge source="henkel ag &amp; co kgaa" target="thyssenkrupp ag" id="200" weight="2.0000000000000004" />
+      <edge source="knorr bremse ag" target="beiersdorf ag" id="201" weight="5.499999999999999" />
+      <edge source="knorr bremse ag" target="deutsche bank ag" id="202" weight="5.199999999999999" />
+      <edge source="knorr bremse ag" target="evonik industries ag" id="203" weight="6.099999999999997" />
+      <edge source="knorr bremse ag" target="fuchs petrolub se" id="204" weight="4.9" />
+      <edge source="knorr bremse ag" target="infineon technologies ag" id="205" weight="6.199999999999997" />
+      <edge source="knorr bremse ag" target="kion group ag" id="206" weight="5.1" />
+      <edge source="knorr bremse ag" target="lanxess ag" id="207" weight="5.3999999999999995" />
+      <edge source="knorr bremse ag" target="mtu aero engines ag" id="208" weight="3.2000000000000015" />
+      <edge source="knorr bremse ag" target="sartorius ag" id="209" weight="5.199999999999999" />
+      <edge source="knorr bremse ag" target="symrise ag" id="210" weight="4.000000000000002" />
+      <edge source="knorr bremse ag" target="volkswagen ag" id="211" weight="6.299999999999997" />
+      <edge source="knorr bremse ag" target="deutsche boerse ag" id="212" weight="4.100000000000001" />
+      <edge source="knorr bremse ag" target="e.on se" id="213" weight="5.3" />
+      <edge source="knorr bremse ag" target="freenet ag" id="214" weight="2.3000000000000007" />
+      <edge source="knorr bremse ag" target="leg immobilien se" id="215" weight="1.6999999999999997" />
+      <edge source="knorr bremse ag" target="heidelbergcement ag" id="216" weight="5.899999999999999" />
+      <edge source="knorr bremse ag" target="rational ag" id="217" weight="4.000000000000002" />
+      <edge source="knorr bremse ag" target="alstria office reit ag" id="218" weight="1.6" />
+      <edge source="knorr bremse ag" target="basf se" id="219" weight="5.000000000000001" />
+      <edge source="knorr bremse ag" target="bechtle ag" id="220" weight="2.800000000000001" />
+      <edge source="knorr bremse ag" target="continental ag" id="221" weight="5.6" />
+      <edge source="knorr bremse ag" target="cts eventim ag &amp; co kgaa" id="222" weight="2.600000000000001" />
+      <edge source="knorr bremse ag" target="deutsche telekom ag" id="223" weight="3.5000000000000018" />
+      <edge source="knorr bremse ag" target="hannover rueck se" id="224" weight="4.700000000000001" />
+      <edge source="knorr bremse ag" target="porsche automobil holding se" id="225" weight="3.900000000000002" />
+      <edge source="knorr bremse ag" target="prosiebensat 1 media se" id="226" weight="3.5000000000000018" />
+      <edge source="knorr bremse ag" target="rheinmetall ag" id="227" weight="4.000000000000002" />
+      <edge source="knorr bremse ag" target="rwe ag" id="228" weight="4.400000000000002" />
+      <edge source="knorr bremse ag" target="tag immobilien ag" id="229" weight="1.7999999999999998" />
+      <edge source="knorr bremse ag" target="thyssenkrupp ag" id="230" weight="2.600000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="heidelbergcement ag" id="231" weight="3.4000000000000017" />
+      <edge source="cts eventim ag &amp; co kgaa" target="tag immobilien ag" id="232" weight="2.1" />
+      <edge source="cts eventim ag &amp; co kgaa" target="alstria office reit ag" id="233" weight="1.7" />
+      <edge source="cts eventim ag &amp; co kgaa" target="basf se" id="234" weight="2.3000000000000003" />
+      <edge source="cts eventim ag &amp; co kgaa" target="bechtle ag" id="235" weight="2.3000000000000003" />
+      <edge source="cts eventim ag &amp; co kgaa" target="beiersdorf ag" id="236" weight="2.2000000000000006" />
+      <edge source="cts eventim ag &amp; co kgaa" target="continental ag" id="237" weight="3.2000000000000015" />
+      <edge source="cts eventim ag &amp; co kgaa" target="deutsche bank ag" id="238" weight="3.1000000000000014" />
+      <edge source="cts eventim ag &amp; co kgaa" target="deutsche boerse ag" id="239" weight="2.800000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="deutsche telekom ag" id="240" weight="3.3000000000000016" />
+      <edge source="cts eventim ag &amp; co kgaa" target="e.on se" id="241" weight="3.4000000000000017" />
+      <edge source="cts eventim ag &amp; co kgaa" target="evonik industries ag" id="242" weight="2.500000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="freenet ag" id="243" weight="2.2" />
+      <edge source="cts eventim ag &amp; co kgaa" target="fuchs petrolub se" id="244" weight="2.700000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="hannover rueck se" id="245" weight="2.500000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="infineon technologies ag" id="246" weight="2.700000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="kion group ag" id="247" weight="3.0000000000000013" />
+      <edge source="cts eventim ag &amp; co kgaa" target="lanxess ag" id="248" weight="2.800000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="leg immobilien se" id="249" weight="1.7000000000000002" />
+      <edge source="cts eventim ag &amp; co kgaa" target="mtu aero engines ag" id="250" weight="2.0" />
+      <edge source="cts eventim ag &amp; co kgaa" target="porsche automobil holding se" id="251" weight="2.3000000000000003" />
+      <edge source="cts eventim ag &amp; co kgaa" target="prosiebensat 1 media se" id="252" weight="3.1000000000000014" />
+      <edge source="cts eventim ag &amp; co kgaa" target="rational ag" id="253" weight="2.600000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="rheinmetall ag" id="254" weight="2.600000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="rwe ag" id="255" weight="2.500000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="sartorius ag" id="256" weight="2.600000000000001" />
+      <edge source="cts eventim ag &amp; co kgaa" target="symrise ag" id="257" weight="2.3000000000000003" />
+      <edge source="cts eventim ag &amp; co kgaa" target="thyssenkrupp ag" id="258" weight="1.4999999999999998" />
+      <edge source="cts eventim ag &amp; co kgaa" target="volkswagen ag" id="259" weight="3.600000000000002" />
+      <edge source="thyssenkrupp ag" target="alstria office reit ag" id="260" weight="1.5999999999999999" />
+      <edge source="thyssenkrupp ag" target="basf se" id="261" weight="2.600000000000001" />
+      <edge source="thyssenkrupp ag" target="bechtle ag" id="262" weight="1.9" />
+      <edge source="thyssenkrupp ag" target="beiersdorf ag" id="263" weight="2.3000000000000007" />
+      <edge source="thyssenkrupp ag" target="continental ag" id="264" weight="2.800000000000001" />
+      <edge source="thyssenkrupp ag" target="deutsche bank ag" id="265" weight="2.3000000000000007" />
+      <edge source="thyssenkrupp ag" target="deutsche boerse ag" id="266" weight="2.1000000000000005" />
+      <edge source="thyssenkrupp ag" target="deutsche telekom ag" id="267" weight="2.1" />
+      <edge source="thyssenkrupp ag" target="e.on se" id="268" weight="2.500000000000001" />
+      <edge source="thyssenkrupp ag" target="evonik industries ag" id="269" weight="3.1000000000000014" />
+      <edge source="thyssenkrupp ag" target="freenet ag" id="270" weight="1.9" />
+      <edge source="thyssenkrupp ag" target="fuchs petrolub se" id="271" weight="2.3000000000000007" />
+      <edge source="thyssenkrupp ag" target="hannover rueck se" id="272" weight="2.500000000000001" />
+      <edge source="thyssenkrupp ag" target="heidelbergcement ag" id="273" weight="2.700000000000001" />
+      <edge source="thyssenkrupp ag" target="infineon technologies ag" id="274" weight="2.500000000000001" />
+      <edge source="thyssenkrupp ag" target="kion group ag" id="275" weight="2.2000000000000006" />
+      <edge source="thyssenkrupp ag" target="lanxess ag" id="276" weight="2.600000000000001" />
+      <edge source="thyssenkrupp ag" target="leg immobilien se" id="277" weight="1.5999999999999999" />
+      <edge source="thyssenkrupp ag" target="mtu aero engines ag" id="278" weight="1.8" />
+      <edge source="thyssenkrupp ag" target="porsche automobil holding se" id="279" weight="1.9000000000000001" />
+      <edge source="thyssenkrupp ag" target="prosiebensat 1 media se" id="280" weight="2.3000000000000003" />
+      <edge source="thyssenkrupp ag" target="rational ag" id="281" weight="2.3000000000000007" />
+      <edge source="thyssenkrupp ag" target="rheinmetall ag" id="282" weight="2.500000000000001" />
+      <edge source="thyssenkrupp ag" target="rwe ag" id="283" weight="2.400000000000001" />
+      <edge source="thyssenkrupp ag" target="sartorius ag" id="284" weight="2.2000000000000006" />
+      <edge source="thyssenkrupp ag" target="symrise ag" id="285" weight="2.2000000000000006" />
+      <edge source="thyssenkrupp ag" target="tag immobilien ag" id="286" weight="1.5999999999999999" />
+      <edge source="thyssenkrupp ag" target="volkswagen ag" id="287" weight="2.9000000000000012" />
+      <edge source="mtu aero engines ag" target="bechtle ag" id="288" weight="2.0" />
+      <edge source="mtu aero engines ag" target="continental ag" id="289" weight="3.900000000000002" />
+      <edge source="mtu aero engines ag" target="infineon technologies ag" id="290" weight="3.600000000000002" />
+      <edge source="mtu aero engines ag" target="kion group ag" id="291" weight="3.5000000000000018" />
+      <edge source="mtu aero engines ag" target="porsche automobil holding se" id="292" weight="2.700000000000001" />
+      <edge source="mtu aero engines ag" target="sartorius ag" id="293" weight="3.600000000000002" />
+      <edge source="mtu aero engines ag" target="volkswagen ag" id="294" weight="4.300000000000001" />
+      <edge source="mtu aero engines ag" target="beiersdorf ag" id="295" weight="3.0000000000000013" />
+      <edge source="mtu aero engines ag" target="deutsche bank ag" id="296" weight="3.600000000000002" />
+      <edge source="mtu aero engines ag" target="evonik industries ag" id="297" weight="3.3000000000000016" />
+      <edge source="mtu aero engines ag" target="fuchs petrolub se" id="298" weight="3.2000000000000015" />
+      <edge source="mtu aero engines ag" target="lanxess ag" id="299" weight="3.3000000000000016" />
+      <edge source="mtu aero engines ag" target="symrise ag" id="300" weight="3.1000000000000014" />
+      <edge source="mtu aero engines ag" target="deutsche boerse ag" id="301" weight="2.800000000000001" />
+      <edge source="mtu aero engines ag" target="rheinmetall ag" id="302" weight="3.700000000000002" />
+      <edge source="mtu aero engines ag" target="alstria office reit ag" id="303" weight="1.9000000000000004" />
+      <edge source="mtu aero engines ag" target="basf se" id="304" weight="3.1000000000000014" />
+      <edge source="mtu aero engines ag" target="deutsche telekom ag" id="305" weight="2.700000000000001" />
+      <edge source="mtu aero engines ag" target="e.on se" id="306" weight="2.6000000000000005" />
+      <edge source="mtu aero engines ag" target="freenet ag" id="307" weight="2.0" />
+      <edge source="mtu aero engines ag" target="hannover rueck se" id="308" weight="2.800000000000001" />
+      <edge source="mtu aero engines ag" target="heidelbergcement ag" id="309" weight="2.400000000000001" />
+      <edge source="mtu aero engines ag" target="leg immobilien se" id="310" weight="1.5000000000000002" />
+      <edge source="mtu aero engines ag" target="prosiebensat 1 media se" id="311" weight="2.4000000000000004" />
+      <edge source="mtu aero engines ag" target="rational ag" id="312" weight="2.500000000000001" />
+      <edge source="mtu aero engines ag" target="rwe ag" id="313" weight="1.9000000000000001" />
+      <edge source="mtu aero engines ag" target="tag immobilien ag" id="314" weight="1.7000000000000002" />
+      <edge source="rwe ag" target="deutsche bank ag" id="315" weight="5.0" />
+      <edge source="rwe ag" target="continental ag" id="316" weight="4.900000000000002" />
+      <edge source="rwe ag" target="evonik industries ag" id="317" weight="4.8000000000000025" />
+      <edge source="rwe ag" target="e.on se" id="318" weight="6.099999999999997" />
+      <edge source="rwe ag" target="alstria office reit ag" id="319" weight="2.500000000000001" />
+      <edge source="rwe ag" target="basf se" id="320" weight="4.000000000000002" />
+      <edge source="rwe ag" target="bechtle ag" id="321" weight="3.600000000000002" />
+      <edge source="rwe ag" target="beiersdorf ag" id="322" weight="4.000000000000002" />
+      <edge source="rwe ag" target="deutsche boerse ag" id="323" weight="3.4000000000000017" />
+      <edge source="rwe ag" target="deutsche telekom ag" id="324" weight="4.000000000000002" />
+      <edge source="rwe ag" target="freenet ag" id="325" weight="2.400000000000001" />
+      <edge source="rwe ag" target="fuchs petrolub se" id="326" weight="3.2000000000000015" />
+      <edge source="rwe ag" target="hannover rueck se" id="327" weight="3.1000000000000014" />
+      <edge source="rwe ag" target="heidelbergcement ag" id="328" weight="5.3" />
+      <edge source="rwe ag" target="infineon technologies ag" id="329" weight="3.700000000000002" />
+      <edge source="rwe ag" target="kion group ag" id="330" weight="4.500000000000002" />
+      <edge source="rwe ag" target="lanxess ag" id="331" weight="3.800000000000002" />
+      <edge source="rwe ag" target="leg immobilien se" id="332" weight="2.4000000000000004" />
+      <edge source="rwe ag" target="porsche automobil holding se" id="333" weight="2.800000000000001" />
+      <edge source="rwe ag" target="prosiebensat 1 media se" id="334" weight="3.700000000000002" />
+      <edge source="rwe ag" target="rational ag" id="335" weight="2.700000000000001" />
+      <edge source="rwe ag" target="rheinmetall ag" id="336" weight="3.3000000000000016" />
+      <edge source="rwe ag" target="sartorius ag" id="337" weight="3.4000000000000017" />
+      <edge source="rwe ag" target="symrise ag" id="338" weight="2.9000000000000012" />
+      <edge source="rwe ag" target="tag immobilien ag" id="339" weight="2.2" />
+      <edge source="rwe ag" target="volkswagen ag" id="340" weight="4.600000000000002" />
+      <edge source="infineon technologies ag" target="basf se" id="341" weight="4.7" />
+      <edge source="infineon technologies ag" target="deutsche telekom ag" id="342" weight="4.5" />
+      <edge source="infineon technologies ag" target="hannover rueck se" id="343" weight="4.900000000000001" />
+      <edge source="infineon technologies ag" target="lanxess ag" id="344" weight="5.699999999999998" />
+      <edge source="infineon technologies ag" target="volkswagen ag" id="345" weight="5.899999999999998" />
+      <edge source="infineon technologies ag" target="bechtle ag" id="346" weight="3.4000000000000017" />
+      <edge source="infineon technologies ag" target="continental ag" id="347" weight="6.399999999999996" />
+      <edge source="infineon technologies ag" target="kion group ag" id="348" weight="5.000000000000001" />
+      <edge source="infineon technologies ag" target="porsche automobil holding se" id="349" weight="4.100000000000001" />
+      <edge source="infineon technologies ag" target="sartorius ag" id="350" weight="6.099999999999997" />
+      <edge source="infineon technologies ag" target="beiersdorf ag" id="351" weight="4.800000000000001" />
+      <edge source="infineon technologies ag" target="deutsche bank ag" id="352" weight="6.299999999999996" />
+      <edge source="infineon technologies ag" target="evonik industries ag" id="353" weight="5.599999999999999" />
+      <edge source="infineon technologies ag" target="fuchs petrolub se" id="354" weight="5.3" />
+      <edge source="infineon technologies ag" target="symrise ag" id="355" weight="3.800000000000002" />
+      <edge source="infineon technologies ag" target="alstria office reit ag" id="356" weight="2.3000000000000003" />
+      <edge source="infineon technologies ag" target="deutsche boerse ag" id="357" weight="4.699999999999999" />
+      <edge source="infineon technologies ag" target="e.on se" id="358" weight="4.400000000000001" />
+      <edge source="infineon technologies ag" target="freenet ag" id="359" weight="2.0" />
+      <edge source="infineon technologies ag" target="heidelbergcement ag" id="360" weight="5.000000000000001" />
+      <edge source="infineon technologies ag" target="leg immobilien se" id="361" weight="1.8" />
+      <edge source="infineon technologies ag" target="prosiebensat 1 media se" id="362" weight="4.000000000000002" />
+      <edge source="infineon technologies ag" target="rational ag" id="363" weight="3.4000000000000017" />
+      <edge source="infineon technologies ag" target="rheinmetall ag" id="364" weight="4.000000000000002" />
+      <edge source="infineon technologies ag" target="tag immobilien ag" id="365" weight="2.2" />
+      <edge source="kion group ag" target="bechtle ag" id="366" weight="3.3000000000000016" />
+      <edge source="kion group ag" target="continental ag" id="367" weight="5.000000000000001" />
+      <edge source="kion group ag" target="porsche automobil holding se" id="368" weight="3.700000000000002" />
+      <edge source="kion group ag" target="sartorius ag" id="369" weight="4.800000000000002" />
+      <edge source="kion group ag" target="volkswagen ag" id="370" weight="5.3999999999999995" />
+      <edge source="kion group ag" target="beiersdorf ag" id="371" weight="4.100000000000001" />
+      <edge source="kion group ag" target="deutsche bank ag" id="372" weight="6.099999999999998" />
+      <edge source="kion group ag" target="evonik industries ag" id="373" weight="5.5" />
+      <edge source="kion group ag" target="fuchs petrolub se" id="374" weight="4.800000000000001" />
+      <edge source="kion group ag" target="lanxess ag" id="375" weight="4.700000000000001" />
+      <edge source="kion group ag" target="symrise ag" id="376" weight="3.700000000000002" />
+      <edge source="kion group ag" target="prosiebensat 1 media se" id="377" weight="4.200000000000001" />
+      <edge source="kion group ag" target="e.on se" id="378" weight="5.300000000000001" />
+      <edge source="kion group ag" target="heidelbergcement ag" id="379" weight="6.1999999999999975" />
+      <edge source="kion group ag" target="rational ag" id="380" weight="3.700000000000002" />
+      <edge source="kion group ag" target="alstria office reit ag" id="381" weight="1.9000000000000001" />
+      <edge source="kion group ag" target="basf se" id="382" weight="4.4" />
+      <edge source="kion group ag" target="deutsche boerse ag" id="383" weight="4.300000000000001" />
+      <edge source="kion group ag" target="deutsche telekom ag" id="384" weight="3.900000000000002" />
+      <edge source="kion group ag" target="freenet ag" id="385" weight="2.1" />
+      <edge source="kion group ag" target="hannover rueck se" id="386" weight="3.3000000000000016" />
+      <edge source="kion group ag" target="leg immobilien se" id="387" weight="2.8000000000000003" />
+      <edge source="kion group ag" target="rheinmetall ag" id="388" weight="4.000000000000002" />
+      <edge source="kion group ag" target="tag immobilien ag" id="389" weight="2.4000000000000004" />
+      <edge source="symrise ag" target="beiersdorf ag" id="390" weight="4.000000000000002" />
+      <edge source="symrise ag" target="deutsche bank ag" id="391" weight="4.7" />
+      <edge source="symrise ag" target="evonik industries ag" id="392" weight="4.700000000000001" />
+      <edge source="symrise ag" target="fuchs petrolub se" id="393" weight="4.100000000000001" />
+      <edge source="symrise ag" target="lanxess ag" id="394" weight="4.4" />
+      <edge source="symrise ag" target="sartorius ag" id="395" weight="4.300000000000002" />
+      <edge source="symrise ag" target="volkswagen ag" id="396" weight="4.500000000000002" />
+      <edge source="symrise ag" target="prosiebensat 1 media se" id="397" weight="3.600000000000002" />
+      <edge source="symrise ag" target="alstria office reit ag" id="398" weight="1.9" />
+      <edge source="symrise ag" target="basf se" id="399" weight="4.4" />
+      <edge source="symrise ag" target="bechtle ag" id="400" weight="2.3000000000000003" />
+      <edge source="symrise ag" target="continental ag" id="401" weight="4.300000000000001" />
+      <edge source="symrise ag" target="deutsche boerse ag" id="402" weight="3.700000000000002" />
+      <edge source="symrise ag" target="deutsche telekom ag" id="403" weight="3.2000000000000015" />
+      <edge source="symrise ag" target="e.on se" id="404" weight="3.5000000000000018" />
+      <edge source="symrise ag" target="freenet ag" id="405" weight="2.4000000000000004" />
+      <edge source="symrise ag" target="hannover rueck se" id="406" weight="4.200000000000001" />
+      <edge source="symrise ag" target="heidelbergcement ag" id="407" weight="3.5000000000000018" />
+      <edge source="symrise ag" target="leg immobilien se" id="408" weight="1.7" />
+      <edge source="symrise ag" target="porsche automobil holding se" id="409" weight="2.700000000000001" />
+      <edge source="symrise ag" target="rational ag" id="410" weight="3.1000000000000014" />
+      <edge source="symrise ag" target="rheinmetall ag" id="411" weight="3.700000000000002" />
+      <edge source="symrise ag" target="tag immobilien ag" id="412" weight="1.9" />
+      <edge source="beiersdorf ag" target="deutsche bank ag" id="413" weight="5.6999999999999975" />
+      <edge source="beiersdorf ag" target="evonik industries ag" id="414" weight="5.3999999999999995" />
+      <edge source="beiersdorf ag" target="fuchs petrolub se" id="415" weight="4.600000000000001" />
+      <edge source="beiersdorf ag" target="lanxess ag" id="416" weight="5.599999999999999" />
+      <edge source="beiersdorf ag" target="sartorius ag" id="417" weight="4.700000000000001" />
+      <edge source="beiersdorf ag" target="volkswagen ag" id="418" weight="5.1000000000000005" />
+      <edge source="beiersdorf ag" target="alstria office reit ag" id="419" weight="2.1" />
+      <edge source="beiersdorf ag" target="basf se" id="420" weight="4.200000000000001" />
+      <edge source="beiersdorf ag" target="bechtle ag" id="421" weight="2.600000000000001" />
+      <edge source="beiersdorf ag" target="continental ag" id="422" weight="4.4" />
+      <edge source="beiersdorf ag" target="deutsche boerse ag" id="423" weight="4.000000000000002" />
+      <edge source="beiersdorf ag" target="deutsche telekom ag" id="424" weight="3.5000000000000018" />
+      <edge source="beiersdorf ag" target="e.on se" id="425" weight="4.800000000000002" />
+      <edge source="beiersdorf ag" target="freenet ag" id="426" weight="2.2000000000000006" />
+      <edge source="beiersdorf ag" target="hannover rueck se" id="427" weight="4.400000000000002" />
+      <edge source="beiersdorf ag" target="heidelbergcement ag" id="428" weight="4.600000000000001" />
+      <edge source="beiersdorf ag" target="leg immobilien se" id="429" weight="1.4" />
+      <edge source="beiersdorf ag" target="porsche automobil holding se" id="430" weight="3.1000000000000014" />
+      <edge source="beiersdorf ag" target="prosiebensat 1 media se" id="431" weight="3.2000000000000015" />
+      <edge source="beiersdorf ag" target="rational ag" id="432" weight="3.3000000000000016" />
+      <edge source="beiersdorf ag" target="rheinmetall ag" id="433" weight="4.000000000000002" />
+      <edge source="beiersdorf ag" target="tag immobilien ag" id="434" weight="1.7999999999999998" />
+      <edge source="e.on se" target="basf se" id="435" weight="4.7" />
+      <edge source="e.on se" target="deutsche bank ag" id="436" weight="5.8" />
+      <edge source="e.on se" target="deutsche boerse ag" id="437" weight="5.2" />
+      <edge source="e.on se" target="evonik industries ag" id="438" weight="5.200000000000001" />
+      <edge source="e.on se" target="freenet ag" id="439" weight="3.4000000000000017" />
+      <edge source="e.on se" target="fuchs petrolub se" id="440" weight="3.900000000000002" />
+      <edge source="e.on se" target="leg immobilien se" id="441" weight="2.7000000000000006" />
+      <edge source="e.on se" target="heidelbergcement ag" id="442" weight="5.799999999999999" />
+      <edge source="e.on se" target="rational ag" id="443" weight="3.4000000000000017" />
+      <edge source="e.on se" target="deutsche telekom ag" id="444" weight="5.999999999999998" />
+      <edge source="e.on se" target="porsche automobil holding se" id="445" weight="3.900000000000002" />
+      <edge source="e.on se" target="alstria office reit ag" id="446" weight="2.8000000000000007" />
+      <edge source="e.on se" target="bechtle ag" id="447" weight="3.4000000000000017" />
+      <edge source="e.on se" target="continental ag" id="448" weight="4.9" />
+      <edge source="e.on se" target="hannover rueck se" id="449" weight="3.800000000000002" />
+      <edge source="e.on se" target="lanxess ag" id="450" weight="4.999999999999999" />
+      <edge source="e.on se" target="prosiebensat 1 media se" id="451" weight="4.5" />
+      <edge source="e.on se" target="rheinmetall ag" id="452" weight="4.100000000000001" />
+      <edge source="e.on se" target="sartorius ag" id="453" weight="4.200000000000001" />
+      <edge source="e.on se" target="tag immobilien ag" id="454" weight="2.9000000000000012" />
+      <edge source="e.on se" target="volkswagen ag" id="455" weight="5.4" />
+      <edge source="leg immobilien se" target="heidelbergcement ag" id="456" weight="2.9000000000000012" />
+      <edge source="leg immobilien se" target="deutsche boerse ag" id="457" weight="3.2000000000000015" />
+      <edge source="leg immobilien se" target="evonik industries ag" id="458" weight="3.1000000000000014" />
+      <edge source="leg immobilien se" target="freenet ag" id="459" weight="2.3" />
+      <edge source="leg immobilien se" target="fuchs petrolub se" id="460" weight="2.1" />
+      <edge source="leg immobilien se" target="deutsche bank ag" id="461" weight="2.9000000000000012" />
+      <edge source="leg immobilien se" target="alstria office reit ag" id="462" weight="1.9" />
+      <edge source="leg immobilien se" target="basf se" id="463" weight="2.0999999999999996" />
+      <edge source="leg immobilien se" target="bechtle ag" id="464" weight="2.1999999999999997" />
+      <edge source="leg immobilien se" target="continental ag" id="465" weight="2.4000000000000004" />
+      <edge source="leg immobilien se" target="deutsche telekom ag" id="466" weight="2.3000000000000003" />
+      <edge source="leg immobilien se" target="hannover rueck se" id="467" weight="1.8999999999999997" />
+      <edge source="leg immobilien se" target="lanxess ag" id="468" weight="2.6" />
+      <edge source="leg immobilien se" target="porsche automobil holding se" id="469" weight="1.6" />
+      <edge source="leg immobilien se" target="prosiebensat 1 media se" id="470" weight="2.3" />
+      <edge source="leg immobilien se" target="rational ag" id="471" weight="2.1" />
+      <edge source="leg immobilien se" target="rheinmetall ag" id="472" weight="2.6" />
+      <edge source="leg immobilien se" target="sartorius ag" id="473" weight="1.5" />
+      <edge source="leg immobilien se" target="tag immobilien ag" id="474" weight="2.4" />
+      <edge source="leg immobilien se" target="volkswagen ag" id="475" weight="1.9999999999999998" />
+      <edge source="rheinmetall ag" target="continental ag" id="476" weight="5.2" />
+      <edge source="rheinmetall ag" target="alstria office reit ag" id="477" weight="2.3000000000000003" />
+      <edge source="rheinmetall ag" target="basf se" id="478" weight="4.400000000000001" />
+      <edge source="rheinmetall ag" target="bechtle ag" id="479" weight="3.2000000000000015" />
+      <edge source="rheinmetall ag" target="deutsche bank ag" id="480" weight="4.700000000000001" />
+      <edge source="rheinmetall ag" target="deutsche boerse ag" id="481" weight="4.4" />
+      <edge source="rheinmetall ag" target="deutsche telekom ag" id="482" weight="3.800000000000002" />
+      <edge source="rheinmetall ag" target="evonik industries ag" id="483" weight="5.000000000000001" />
+      <edge source="rheinmetall ag" target="freenet ag" id="484" weight="2.700000000000001" />
+      <edge source="rheinmetall ag" target="fuchs petrolub se" id="485" weight="4.200000000000001" />
+      <edge source="rheinmetall ag" target="hannover rueck se" id="486" weight="4.200000000000002" />
+      <edge source="rheinmetall ag" target="heidelbergcement ag" id="487" weight="4.300000000000001" />
+      <edge source="rheinmetall ag" target="lanxess ag" id="488" weight="5.000000000000001" />
+      <edge source="rheinmetall ag" target="porsche automobil holding se" id="489" weight="3.0000000000000013" />
+      <edge source="rheinmetall ag" target="prosiebensat 1 media se" id="490" weight="3.700000000000002" />
+      <edge source="rheinmetall ag" target="rational ag" id="491" weight="4.100000000000001" />
+      <edge source="rheinmetall ag" target="sartorius ag" id="492" weight="3.800000000000002" />
+      <edge source="rheinmetall ag" target="tag immobilien ag" id="493" weight="2.7" />
+      <edge source="rheinmetall ag" target="volkswagen ag" id="494" weight="4.8" />
+      <edge source="deutsche telekom ag" target="lanxess ag" id="495" weight="5.799999999999999" />
+      <edge source="deutsche telekom ag" target="basf se" id="496" weight="4.5" />
+      <edge source="deutsche telekom ag" target="hannover rueck se" id="497" weight="3.600000000000002" />
+      <edge source="deutsche telekom ag" target="volkswagen ag" id="498" weight="5.4" />
+      <edge source="deutsche telekom ag" target="deutsche bank ag" id="499" weight="4.999999999999999" />
+      <edge source="deutsche telekom ag" target="porsche automobil holding se" id="500" weight="4.100000000000001" />
+      <edge source="deutsche telekom ag" target="prosiebensat 1 media se" id="501" weight="4.300000000000001" />
+      <edge source="deutsche telekom ag" target="alstria office reit ag" id="502" weight="2.6000000000000005" />
+      <edge source="deutsche telekom ag" target="bechtle ag" id="503" weight="3.4000000000000017" />
+      <edge source="deutsche telekom ag" target="continental ag" id="504" weight="4.300000000000001" />
+      <edge source="deutsche telekom ag" target="deutsche boerse ag" id="505" weight="3.900000000000002" />
+      <edge source="deutsche telekom ag" target="evonik industries ag" id="506" weight="4.000000000000002" />
+      <edge source="deutsche telekom ag" target="freenet ag" id="507" weight="3.1000000000000014" />
+      <edge source="deutsche telekom ag" target="fuchs petrolub se" id="508" weight="3.600000000000002" />
+      <edge source="deutsche telekom ag" target="heidelbergcement ag" id="509" weight="4.200000000000001" />
+      <edge source="deutsche telekom ag" target="rational ag" id="510" weight="2.9000000000000012" />
+      <edge source="deutsche telekom ag" target="sartorius ag" id="511" weight="3.600000000000002" />
+      <edge source="deutsche telekom ag" target="tag immobilien ag" id="512" weight="2.5000000000000004" />
+      <edge source="hannover rueck se" target="basf se" id="513" weight="5.100000000000001" />
+      <edge source="hannover rueck se" target="lanxess ag" id="514" weight="5.100000000000001" />
+      <edge source="hannover rueck se" target="volkswagen ag" id="515" weight="5.4" />
+      <edge source="hannover rueck se" target="deutsche bank ag" id="516" weight="5.899999999999998" />
+      <edge source="hannover rueck se" target="deutsche boerse ag" id="517" weight="4.7" />
+      <edge source="hannover rueck se" target="fuchs petrolub se" id="518" weight="4.700000000000001" />
+      <edge source="hannover rueck se" target="alstria office reit ag" id="519" weight="2.0999999999999996" />
+      <edge source="hannover rueck se" target="bechtle ag" id="520" weight="2.500000000000001" />
+      <edge source="hannover rueck se" target="continental ag" id="521" weight="4.900000000000001" />
+      <edge source="hannover rueck se" target="evonik industries ag" id="522" weight="4.900000000000002" />
+      <edge source="hannover rueck se" target="freenet ag" id="523" weight="2.600000000000001" />
+      <edge source="hannover rueck se" target="heidelbergcement ag" id="524" weight="4.100000000000001" />
+      <edge source="hannover rueck se" target="porsche automobil holding se" id="525" weight="3.4000000000000017" />
+      <edge source="hannover rueck se" target="prosiebensat 1 media se" id="526" weight="3.4000000000000017" />
+      <edge source="hannover rueck se" target="rational ag" id="527" weight="3.3000000000000016" />
+      <edge source="hannover rueck se" target="sartorius ag" id="528" weight="4.500000000000002" />
+      <edge source="hannover rueck se" target="tag immobilien ag" id="529" weight="2.1" />
+      <edge source="rational ag" target="heidelbergcement ag" id="530" weight="4.000000000000002" />
+      <edge source="rational ag" target="alstria office reit ag" id="531" weight="1.8" />
+      <edge source="rational ag" target="basf se" id="532" weight="3.800000000000002" />
+      <edge source="rational ag" target="bechtle ag" id="533" weight="2.6000000000000005" />
+      <edge source="rational ag" target="continental ag" id="534" weight="3.600000000000002" />
+      <edge source="rational ag" target="deutsche bank ag" id="535" weight="4.200000000000001" />
+      <edge source="rational ag" target="deutsche boerse ag" id="536" weight="3.700000000000002" />
+      <edge source="rational ag" target="evonik industries ag" id="537" weight="4.200000000000001" />
+      <edge source="rational ag" target="freenet ag" id="538" weight="2.3000000000000003" />
+      <edge source="rational ag" target="fuchs petrolub se" id="539" weight="3.600000000000002" />
+      <edge source="rational ag" target="lanxess ag" id="540" weight="4.300000000000001" />
+      <edge source="rational ag" target="porsche automobil holding se" id="541" weight="2.800000000000001" />
+      <edge source="rational ag" target="prosiebensat 1 media se" id="542" weight="2.9000000000000012" />
+      <edge source="rational ag" target="sartorius ag" id="543" weight="3.2000000000000015" />
+      <edge source="rational ag" target="tag immobilien ag" id="544" weight="2.0" />
+      <edge source="rational ag" target="volkswagen ag" id="545" weight="4.200000000000001" />
+      <edge source="freenet ag" target="deutsche boerse ag" id="546" weight="2.800000000000001" />
+      <edge source="freenet ag" target="evonik industries ag" id="547" weight="2.800000000000001" />
+      <edge source="freenet ag" target="fuchs petrolub se" id="548" weight="2.400000000000001" />
+      <edge source="freenet ag" target="heidelbergcement ag" id="549" weight="3.0000000000000013" />
+      <edge source="freenet ag" target="alstria office reit ag" id="550" weight="2.0999999999999996" />
+      <edge source="freenet ag" target="basf se" id="551" weight="2.500000000000001" />
+      <edge source="freenet ag" target="bechtle ag" id="552" weight="2.1999999999999997" />
+      <edge source="freenet ag" target="continental ag" id="553" weight="2.700000000000001" />
+      <edge source="freenet ag" target="deutsche bank ag" id="554" weight="2.9000000000000012" />
+      <edge source="freenet ag" target="lanxess ag" id="555" weight="2.9000000000000012" />
+      <edge source="freenet ag" target="porsche automobil holding se" id="556" weight="2.3000000000000003" />
+      <edge source="freenet ag" target="prosiebensat 1 media se" id="557" weight="2.3000000000000003" />
+      <edge source="freenet ag" target="sartorius ag" id="558" weight="2.3000000000000003" />
+      <edge source="freenet ag" target="tag immobilien ag" id="559" weight="2.4" />
+      <edge source="freenet ag" target="volkswagen ag" id="560" weight="2.9000000000000012" />
+      <edge source="deutsche bank ag" target="heidelbergcement ag" id="561" weight="6.899999999999996" />
+      <edge source="deutsche bank ag" target="evonik industries ag" id="562" weight="6.7999999999999945" />
+      <edge source="deutsche bank ag" target="fuchs petrolub se" id="563" weight="5.999999999999997" />
+      <edge source="deutsche bank ag" target="lanxess ag" id="564" weight="6.299999999999996" />
+      <edge source="deutsche bank ag" target="sartorius ag" id="565" weight="6.999999999999995" />
+      <edge source="deutsche bank ag" target="volkswagen ag" id="566" weight="5.3" />
+      <edge source="deutsche bank ag" target="basf se" id="567" weight="5.599999999999999" />
+      <edge source="deutsche bank ag" target="alstria office reit ag" id="568" weight="3.3000000000000016" />
+      <edge source="deutsche bank ag" target="deutsche boerse ag" id="569" weight="6.7999999999999945" />
+      <edge source="deutsche bank ag" target="bechtle ag" id="570" weight="3.700000000000002" />
+      <edge source="deutsche bank ag" target="continental ag" id="571" weight="5.499999999999999" />
+      <edge source="deutsche bank ag" target="porsche automobil holding se" id="572" weight="3.800000000000002" />
+      <edge source="deutsche bank ag" target="prosiebensat 1 media se" id="573" weight="4.200000000000001" />
+      <edge source="deutsche bank ag" target="tag immobilien ag" id="574" weight="3.2000000000000015" />
+      <edge source="volkswagen ag" target="basf se" id="575" weight="5.899999999999999" />
+      <edge source="volkswagen ag" target="lanxess ag" id="576" weight="5.899999999999999" />
+      <edge source="volkswagen ag" target="bechtle ag" id="577" weight="3.4000000000000017" />
+      <edge source="volkswagen ag" target="continental ag" id="578" weight="6.399999999999997" />
+      <edge source="volkswagen ag" target="porsche automobil holding se" id="579" weight="18.099999999999994" />
+      <edge source="volkswagen ag" target="sartorius ag" id="580" weight="5.3999999999999995" />
+      <edge source="volkswagen ag" target="evonik industries ag" id="581" weight="5.799999999999999" />
+      <edge source="volkswagen ag" target="fuchs petrolub se" id="582" weight="5.000000000000001" />
+      <edge source="volkswagen ag" target="prosiebensat 1 media se" id="583" weight="4.500000000000002" />
+      <edge source="volkswagen ag" target="alstria office reit ag" id="584" weight="2.5000000000000004" />
+      <edge source="volkswagen ag" target="deutsche boerse ag" id="585" weight="4.700000000000001" />
+      <edge source="volkswagen ag" target="heidelbergcement ag" id="586" weight="5.699999999999999" />
+      <edge source="volkswagen ag" target="tag immobilien ag" id="587" weight="2.7000000000000006" />
+      <edge source="heidelbergcement ag" target="continental ag" id="588" weight="5.300000000000001" />
+      <edge source="heidelbergcement ag" target="basf se" id="589" weight="5.200000000000001" />
+      <edge source="heidelbergcement ag" target="bechtle ag" id="590" weight="4.6000000000000005" />
+      <edge source="heidelbergcement ag" target="tag immobilien ag" id="591" weight="3.3000000000000016" />
+      <edge source="heidelbergcement ag" target="porsche automobil holding se" id="592" weight="4.200000000000001" />
+      <edge source="heidelbergcement ag" target="alstria office reit ag" id="593" weight="2.700000000000001" />
+      <edge source="heidelbergcement ag" target="deutsche boerse ag" id="594" weight="4.4" />
+      <edge source="heidelbergcement ag" target="evonik industries ag" id="595" weight="5.699999999999999" />
+      <edge source="heidelbergcement ag" target="fuchs petrolub se" id="596" weight="4.700000000000001" />
+      <edge source="heidelbergcement ag" target="lanxess ag" id="597" weight="5.300000000000002" />
+      <edge source="heidelbergcement ag" target="prosiebensat 1 media se" id="598" weight="4.4" />
+      <edge source="heidelbergcement ag" target="sartorius ag" id="599" weight="4.400000000000002" />
+      <edge source="tag immobilien ag" target="alstria office reit ag" id="600" weight="2.4000000000000004" />
+      <edge source="tag immobilien ag" target="basf se" id="601" weight="2.5000000000000004" />
+      <edge source="tag immobilien ag" target="bechtle ag" id="602" weight="2.900000000000001" />
+      <edge source="tag immobilien ag" target="continental ag" id="603" weight="2.6000000000000005" />
+      <edge source="tag immobilien ag" target="deutsche boerse ag" id="604" weight="2.1" />
+      <edge source="tag immobilien ag" target="evonik industries ag" id="605" weight="2.4" />
+      <edge source="tag immobilien ag" target="fuchs petrolub se" id="606" weight="1.9" />
+      <edge source="tag immobilien ag" target="lanxess ag" id="607" weight="2.7000000000000006" />
+      <edge source="tag immobilien ag" target="porsche automobil holding se" id="608" weight="1.8" />
+      <edge source="tag immobilien ag" target="prosiebensat 1 media se" id="609" weight="2.4000000000000004" />
+      <edge source="tag immobilien ag" target="sartorius ag" id="610" weight="1.5" />
+      <edge source="bechtle ag" target="continental ag" id="611" weight="3.900000000000002" />
+      <edge source="bechtle ag" target="porsche automobil holding se" id="612" weight="3.2000000000000015" />
+      <edge source="bechtle ag" target="sartorius ag" id="613" weight="2.800000000000001" />
+      <edge source="bechtle ag" target="lanxess ag" id="614" weight="3.2000000000000015" />
+      <edge source="bechtle ag" target="evonik industries ag" id="615" weight="3.3000000000000016" />
+      <edge source="bechtle ag" target="alstria office reit ag" id="616" weight="2.6000000000000005" />
+      <edge source="bechtle ag" target="basf se" id="617" weight="2.600000000000001" />
+      <edge source="bechtle ag" target="deutsche boerse ag" id="618" weight="2.9000000000000012" />
+      <edge source="bechtle ag" target="fuchs petrolub se" id="619" weight="3.1000000000000014" />
+      <edge source="bechtle ag" target="prosiebensat 1 media se" id="620" weight="2.6000000000000005" />
+      <edge source="continental ag" target="porsche automobil holding se" id="621" weight="4.300000000000001" />
+      <edge source="continental ag" target="sartorius ag" id="622" weight="5.1000000000000005" />
+      <edge source="continental ag" target="evonik industries ag" id="623" weight="6.299999999999999" />
+      <edge source="continental ag" target="fuchs petrolub se" id="624" weight="5.000000000000001" />
+      <edge source="continental ag" target="alstria office reit ag" id="625" weight="2.5000000000000004" />
+      <edge source="continental ag" target="basf se" id="626" weight="5.4" />
+      <edge source="continental ag" target="deutsche boerse ag" id="627" weight="4.899999999999999" />
+      <edge source="continental ag" target="lanxess ag" id="628" weight="5.1000000000000005" />
+      <edge source="continental ag" target="prosiebensat 1 media se" id="629" weight="4.4" />
+      <edge source="prosiebensat 1 media se" target="fuchs petrolub se" id="630" weight="3.5000000000000018" />
+      <edge source="prosiebensat 1 media se" target="alstria office reit ag" id="631" weight="2.6000000000000005" />
+      <edge source="prosiebensat 1 media se" target="basf se" id="632" weight="3.900000000000002" />
+      <edge source="prosiebensat 1 media se" target="deutsche boerse ag" id="633" weight="4.000000000000002" />
+      <edge source="prosiebensat 1 media se" target="evonik industries ag" id="634" weight="4.100000000000001" />
+      <edge source="prosiebensat 1 media se" target="lanxess ag" id="635" weight="3.900000000000002" />
+      <edge source="prosiebensat 1 media se" target="porsche automobil holding se" id="636" weight="2.500000000000001" />
+      <edge source="prosiebensat 1 media se" target="sartorius ag" id="637" weight="3.4000000000000017" />
+      <edge source="sartorius ag" target="porsche automobil holding se" id="638" weight="3.700000000000002" />
+      <edge source="sartorius ag" target="evonik industries ag" id="639" weight="5.2" />
+      <edge source="sartorius ag" target="fuchs petrolub se" id="640" weight="4.600000000000001" />
+      <edge source="sartorius ag" target="lanxess ag" id="641" weight="4.7" />
+      <edge source="sartorius ag" target="deutsche boerse ag" id="642" weight="4.500000000000001" />
+      <edge source="sartorius ag" target="alstria office reit ag" id="643" weight="1.8" />
+      <edge source="sartorius ag" target="basf se" id="644" weight="4.400000000000002" />
+      <edge source="porsche automobil holding se" target="lanxess ag" id="645" weight="3.700000000000002" />
+      <edge source="porsche automobil holding se" target="alstria office reit ag" id="646" weight="1.9000000000000004" />
+      <edge source="porsche automobil holding se" target="basf se" id="647" weight="4.000000000000002" />
+      <edge source="porsche automobil holding se" target="deutsche boerse ag" id="648" weight="3.600000000000002" />
+      <edge source="porsche automobil holding se" target="evonik industries ag" id="649" weight="3.700000000000002" />
+      <edge source="porsche automobil holding se" target="fuchs petrolub se" id="650" weight="3.4000000000000017" />
+      <edge source="basf se" target="lanxess ag" id="651" weight="5.400000000000001" />
+      <edge source="basf se" target="evonik industries ag" id="652" weight="5.6" />
+      <edge source="basf se" target="alstria office reit ag" id="653" weight="2.3" />
+      <edge source="basf se" target="deutsche boerse ag" id="654" weight="4.699999999999999" />
+      <edge source="basf se" target="fuchs petrolub se" id="655" weight="4.500000000000001" />
+      <edge source="fuchs petrolub se" target="evonik industries ag" id="656" weight="5.599999999999999" />
+      <edge source="fuchs petrolub se" target="lanxess ag" id="657" weight="4.900000000000001" />
+      <edge source="fuchs petrolub se" target="deutsche boerse ag" id="658" weight="4.800000000000001" />
+      <edge source="fuchs petrolub se" target="alstria office reit ag" id="659" weight="2.1" />
+      <edge source="lanxess ag" target="evonik industries ag" id="660" weight="6.499999999999998" />
+      <edge source="lanxess ag" target="alstria office reit ag" id="661" weight="2.700000000000001" />
+      <edge source="lanxess ag" target="deutsche boerse ag" id="662" weight="4.500000000000001" />
+      <edge source="alstria office reit ag" target="deutsche boerse ag" id="663" weight="2.800000000000001" />
+      <edge source="alstria office reit ag" target="evonik industries ag" id="664" weight="2.3000000000000003" />
+      <edge source="evonik industries ag" target="deutsche boerse ag" id="665" weight="5.1000000000000005" />
+    </edges>
+  </graph>
+</gexf>

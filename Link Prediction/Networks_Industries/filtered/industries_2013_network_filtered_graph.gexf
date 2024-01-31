@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-22">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="asset management and custody banks" label="asset management and custody banks" />
+      <node id="diversified banks" label="diversified banks" />
+      <node id="life and health insurance" label="life and health insurance" />
+      <node id="pharmaceuticals" label="pharmaceuticals" />
+      <node id="multi-utilities" label="multi-utilities" />
+      <node id="packaged foods and meats" label="packaged foods and meats" />
+      <node id="industrial machinery and supplies and components" label="industrial machinery and supplies and components" />
+      <node id="trading companies and distributors" label="trading companies and distributors" />
+      <node id="apparel accessories and luxury goods" label="apparel accessories and luxury goods" />
+      <node id="research and consulting services" label="research and consulting services" />
+      <node id="multi_line insurance" label="multi_line insurance" />
+      <node id="aerospace and defense" label="aerospace and defense" />
+      <node id="specialty chemicals" label="specialty chemicals" />
+      <node id="personal care products" label="personal care products" />
+      <node id="health care equipment" label="health care equipment" />
+      <node id="integrated oil and gas" label="integrated oil and gas" />
+      <node id="diversified capital markets" label="diversified capital markets" />
+      <node id="construction materials" label="construction materials" />
+      <node id="hotels, resorts and cruise lines" label="hotels, resorts and cruise lines" />
+      <node id="construction and engineering" label="construction and engineering" />
+      <node id="it consulting and other services" label="it consulting and other services" />
+      <node id="building products" label="building products" />
+      <node id="application software" label="application software" />
+      <node id="life sciences tools and services" label="life sciences tools and services" />
+      <node id="diversified chemicals" label="diversified chemicals" />
+      <node id="automobile manufacturers" label="automobile manufacturers" />
+      <node id="integrated telecommunication services" label="integrated telecommunication services" />
+      <node id="industrial conglomerates" label="industrial conglomerates" />
+      <node id="electric utilities" label="electric utilities" />
+      <node id="multi-sector holdings" label="multi-sector holdings" />
+      <node id="reinsurance" label="reinsurance" />
+      <node id="construction machinery and heavy transportation equipment" label="construction machinery and heavy transportation equipment" />
+      <node id="electrical components and equipment" label="electrical components and equipment" />
+      <node id="diversified metals and mining" label="diversified metals and mining" />
+      <node id="restaurants" label="restaurants" />
+      <node id="distillers and vintners" label="distillers and vintners" />
+      <node id="passenger airlines" label="passenger airlines" />
+      <node id="advertising" label="advertising" />
+      <node id="broadcasting" label="broadcasting" />
+      <node id="tobacco" label="tobacco" />
+      <node id="agricultural and farm machinery" label="agricultural and farm machinery" />
+    </nodes>
+    <edges>
+      <edge source="asset management and custody banks" target="diversified banks" id="0" weight="1061" />
+      <edge source="asset management and custody banks" target="life and health insurance" id="1" weight="758" />
+      <edge source="asset management and custody banks" target="pharmaceuticals" id="2" weight="750" />
+      <edge source="diversified banks" target="multi-utilities" id="3" weight="743" />
+      <edge source="diversified banks" target="packaged foods and meats" id="4" weight="1143" />
+      <edge source="diversified banks" target="industrial machinery and supplies and components" id="5" weight="1696" />
+      <edge source="diversified banks" target="electrical components and equipment" id="6" weight="719" />
+      <edge source="diversified banks" target="hotels, resorts and cruise lines" id="7" weight="863" />
+      <edge source="diversified banks" target="construction and engineering" id="8" weight="1057" />
+      <edge source="diversified banks" target="trading companies and distributors" id="9" weight="1201" />
+      <edge source="diversified banks" target="apparel accessories and luxury goods" id="10" weight="1131" />
+      <edge source="diversified banks" target="life and health insurance" id="11" weight="1435" />
+      <edge source="diversified banks" target="research and consulting services" id="12" weight="1151" />
+      <edge source="diversified banks" target="multi_line insurance" id="13" weight="1888" />
+      <edge source="diversified banks" target="aerospace and defense" id="14" weight="1487" />
+      <edge source="diversified banks" target="specialty chemicals" id="15" weight="1409" />
+      <edge source="diversified banks" target="it consulting and other services" id="16" weight="973" />
+      <edge source="diversified banks" target="diversified metals and mining" id="17" weight="868" />
+      <edge source="diversified banks" target="pharmaceuticals" id="18" weight="1751" />
+      <edge source="diversified banks" target="application software" id="19" weight="840" />
+      <edge source="diversified banks" target="life sciences tools and services" id="20" weight="810" />
+      <edge source="diversified banks" target="diversified chemicals" id="21" weight="723" />
+      <edge source="diversified banks" target="automobile manufacturers" id="22" weight="886" />
+      <edge source="diversified banks" target="personal care products" id="23" weight="1038" />
+      <edge source="diversified banks" target="health care equipment" id="24" weight="1085" />
+      <edge source="diversified banks" target="integrated oil and gas" id="25" weight="1366" />
+      <edge source="diversified banks" target="integrated telecommunication services" id="26" weight="958" />
+      <edge source="diversified banks" target="restaurants" id="27" weight="781" />
+      <edge source="diversified banks" target="diversified capital markets" id="28" weight="1422" />
+      <edge source="diversified banks" target="construction materials" id="29" weight="1007" />
+      <edge source="diversified banks" target="distillers and vintners" id="30" weight="711" />
+      <edge source="diversified banks" target="industrial conglomerates" id="31" weight="716" />
+      <edge source="diversified banks" target="passenger airlines" id="32" weight="723" />
+      <edge source="diversified banks" target="electric utilities" id="33" weight="1166" />
+      <edge source="diversified banks" target="multi-sector holdings" id="34" weight="879" />
+      <edge source="diversified banks" target="reinsurance" id="35" weight="807" />
+      <edge source="diversified banks" target="advertising" id="36" weight="867" />
+      <edge source="diversified banks" target="broadcasting" id="37" weight="785" />
+      <edge source="diversified banks" target="construction machinery and heavy transportation equipment" id="38" weight="773" />
+      <edge source="life and health insurance" target="industrial machinery and supplies and components" id="39" weight="875" />
+      <edge source="life and health insurance" target="multi_line insurance" id="40" weight="978" />
+      <edge source="life and health insurance" target="aerospace and defense" id="41" weight="764" />
+      <edge source="life and health insurance" target="specialty chemicals" id="42" weight="775" />
+      <edge source="life and health insurance" target="pharmaceuticals" id="43" weight="925" />
+      <edge source="life and health insurance" target="diversified capital markets" id="44" weight="800" />
+      <edge source="life and health insurance" target="reinsurance" id="45" weight="1080" />
+      <edge source="pharmaceuticals" target="packaged foods and meats" id="46" weight="1199" />
+      <edge source="pharmaceuticals" target="industrial machinery and supplies and components" id="47" weight="1580" />
+      <edge source="pharmaceuticals" target="electrical components and equipment" id="48" weight="774" />
+      <edge source="pharmaceuticals" target="hotels, resorts and cruise lines" id="49" weight="819" />
+      <edge source="pharmaceuticals" target="construction and engineering" id="50" weight="915" />
+      <edge source="pharmaceuticals" target="trading companies and distributors" id="51" weight="1069" />
+      <edge source="pharmaceuticals" target="apparel accessories and luxury goods" id="52" weight="1230" />
+      <edge source="pharmaceuticals" target="research and consulting services" id="53" weight="1071" />
+      <edge source="pharmaceuticals" target="multi_line insurance" id="54" weight="1282" />
+      <edge source="pharmaceuticals" target="aerospace and defense" id="55" weight="1303" />
+      <edge source="pharmaceuticals" target="specialty chemicals" id="56" weight="1462" />
+      <edge source="pharmaceuticals" target="it consulting and other services" id="57" weight="851" />
+      <edge source="pharmaceuticals" target="diversified metals and mining" id="58" weight="812" />
+      <edge source="pharmaceuticals" target="application software" id="59" weight="831" />
+      <edge source="pharmaceuticals" target="life sciences tools and services" id="60" weight="1121" />
+      <edge source="pharmaceuticals" target="diversified chemicals" id="61" weight="797" />
+      <edge source="pharmaceuticals" target="automobile manufacturers" id="62" weight="891" />
+      <edge source="pharmaceuticals" target="personal care products" id="63" weight="1099" />
+      <edge source="pharmaceuticals" target="health care equipment" id="64" weight="1190" />
+      <edge source="pharmaceuticals" target="integrated oil and gas" id="65" weight="1216" />
+      <edge source="pharmaceuticals" target="tobacco" id="66" weight="704" />
+      <edge source="pharmaceuticals" target="integrated telecommunication services" id="67" weight="849" />
+      <edge source="pharmaceuticals" target="restaurants" id="68" weight="767" />
+      <edge source="pharmaceuticals" target="diversified capital markets" id="69" weight="1091" />
+      <edge source="pharmaceuticals" target="construction materials" id="70" weight="922" />
+      <edge source="pharmaceuticals" target="electric utilities" id="71" weight="825" />
+      <edge source="pharmaceuticals" target="multi-sector holdings" id="72" weight="728" />
+      <edge source="pharmaceuticals" target="advertising" id="73" weight="816" />
+      <edge source="pharmaceuticals" target="broadcasting" id="74" weight="709" />
+      <edge source="pharmaceuticals" target="construction machinery and heavy transportation equipment" id="75" weight="750" />
+      <edge source="packaged foods and meats" target="industrial machinery and supplies and components" id="76" weight="1224" />
+      <edge source="packaged foods and meats" target="trading companies and distributors" id="77" weight="845" />
+      <edge source="packaged foods and meats" target="apparel accessories and luxury goods" id="78" weight="868" />
+      <edge source="packaged foods and meats" target="research and consulting services" id="79" weight="803" />
+      <edge source="packaged foods and meats" target="multi_line insurance" id="80" weight="922" />
+      <edge source="packaged foods and meats" target="aerospace and defense" id="81" weight="787" />
+      <edge source="packaged foods and meats" target="specialty chemicals" id="82" weight="939" />
+      <edge source="packaged foods and meats" target="personal care products" id="83" weight="829" />
+      <edge source="packaged foods and meats" target="health care equipment" id="84" weight="783" />
+      <edge source="packaged foods and meats" target="integrated oil and gas" id="85" weight="759" />
+      <edge source="packaged foods and meats" target="diversified capital markets" id="86" weight="714" />
+      <edge source="packaged foods and meats" target="construction materials" id="87" weight="747" />
+      <edge source="industrial machinery and supplies and components" target="hotels, resorts and cruise lines" id="88" weight="710" />
+      <edge source="industrial machinery and supplies and components" target="construction and engineering" id="89" weight="898" />
+      <edge source="industrial machinery and supplies and components" target="trading companies and distributors" id="90" weight="1225" />
+      <edge source="industrial machinery and supplies and components" target="apparel accessories and luxury goods" id="91" weight="1103" />
+      <edge source="industrial machinery and supplies and components" target="research and consulting services" id="92" weight="1039" />
+      <edge source="industrial machinery and supplies and components" target="multi_line insurance" id="93" weight="1193" />
+      <edge source="industrial machinery and supplies and components" target="aerospace and defense" id="94" weight="1297" />
+      <edge source="industrial machinery and supplies and components" target="specialty chemicals" id="95" weight="1465" />
+      <edge source="industrial machinery and supplies and components" target="it consulting and other services" id="96" weight="759" />
+      <edge source="industrial machinery and supplies and components" target="building products" id="97" weight="883" />
+      <edge source="industrial machinery and supplies and components" target="application software" id="98" weight="736" />
+      <edge source="industrial machinery and supplies and components" target="life sciences tools and services" id="99" weight="825" />
+      <edge source="industrial machinery and supplies and components" target="diversified chemicals" id="100" weight="757" />
+      <edge source="industrial machinery and supplies and components" target="automobile manufacturers" id="101" weight="784" />
+      <edge source="industrial machinery and supplies and components" target="personal care products" id="102" weight="906" />
+      <edge source="industrial machinery and supplies and components" target="health care equipment" id="103" weight="1095" />
+      <edge source="industrial machinery and supplies and components" target="integrated oil and gas" id="104" weight="1018" />
+      <edge source="industrial machinery and supplies and components" target="integrated telecommunication services" id="105" weight="789" />
+      <edge source="industrial machinery and supplies and components" target="diversified capital markets" id="106" weight="873" />
+      <edge source="industrial machinery and supplies and components" target="construction materials" id="107" weight="880" />
+      <edge source="industrial machinery and supplies and components" target="industrial conglomerates" id="108" weight="720" />
+      <edge source="industrial machinery and supplies and components" target="electric utilities" id="109" weight="914" />
+      <edge source="industrial machinery and supplies and components" target="multi-sector holdings" id="110" weight="712" />
+      <edge source="industrial machinery and supplies and components" target="reinsurance" id="111" weight="702" />
+      <edge source="industrial machinery and supplies and components" target="construction machinery and heavy transportation equipment" id="112" weight="881" />
+      <edge source="trading companies and distributors" target="apparel accessories and luxury goods" id="113" weight="736" />
+      <edge source="trading companies and distributors" target="research and consulting services" id="114" weight="726" />
+      <edge source="trading companies and distributors" target="multi_line insurance" id="115" weight="877" />
+      <edge source="trading companies and distributors" target="aerospace and defense" id="116" weight="1053" />
+      <edge source="trading companies and distributors" target="specialty chemicals" id="117" weight="963" />
+      <edge source="trading companies and distributors" target="health care equipment" id="118" weight="765" />
+      <edge source="apparel accessories and luxury goods" target="construction and engineering" id="119" weight="707" />
+      <edge source="apparel accessories and luxury goods" target="research and consulting services" id="120" weight="849" />
+      <edge source="apparel accessories and luxury goods" target="multi_line insurance" id="121" weight="899" />
+      <edge source="apparel accessories and luxury goods" target="aerospace and defense" id="122" weight="937" />
+      <edge source="apparel accessories and luxury goods" target="specialty chemicals" id="123" weight="994" />
+      <edge source="apparel accessories and luxury goods" target="it consulting and other services" id="124" weight="754" />
+      <edge source="apparel accessories and luxury goods" target="personal care products" id="125" weight="865" />
+      <edge source="apparel accessories and luxury goods" target="health care equipment" id="126" weight="806" />
+      <edge source="apparel accessories and luxury goods" target="integrated oil and gas" id="127" weight="751" />
+      <edge source="apparel accessories and luxury goods" target="diversified capital markets" id="128" weight="719" />
+      <edge source="apparel accessories and luxury goods" target="construction materials" id="129" weight="734" />
+      <edge source="apparel accessories and luxury goods" target="multi-sector holdings" id="130" weight="703" />
+      <edge source="research and consulting services" target="aerospace and defense" id="131" weight="858" />
+      <edge source="research and consulting services" target="specialty chemicals" id="132" weight="852" />
+      <edge source="research and consulting services" target="personal care products" id="133" weight="808" />
+      <edge source="research and consulting services" target="integrated oil and gas" id="134" weight="748" />
+      <edge source="research and consulting services" target="multi-sector holdings" id="135" weight="725" />
+      <edge source="multi_line insurance" target="aerospace and defense" id="136" weight="942" />
+      <edge source="multi_line insurance" target="specialty chemicals" id="137" weight="1041" />
+      <edge source="multi_line insurance" target="it consulting and other services" id="138" weight="769" />
+      <edge source="multi_line insurance" target="life sciences tools and services" id="139" weight="736" />
+      <edge source="multi_line insurance" target="personal care products" id="140" weight="708" />
+      <edge source="multi_line insurance" target="health care equipment" id="141" weight="838" />
+      <edge source="multi_line insurance" target="integrated oil and gas" id="142" weight="834" />
+      <edge source="multi_line insurance" target="integrated telecommunication services" id="143" weight="724" />
+      <edge source="multi_line insurance" target="diversified capital markets" id="144" weight="1083" />
+      <edge source="multi_line insurance" target="construction materials" id="145" weight="725" />
+      <edge source="multi_line insurance" target="electric utilities" id="146" weight="767" />
+      <edge source="multi_line insurance" target="reinsurance" id="147" weight="706" />
+      <edge source="aerospace and defense" target="hotels, resorts and cruise lines" id="148" weight="718" />
+      <edge source="aerospace and defense" target="construction and engineering" id="149" weight="787" />
+      <edge source="aerospace and defense" target="specialty chemicals" id="150" weight="1158" />
+      <edge source="aerospace and defense" target="it consulting and other services" id="151" weight="808" />
+      <edge source="aerospace and defense" target="life sciences tools and services" id="152" weight="716" />
+      <edge source="aerospace and defense" target="automobile manufacturers" id="153" weight="832" />
+      <edge source="aerospace and defense" target="personal care products" id="154" weight="804" />
+      <edge source="aerospace and defense" target="health care equipment" id="155" weight="882" />
+      <edge source="aerospace and defense" target="integrated oil and gas" id="156" weight="981" />
+      <edge source="aerospace and defense" target="restaurants" id="157" weight="729" />
+      <edge source="aerospace and defense" target="diversified capital markets" id="158" weight="726" />
+      <edge source="aerospace and defense" target="construction materials" id="159" weight="747" />
+      <edge source="aerospace and defense" target="electric utilities" id="160" weight="716" />
+      <edge source="specialty chemicals" target="construction and engineering" id="161" weight="765" />
+      <edge source="specialty chemicals" target="it consulting and other services" id="162" weight="723" />
+      <edge source="specialty chemicals" target="life sciences tools and services" id="163" weight="786" />
+      <edge source="specialty chemicals" target="diversified chemicals" id="164" weight="805" />
+      <edge source="specialty chemicals" target="automobile manufacturers" id="165" weight="727" />
+      <edge source="specialty chemicals" target="personal care products" id="166" weight="885" />
+      <edge source="specialty chemicals" target="health care equipment" id="167" weight="918" />
+      <edge source="specialty chemicals" target="integrated oil and gas" id="168" weight="930" />
+      <edge source="specialty chemicals" target="diversified capital markets" id="169" weight="759" />
+      <edge source="specialty chemicals" target="construction materials" id="170" weight="768" />
+      <edge source="specialty chemicals" target="electric utilities" id="171" weight="731" />
+      <edge source="specialty chemicals" target="multi-sector holdings" id="172" weight="707" />
+      <edge source="specialty chemicals" target="construction machinery and heavy transportation equipment" id="173" weight="703" />
+      <edge source="personal care products" target="integrated oil and gas" id="174" weight="772" />
+      <edge source="health care equipment" target="life sciences tools and services" id="175" weight="799" />
+      <edge source="health care equipment" target="integrated oil and gas" id="176" weight="736" />
+      <edge source="integrated oil and gas" target="construction and engineering" id="177" weight="708" />
+      <edge source="integrated oil and gas" target="electric utilities" id="178" weight="771" />
+      <edge source="diversified capital markets" target="life sciences tools and services" id="179" weight="701" />
+      <edge source="multi-sector holdings" target="agricultural and farm machinery" id="180" weight="1145" />
+    </edges>
+  </graph>
+</gexf>

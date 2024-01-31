@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-28">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="city" type="string" />
+      <attribute id="1" title="country" type="string" />
+      <attribute id="2" title="dep" type="string" />
+      <attribute id="3" title="exchange" type="string" />
+      <attribute id="4" title="fac" type="string" />
+      <attribute id="5" title="gpe" type="string" />
+      <attribute id="6" title="home_city" type="string" />
+      <attribute id="7" title="home_country" type="string" />
+      <attribute id="8" title="industry" type="string" />
+      <attribute id="9" title="iq_capex" type="string" />
+      <attribute id="10" title="iq_cash_oper" type="string" />
+      <attribute id="11" title="iq_cogs" type="string" />
+      <attribute id="12" title="iq_cost_rev" type="string" />
+      <attribute id="13" title="iq_curr_taxes" type="string" />
+      <attribute id="14" title="iq_ebitda" type="string" />
+      <attribute id="15" title="iq_ebitda_margin" type="string" />
+      <attribute id="16" title="iq_gp" type="string" />
+      <attribute id="17" title="iq_gross_margin" type="string" />
+      <attribute id="18" title="iq_int_exp_ltd" type="string" />
+      <attribute id="19" title="iq_marketcap" type="string" />
+      <attribute id="20" title="iq_net_debt" type="string" />
+      <attribute id="21" title="iq_ni" type="string" />
+      <attribute id="22" title="iq_ni_margin" type="string" />
+      <attribute id="23" title="iq_oper_inc" type="string" />
+      <attribute id="24" title="iq_return_assets" type="string" />
+      <attribute id="25" title="iq_return_equity" type="string" />
+      <attribute id="26" title="iq_total_assets" type="string" />
+      <attribute id="27" title="iq_total_debt_capital" type="string" />
+      <attribute id="28" title="iq_total_debt_equity" type="string" />
+      <attribute id="29" title="iq_total_equity" type="string" />
+      <attribute id="30" title="iq_total_liab" type="string" />
+      <attribute id="31" title="iq_total_rev" type="string" />
+      <attribute id="32" title="loc" type="string" />
+      <attribute id="33" title="norp" type="string" />
+      <attribute id="34" title="org" type="string" />
+      <attribute id="35" title="other" type="string" />
+      <attribute id="36" title="person" type="string" />
+      <attribute id="37" title="cardinal" type="string" />
+      <attribute id="38" title="law" type="string" />
+      <attribute id="39" title="ordinal" type="string" />
+      <attribute id="40" title="date" type="string" />
+    </attributes>
+    <nodes>
+      <node id="wienerberger ag" label="wienerberger ag">
+        <attvalues>
+          <attvalue for="0" value="budapest" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="2" value="group marketing" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="4" value="mcgraw hill construction dodge" />
+          <attvalue for="5" value="holland bv zaltbommel" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="construction materials" />
+          <attvalue for="9" value="-163.575" />
+          <attvalue for="10" value="333.771" />
+          <attvalue for="11" value="2011.241" />
+          <attvalue for="12" value="2011.241" />
+          <attvalue for="13" value="40.481" />
+          <attvalue for="14" value="385.066" />
+          <attvalue for="15" value="12.9484" />
+          <attvalue for="16" value="962.588" />
+          <attvalue for="17" value="32.3686" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="1929.19706" />
+          <attvalue for="20" value="654.577" />
+          <attvalue for="21" value="113.504" />
+          <attvalue for="22" value="3.8167" />
+          <attvalue for="23" value="193.754" />
+          <attvalue for="24" value="3.3046" />
+          <attvalue for="25" value="5.9093" />
+          <attvalue for="26" value="3637.177" />
+          <attvalue for="27" value="32.2804" />
+          <attvalue for="28" value="47.6678" />
+          <attvalue for="29" value="1848.956" />
+          <attvalue for="30" value="1788.221" />
+          <attvalue for="31" value="2973.829" />
+          <attvalue for="32" value="europe concrete pavers nr" />
+          <attvalue for="33" value="turkish lira" />
+          <attvalue for="34" value="erste group bank ag" />
+          <attvalue for="35" value="nf abbreviation" />
+          <attvalue for="36" value="lieve van utterbeeck" />
+        </attvalues>
+      </node>
+      <node id="bawag group ag" label="bawag group ag">
+        <attvalues>
+          <attvalue for="37" value="lower tier ii eur" />
+          <attvalue for="0" value="salzburg" />
+          <attvalue for="1" value="china" />
+          <attvalue for="2" value="human resources" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="bplcz one" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="diversified banks" />
+          <attvalue for="9" value="-4" />
+          <attvalue for="10" value="1457" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="3.4" />
+          <attvalue for="16" value="816.2" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="0" />
+          <attvalue for="20" value="4030" />
+          <attvalue for="21" value="473.4" />
+          <attvalue for="22" value="58.0004" />
+          <attvalue for="23" value="399.1" />
+          <attvalue for="24" value="1.255" />
+          <attvalue for="25" value="15.5738" />
+          <attvalue for="26" value="39761" />
+          <attvalue for="27" value="0" />
+          <attvalue for="28" value="0" />
+          <attvalue for="29" value="3125" />
+          <attvalue for="30" value="36636" />
+          <attvalue for="31" value="816.2" />
+          <attvalue for="38" value="federal banking act" />
+          <attvalue for="33" value="european parliament" />
+          <attvalue for="39" value="first data" />
+          <attvalue for="34" value="easybank ag" />
+          <attvalue for="35" value="financial times" />
+          <attvalue for="36" value="bawag psks" />
+        </attvalues>
+      </node>
+      <node id="voestalpine ag" label="voestalpine ag">
+        <attvalues>
+          <attvalue for="0" value="innsbruck" />
+          <attvalue for="1" value="austria" />
+          <attvalue for="40" value="quarterly development" />
+          <attvalue for="2" value="procurement strategy" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="edelstahlwerke buderus nederland" />
+          <attvalue for="6" value="linz" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="steel" />
+          <attvalue for="9" value="-1284.3" />
+          <attvalue for="10" value="1282.2" />
+          <attvalue for="11" value="8631.7" />
+          <attvalue for="12" value="8631.7" />
+          <attvalue for="13" value="145.2" />
+          <attvalue for="14" value="1424" />
+          <attvalue for="15" value="12.8651" />
+          <attvalue for="16" value="2437" />
+          <attvalue for="17" value="22.017" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="6522.78791" />
+          <attvalue for="20" value="3147.7" />
+          <attvalue for="21" value="607.8" />
+          <attvalue for="22" value="5.4911" />
+          <attvalue for="23" value="757.8" />
+          <attvalue for="24" value="3.481" />
+          <attvalue for="25" value="11.1845" />
+          <attvalue for="26" value="14006.6" />
+          <attvalue for="27" value="43.085" />
+          <attvalue for="28" value="75.7006" />
+          <attvalue for="29" value="5651.6" />
+          <attvalue for="30" value="8355" />
+          <attvalue for="31" value="11068.7" />
+          <attvalue for="38" value="the stock exchange act" />
+          <attvalue for="32" value="north america" />
+          <attvalue for="33" value="track solutions saudi arabilimited" />
+          <attvalue for="34" value="voestalpine group" />
+          <attvalue for="35" value="group positions" />
+          <attvalue for="36" value="gerhard scheidreiter" />
+        </attvalues>
+      </node>
+      <node id="raiffeisen bank international ag" label="raiffeisen bank international ag">
+        <attvalues>
+          <attvalue for="37" value="ba development ii" />
+          <attvalue for="0" value="zhuhai" />
+          <attvalue for="1" value="poland" />
+          <attvalue for="2" value="audit and compliance" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="chişinău" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="diversified banks" />
+          <attvalue for="9" value="-363.38" />
+          <attvalue for="10" value="1336.271" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="282.467" />
+          <attvalue for="16" value="3874.154" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="160.549" />
+          <attvalue for="19" value="5083.11228" />
+          <attvalue for="20" value="8495.562" />
+          <attvalue for="21" value="463.104" />
+          <attvalue for="22" value="11.9536" />
+          <attvalue for="23" value="920.128" />
+          <attvalue for="24" value="0.5069" />
+          <attvalue for="25" value="6.4694" />
+          <attvalue for="26" value="111863.845" />
+          <attvalue for="27" value="0" />
+          <attvalue for="28" value="0" />
+          <attvalue for="29" value="9232.129" />
+          <attvalue for="30" value="102631.716" />
+          <attvalue for="31" value="3874.154" />
+          <attvalue for="38" value="hungarian settlement act" />
+          <attvalue for="32" value="central and eastern europe" />
+          <attvalue for="33" value="european central bank" />
+          <attvalue for="34" value="aspius immobilien holding international gmbh" />
+          <attvalue for="35" value="maharal hotels" />
+          <attvalue for="36" value="jianguomenwai dajie" />
+        </attvalues>
+      </node>
+      <node id="verbund ag" label="verbund ag">
+        <attvalues>
+          <attvalue for="0" value="budapest" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="40" value="annual financial report group investments" />
+          <attvalue for="2" value="compliance gso" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="toul power sas" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="electric utilities" />
+          <attvalue for="9" value="-248.146" />
+          <attvalue for="10" value="804.307" />
+          <attvalue for="11" value="1389.798" />
+          <attvalue for="12" value="1389.798" />
+          <attvalue for="13" value="-6.7" />
+          <attvalue for="14" value="921.64" />
+          <attvalue for="15" value="32.8423" />
+          <attvalue for="16" value="1416.457" />
+          <attvalue for="17" value="50.4749" />
+          <attvalue for="18" value="101" />
+          <attvalue for="19" value="5272.03304" />
+          <attvalue for="20" value="2718.715" />
+          <attvalue for="21" value="424.423" />
+          <attvalue for="22" value="15.1241" />
+          <attvalue for="23" value="582.288" />
+          <attvalue for="24" value="3.1237" />
+          <attvalue for="25" value="8.3837" />
+          <attvalue for="26" value="11538.188" />
+          <attvalue for="27" value="33.1877" />
+          <attvalue for="28" value="49.6731" />
+          <attvalue for="29" value="5529.501" />
+          <attvalue for="30" value="6008.687" />
+          <attvalue for="31" value="2806.255" />
+          <attvalue for="38" value="federal energy efficiency act" />
+          <attvalue for="32" value="central european gas hub" />
+          <attvalue for="33" value="european central bank" />
+          <attvalue for="34" value="société générale" />
+          <attvalue for="35" value="wiener städtische versicherung" />
+          <attvalue for="36" value="peter layr" />
+        </attvalues>
+      </node>
+      <node id="erste group bank ag" label="erste group bank ag">
+        <attvalues>
+          <attvalue for="37" value="five brave" />
+          <attvalue for="0" value="budapest" />
+          <attvalue for="1" value="austria" />
+          <attvalue for="2" value="digital sales" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="radkersburg umgebung" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="diversified banks" />
+          <attvalue for="9" value="-643" />
+          <attvalue for="10" value="-4385" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="363.4" />
+          <attvalue for="16" value="6643.51" />
+          <attvalue for="17" value="0" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="11394.50843" />
+          <attvalue for="20" value="9359.423" />
+          <attvalue for="21" value="1264.728" />
+          <attvalue for="22" value="19.037" />
+          <attvalue for="23" value="2302.085" />
+          <attvalue for="24" value="0.7533" />
+          <attvalue for="25" value="9.7853" />
+          <attvalue for="26" value="208227.07" />
+          <attvalue for="27" value="0" />
+          <attvalue for="28" value="0" />
+          <attvalue for="29" value="16601.996" />
+          <attvalue for="30" value="191625.074" />
+          <attvalue for="31" value="6643.51" />
+          <attvalue for="38" value="eu capital requirements directive iv" />
+          <attvalue for="32" value="visa europe" />
+          <attvalue for="33" value="seg sport event gmbh hohenems" />
+          <attvalue for="34" value="salzburger sparkasse leasing gesellschaft mbh" />
+          <attvalue for="35" value="risk methods and models" />
+          <attvalue for="36" value="john james stack" />
+        </attvalues>
+      </node>
+      <node id="omv ag" label="omv ag">
+        <attvalues>
+          <attvalue for="37" value="kbbld thousand barrels" />
+          <attvalue for="0" value="budapest" />
+          <attvalue for="1" value="united states" />
+          <attvalue for="40" value="global energy monthly" />
+          <attvalue for="2" value="exploration development production gas oil" />
+          <attvalue for="3" value="wbag" />
+          <attvalue for="5" value="österreich gesellschaft mbh" />
+          <attvalue for="6" value="vienna" />
+          <attvalue for="7" value="austria" />
+          <attvalue for="8" value="integrated oil and gas" />
+          <attvalue for="9" value="-2022" />
+          <attvalue for="10" value="2878" />
+          <attvalue for="11" value="14273" />
+          <attvalue for="12" value="14273" />
+          <attvalue for="13" value="130" />
+          <attvalue for="14" value="3702" />
+          <attvalue for="15" value="19.2211" />
+          <attvalue for="16" value="4987" />
+          <attvalue for="17" value="25.893" />
+          <attvalue for="18" value="0" />
+          <attvalue for="19" value="10952.54683" />
+          <attvalue for="20" value="2433" />
+          <attvalue for="21" value="-301" />
+          <attvalue for="22" value="-1.5628" />
+          <attvalue for="23" value="1252" />
+          <attvalue for="24" value="2.416" />
+          <attvalue for="25" value="-1.2968" />
+          <attvalue for="26" value="32112" />
+          <attvalue for="27" value="27.4777" />
+          <attvalue for="28" value="37.8886" />
+          <attvalue for="29" value="13925" />
+          <attvalue for="30" value="18187" />
+          <attvalue for="31" value="19260" />
+          <attvalue for="32" value="central european gas hub" />
+          <attvalue for="33" value="trir total recordable injury rate try turkish lira" />
+          <attvalue for="34" value="adriawien pipeline gmbh" />
+          <attvalue for="35" value="net operating profit after tax" />
+          <attvalue for="36" value="elif bilgi zapparoli" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="wienerberger ag" target="voestalpine ag" id="0" weight="3.700000000000002" />
+      <edge source="wienerberger ag" target="bawag group ag" id="1" weight="2.3000000000000007" />
+      <edge source="wienerberger ag" target="erste group bank ag" id="2" weight="3.700000000000002" />
+      <edge source="wienerberger ag" target="raiffeisen bank international ag" id="3" weight="4.200000000000001" />
+      <edge source="wienerberger ag" target="omv ag" id="4" weight="2.9000000000000012" />
+      <edge source="wienerberger ag" target="verbund ag" id="5" weight="3.4000000000000017" />
+      <edge source="bawag group ag" target="omv ag" id="6" weight="2.2000000000000006" />
+      <edge source="bawag group ag" target="raiffeisen bank international ag" id="7" weight="2.700000000000001" />
+      <edge source="bawag group ag" target="erste group bank ag" id="8" weight="3.2000000000000015" />
+      <edge source="bawag group ag" target="verbund ag" id="9" weight="3.1000000000000014" />
+      <edge source="bawag group ag" target="voestalpine ag" id="10" weight="2.1" />
+      <edge source="voestalpine ag" target="raiffeisen bank international ag" id="11" weight="3.900000000000002" />
+      <edge source="voestalpine ag" target="erste group bank ag" id="12" weight="3.1000000000000014" />
+      <edge source="voestalpine ag" target="omv ag" id="13" weight="2.9000000000000012" />
+      <edge source="voestalpine ag" target="verbund ag" id="14" weight="3.900000000000002" />
+      <edge source="raiffeisen bank international ag" target="omv ag" id="15" weight="5.0" />
+      <edge source="raiffeisen bank international ag" target="erste group bank ag" id="16" weight="5.000000000000001" />
+      <edge source="raiffeisen bank international ag" target="verbund ag" id="17" weight="4.100000000000001" />
+      <edge source="verbund ag" target="erste group bank ag" id="18" weight="5.299999999999999" />
+      <edge source="verbund ag" target="omv ag" id="19" weight="3.600000000000002" />
+      <edge source="erste group bank ag" target="omv ag" id="20" weight="3.700000000000002" />
+    </edges>
+  </graph>
+</gexf>
